@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.exe
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\bin\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.exe
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\bin\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\bin\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\bin\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\bin\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\bin\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\obj\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\obj\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\obj\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\obj\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\obj\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\obj\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\obj\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Numbers 1-N Steps 3\obj\Debug\netcoreapp3.1\03. Numbers 1-N Steps 3.genruntimeconfig.cache

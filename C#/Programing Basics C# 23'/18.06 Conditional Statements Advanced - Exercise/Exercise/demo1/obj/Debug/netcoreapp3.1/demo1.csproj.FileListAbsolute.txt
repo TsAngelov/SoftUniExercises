@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\obj\Debug\netcoreapp3.1\demo1.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\obj\Debug\netcoreapp3.1\demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\obj\Debug\netcoreapp3.1\demo1.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\obj\Debug\netcoreapp3.1\demo1.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\obj\Debug\netcoreapp3.1\demo1.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\bin\Debug\netcoreapp3.1\demo1.exe
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\bin\Debug\netcoreapp3.1\demo1.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\bin\Debug\netcoreapp3.1\demo1.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\bin\Debug\netcoreapp3.1\demo1.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\bin\Debug\netcoreapp3.1\demo1.dll
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\bin\Debug\netcoreapp3.1\demo1.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\obj\Debug\netcoreapp3.1\demo1.dll
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\obj\Debug\netcoreapp3.1\demo1.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\demo1\obj\Debug\netcoreapp3.1\demo1.genruntimeconfig.cache

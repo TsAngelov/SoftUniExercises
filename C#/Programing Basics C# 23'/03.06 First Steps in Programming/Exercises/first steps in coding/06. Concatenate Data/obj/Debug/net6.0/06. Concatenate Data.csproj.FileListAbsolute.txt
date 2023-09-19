@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.exe
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.deps.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.runtimeconfig.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\obj\Debug\net6.0\refint\06. Concatenate Data.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\06. Concatenate Data\obj\Debug\net6.0\ref\06. Concatenate Data.dll

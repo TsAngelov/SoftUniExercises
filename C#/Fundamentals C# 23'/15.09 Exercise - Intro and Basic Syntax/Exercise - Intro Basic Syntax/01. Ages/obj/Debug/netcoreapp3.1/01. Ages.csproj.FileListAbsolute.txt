@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache

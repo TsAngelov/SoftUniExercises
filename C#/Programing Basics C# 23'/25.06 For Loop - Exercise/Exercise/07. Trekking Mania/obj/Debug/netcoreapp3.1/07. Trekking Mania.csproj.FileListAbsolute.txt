@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.exe
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.dll
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.dll
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\25.06 For Loop - Exercise\Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.genruntimeconfig.cache

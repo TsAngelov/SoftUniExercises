@@ -1,0 +1,28 @@
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.exe
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.dll
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.dll
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.genruntimeconfig.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.exe
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.dll
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.dll
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.genruntimeconfig.cache

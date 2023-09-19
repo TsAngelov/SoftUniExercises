@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\bin\Debug\netcoreapp3.1\07. Theatre Promotion.exe
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\bin\Debug\netcoreapp3.1\07. Theatre Promotion.deps.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\bin\Debug\netcoreapp3.1\07. Theatre Promotion.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\bin\Debug\netcoreapp3.1\07. Theatre Promotion.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\bin\Debug\netcoreapp3.1\07. Theatre Promotion.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\bin\Debug\netcoreapp3.1\07. Theatre Promotion.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.genruntimeconfig.cache

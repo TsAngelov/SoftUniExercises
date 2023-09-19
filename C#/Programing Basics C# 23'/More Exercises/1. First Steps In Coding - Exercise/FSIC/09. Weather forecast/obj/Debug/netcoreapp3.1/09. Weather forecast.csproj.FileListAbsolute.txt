@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\bin\Debug\netcoreapp3.1\09. Weather forecast.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\bin\Debug\netcoreapp3.1\09. Weather forecast.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\bin\Debug\netcoreapp3.1\09. Weather forecast.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\bin\Debug\netcoreapp3.1\09. Weather forecast.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\bin\Debug\netcoreapp3.1\09. Weather forecast.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\bin\Debug\netcoreapp3.1\09. Weather forecast.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\obj\Debug\netcoreapp3.1\09. Weather forecast.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\obj\Debug\netcoreapp3.1\09. Weather forecast.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\obj\Debug\netcoreapp3.1\09. Weather forecast.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\obj\Debug\netcoreapp3.1\09. Weather forecast.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\obj\Debug\netcoreapp3.1\09. Weather forecast.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\obj\Debug\netcoreapp3.1\09. Weather forecast.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\obj\Debug\netcoreapp3.1\09. Weather forecast.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\09. Weather forecast\obj\Debug\netcoreapp3.1\09. Weather forecast.genruntimeconfig.cache

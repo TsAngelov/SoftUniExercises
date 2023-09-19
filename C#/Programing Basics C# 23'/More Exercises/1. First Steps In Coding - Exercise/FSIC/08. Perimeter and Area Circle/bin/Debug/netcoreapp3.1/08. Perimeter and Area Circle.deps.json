@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "08. Perimeter and Area Circle/1.0.0": {
+        "runtime": {
+          "08. Perimeter and Area Circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08. Perimeter and Area Circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\bin\Debug\netcoreapp3.1\ConsoleAppDemo.exe
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\bin\Debug\netcoreapp3.1\ConsoleAppDemo.deps.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\bin\Debug\netcoreapp3.1\ConsoleAppDemo.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\bin\Debug\netcoreapp3.1\ConsoleAppDemo.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\bin\Debug\netcoreapp3.1\ConsoleAppDemo.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\bin\Debug\netcoreapp3.1\ConsoleAppDemo.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\obj\Debug\netcoreapp3.1\ConsoleAppDemo.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\obj\Debug\netcoreapp3.1\ConsoleAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\obj\Debug\netcoreapp3.1\ConsoleAppDemo.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\obj\Debug\netcoreapp3.1\ConsoleAppDemo.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\obj\Debug\netcoreapp3.1\ConsoleAppDemo.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\obj\Debug\netcoreapp3.1\ConsoleAppDemo.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\obj\Debug\netcoreapp3.1\ConsoleAppDemo.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\ConsoleAppDemo\obj\Debug\netcoreapp3.1\ConsoleAppDemo.genruntimeconfig.cache

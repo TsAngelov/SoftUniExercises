@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.exe
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.dll
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.dll
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\bin\Debug\netcoreapp3.1\12. Trade Commisions.exe
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\bin\Debug\netcoreapp3.1\12. Trade Commisions.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\bin\Debug\netcoreapp3.1\12. Trade Commisions.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\bin\Debug\netcoreapp3.1\12. Trade Commisions.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\bin\Debug\netcoreapp3.1\12. Trade Commisions.dll
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\bin\Debug\netcoreapp3.1\12. Trade Commisions.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\obj\Debug\netcoreapp3.1\12. Trade Commisions.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\obj\Debug\netcoreapp3.1\12. Trade Commisions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\obj\Debug\netcoreapp3.1\12. Trade Commisions.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\obj\Debug\netcoreapp3.1\12. Trade Commisions.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\obj\Debug\netcoreapp3.1\12. Trade Commisions.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\obj\Debug\netcoreapp3.1\12. Trade Commisions.dll
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\obj\Debug\netcoreapp3.1\12. Trade Commisions.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\12. Trade Commisions\obj\Debug\netcoreapp3.1\12. Trade Commisions.genruntimeconfig.cache

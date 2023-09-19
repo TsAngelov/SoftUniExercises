@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\bin\Debug\netcoreapp3.1\01. Seconds Sum.exe
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\bin\Debug\netcoreapp3.1\01. Seconds Sum.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\bin\Debug\netcoreapp3.1\01. Seconds Sum.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\bin\Debug\netcoreapp3.1\01. Seconds Sum.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\bin\Debug\netcoreapp3.1\01. Seconds Sum.dll
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\bin\Debug\netcoreapp3.1\01. Seconds Sum.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\obj\Debug\netcoreapp3.1\01. Seconds Sum.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\obj\Debug\netcoreapp3.1\01. Seconds Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\obj\Debug\netcoreapp3.1\01. Seconds Sum.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\obj\Debug\netcoreapp3.1\01. Seconds Sum.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\obj\Debug\netcoreapp3.1\01. Seconds Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\obj\Debug\netcoreapp3.1\01. Seconds Sum.dll
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\obj\Debug\netcoreapp3.1\01. Seconds Sum.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\01. Seconds Sum\obj\Debug\netcoreapp3.1\01. Seconds Sum.genruntimeconfig.cache

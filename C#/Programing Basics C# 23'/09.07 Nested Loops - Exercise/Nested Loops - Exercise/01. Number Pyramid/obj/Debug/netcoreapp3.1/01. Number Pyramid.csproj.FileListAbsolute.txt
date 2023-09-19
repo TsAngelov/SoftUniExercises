@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\netcoreapp3.1\01. Number Pyramid.exe
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\netcoreapp3.1\01. Number Pyramid.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\netcoreapp3.1\01. Number Pyramid.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\netcoreapp3.1\01. Number Pyramid.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\netcoreapp3.1\01. Number Pyramid.dll
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\netcoreapp3.1\01. Number Pyramid.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.dll
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.genruntimeconfig.cache

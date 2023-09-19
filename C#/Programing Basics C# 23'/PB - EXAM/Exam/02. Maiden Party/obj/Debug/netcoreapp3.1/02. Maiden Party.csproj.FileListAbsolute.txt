@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\bin\Debug\netcoreapp3.1\02. Maiden Party.exe
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\bin\Debug\netcoreapp3.1\02. Maiden Party.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\bin\Debug\netcoreapp3.1\02. Maiden Party.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\bin\Debug\netcoreapp3.1\02. Maiden Party.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\bin\Debug\netcoreapp3.1\02. Maiden Party.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\bin\Debug\netcoreapp3.1\02. Maiden Party.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\bin\Debug\netcoreapp3.1\05. Square Border.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\bin\Debug\netcoreapp3.1\05. Square Border.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\bin\Debug\netcoreapp3.1\05. Square Border.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\bin\Debug\netcoreapp3.1\05. Square Border.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\bin\Debug\netcoreapp3.1\05. Square Border.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\bin\Debug\netcoreapp3.1\05. Square Border.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\obj\Debug\netcoreapp3.1\05. Square Border.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\obj\Debug\netcoreapp3.1\05. Square Border.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\obj\Debug\netcoreapp3.1\05. Square Border.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\obj\Debug\netcoreapp3.1\05. Square Border.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\obj\Debug\netcoreapp3.1\05. Square Border.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\obj\Debug\netcoreapp3.1\05. Square Border.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\obj\Debug\netcoreapp3.1\05. Square Border.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\05. Square Border\obj\Debug\netcoreapp3.1\05. Square Border.genruntimeconfig.cache

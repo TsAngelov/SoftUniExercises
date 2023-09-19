@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.genruntimeconfig.cache

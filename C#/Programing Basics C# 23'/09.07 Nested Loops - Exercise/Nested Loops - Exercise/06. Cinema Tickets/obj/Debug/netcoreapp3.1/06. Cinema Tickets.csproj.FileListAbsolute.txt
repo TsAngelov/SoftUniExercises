@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.exe
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.dll
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.dll
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.genruntimeconfig.cache

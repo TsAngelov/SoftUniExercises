@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.genruntimeconfig.cache

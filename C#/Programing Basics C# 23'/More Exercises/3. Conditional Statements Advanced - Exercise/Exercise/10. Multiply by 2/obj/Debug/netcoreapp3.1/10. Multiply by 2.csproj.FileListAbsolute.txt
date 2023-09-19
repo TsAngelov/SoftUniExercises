@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\bin\Debug\netcoreapp3.1\10. Multiply by 2.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\bin\Debug\netcoreapp3.1\10. Multiply by 2.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\bin\Debug\netcoreapp3.1\10. Multiply by 2.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\bin\Debug\netcoreapp3.1\10. Multiply by 2.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\bin\Debug\netcoreapp3.1\10. Multiply by 2.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\bin\Debug\netcoreapp3.1\10. Multiply by 2.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\obj\Debug\netcoreapp3.1\10. Multiply by 2.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\obj\Debug\netcoreapp3.1\10. Multiply by 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\obj\Debug\netcoreapp3.1\10. Multiply by 2.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\obj\Debug\netcoreapp3.1\10. Multiply by 2.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\obj\Debug\netcoreapp3.1\10. Multiply by 2.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\obj\Debug\netcoreapp3.1\10. Multiply by 2.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\obj\Debug\netcoreapp3.1\10. Multiply by 2.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\10. Multiply by 2\obj\Debug\netcoreapp3.1\10. Multiply by 2.genruntimeconfig.cache

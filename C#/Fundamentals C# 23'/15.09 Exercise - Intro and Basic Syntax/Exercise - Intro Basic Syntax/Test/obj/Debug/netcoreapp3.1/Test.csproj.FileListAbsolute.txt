@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.exe
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.dll
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.dll
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\bin\Debug\netcoreapp3.1\01. Rectangle 10x10.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\bin\Debug\netcoreapp3.1\01. Rectangle 10x10.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\bin\Debug\netcoreapp3.1\01. Rectangle 10x10.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\bin\Debug\netcoreapp3.1\01. Rectangle 10x10.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\bin\Debug\netcoreapp3.1\01. Rectangle 10x10.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\bin\Debug\netcoreapp3.1\01. Rectangle 10x10.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\obj\Debug\netcoreapp3.1\01. Rectangle 10x10.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\obj\Debug\netcoreapp3.1\01. Rectangle 10x10.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\obj\Debug\netcoreapp3.1\01. Rectangle 10x10.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\obj\Debug\netcoreapp3.1\01. Rectangle 10x10.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\obj\Debug\netcoreapp3.1\01. Rectangle 10x10.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\obj\Debug\netcoreapp3.1\01. Rectangle 10x10.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\obj\Debug\netcoreapp3.1\01. Rectangle 10x10.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\01. Rectangle 10x10\obj\Debug\netcoreapp3.1\01. Rectangle 10x10.genruntimeconfig.cache

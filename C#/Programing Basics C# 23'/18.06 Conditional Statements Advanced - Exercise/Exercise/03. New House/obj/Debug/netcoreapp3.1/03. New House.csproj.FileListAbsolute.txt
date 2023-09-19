@@ -1,0 +1,28 @@
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.exe
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.dll
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.dll
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.genruntimeconfig.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.exe
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.dll
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.dll
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.genruntimeconfig.cache

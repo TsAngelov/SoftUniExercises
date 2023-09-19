@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\bin\Debug\net6.0\09. Fishtank.exe
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\bin\Debug\net6.0\09. Fishtank.deps.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\bin\Debug\net6.0\09. Fishtank.runtimeconfig.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\bin\Debug\net6.0\09. Fishtank.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\bin\Debug\net6.0\09. Fishtank.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\obj\Debug\net6.0\09. Fishtank.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\obj\Debug\net6.0\09. Fishtank.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\obj\Debug\net6.0\09. Fishtank.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\obj\Debug\net6.0\09. Fishtank.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\obj\Debug\net6.0\09. Fishtank.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\obj\Debug\net6.0\09. Fishtank.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\obj\Debug\net6.0\refint\09. Fishtank.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\obj\Debug\net6.0\09. Fishtank.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\obj\Debug\net6.0\09. Fishtank.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\09. Fishtank\obj\Debug\net6.0\ref\09. Fishtank.dll

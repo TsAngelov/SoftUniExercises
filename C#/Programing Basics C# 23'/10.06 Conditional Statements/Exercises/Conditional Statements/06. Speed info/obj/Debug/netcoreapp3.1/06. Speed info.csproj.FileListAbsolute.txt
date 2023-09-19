@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\bin\Debug\netcoreapp3.1\06. Speed info.exe
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\bin\Debug\netcoreapp3.1\06. Speed info.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\bin\Debug\netcoreapp3.1\06. Speed info.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\bin\Debug\netcoreapp3.1\06. Speed info.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\bin\Debug\netcoreapp3.1\06. Speed info.dll
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\bin\Debug\netcoreapp3.1\06. Speed info.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\obj\Debug\netcoreapp3.1\06. Speed info.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\obj\Debug\netcoreapp3.1\06. Speed info.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\obj\Debug\netcoreapp3.1\06. Speed info.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\obj\Debug\netcoreapp3.1\06. Speed info.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\obj\Debug\netcoreapp3.1\06. Speed info.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\obj\Debug\netcoreapp3.1\06. Speed info.dll
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\obj\Debug\netcoreapp3.1\06. Speed info.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\06. Speed info\obj\Debug\netcoreapp3.1\06. Speed info.genruntimeconfig.cache

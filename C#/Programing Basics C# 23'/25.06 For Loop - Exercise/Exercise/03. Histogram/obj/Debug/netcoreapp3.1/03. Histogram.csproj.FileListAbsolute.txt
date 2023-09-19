@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.exe
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.genruntimeconfig.cache

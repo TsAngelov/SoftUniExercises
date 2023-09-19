@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\bin\Debug\netcoreapp3.1\03. Egg Painting.exe
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\bin\Debug\netcoreapp3.1\03. Egg Painting.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\bin\Debug\netcoreapp3.1\03. Egg Painting.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\bin\Debug\netcoreapp3.1\03. Egg Painting.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\bin\Debug\netcoreapp3.1\03. Egg Painting.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\bin\Debug\netcoreapp3.1\03. Egg Painting.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\obj\Debug\netcoreapp3.1\03. Egg Painting.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\obj\Debug\netcoreapp3.1\03. Egg Painting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\obj\Debug\netcoreapp3.1\03. Egg Painting.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\obj\Debug\netcoreapp3.1\03. Egg Painting.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\obj\Debug\netcoreapp3.1\03. Egg Painting.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\obj\Debug\netcoreapp3.1\03. Egg Painting.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\obj\Debug\netcoreapp3.1\03. Egg Painting.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\03. Egg Painting\obj\Debug\netcoreapp3.1\03. Egg Painting.genruntimeconfig.cache

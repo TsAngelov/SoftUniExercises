@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.exe
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.dll
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.dll
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.genruntimeconfig.cache

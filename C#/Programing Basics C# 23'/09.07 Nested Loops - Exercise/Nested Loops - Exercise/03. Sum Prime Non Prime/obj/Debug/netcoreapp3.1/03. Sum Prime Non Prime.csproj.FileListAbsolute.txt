@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.exe
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.dll
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.dll
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.genruntimeconfig.cache

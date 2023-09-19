@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.genruntimeconfig.cache

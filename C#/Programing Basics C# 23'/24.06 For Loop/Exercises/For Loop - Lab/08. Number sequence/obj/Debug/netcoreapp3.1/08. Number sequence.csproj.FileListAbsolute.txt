@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.exe
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.genruntimeconfig.cache

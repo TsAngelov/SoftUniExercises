@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.exe
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.dll
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.dll
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.genruntimeconfig.cache

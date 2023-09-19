@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\bin\Debug\netcoreapp3.1\04. Train the Trainers.exe
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\bin\Debug\netcoreapp3.1\04. Train the Trainers.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\bin\Debug\netcoreapp3.1\04. Train the Trainers.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\bin\Debug\netcoreapp3.1\04. Train the Trainers.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\bin\Debug\netcoreapp3.1\04. Train the Trainers.dll
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\bin\Debug\netcoreapp3.1\04. Train the Trainers.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\obj\Debug\netcoreapp3.1\04. Train the Trainers.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\obj\Debug\netcoreapp3.1\04. Train the Trainers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\obj\Debug\netcoreapp3.1\04. Train the Trainers.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\obj\Debug\netcoreapp3.1\04. Train the Trainers.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\obj\Debug\netcoreapp3.1\04. Train the Trainers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\obj\Debug\netcoreapp3.1\04. Train the Trainers.dll
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\obj\Debug\netcoreapp3.1\04. Train the Trainers.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\09.07 Nested Loops - Exercise\Nested Loops - Exercise\04. Train the Trainers\obj\Debug\netcoreapp3.1\04. Train the Trainers.genruntimeconfig.cache

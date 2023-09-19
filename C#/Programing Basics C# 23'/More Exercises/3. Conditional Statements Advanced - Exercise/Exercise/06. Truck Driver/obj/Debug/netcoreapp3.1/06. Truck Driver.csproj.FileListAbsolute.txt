@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.genruntimeconfig.cache

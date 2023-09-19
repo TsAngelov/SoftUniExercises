@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.exe
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\bin\Debug\net6.0\05. Supplies for School.exe
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\bin\Debug\net6.0\05. Supplies for School.deps.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\bin\Debug\net6.0\05. Supplies for School.runtimeconfig.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\bin\Debug\net6.0\05. Supplies for School.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\bin\Debug\net6.0\05. Supplies for School.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\obj\Debug\net6.0\05. Supplies for School.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\obj\Debug\net6.0\05. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\obj\Debug\net6.0\05. Supplies for School.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\obj\Debug\net6.0\05. Supplies for School.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\obj\Debug\net6.0\05. Supplies for School.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\obj\Debug\net6.0\05. Supplies for School.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\obj\Debug\net6.0\refint\05. Supplies for School.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\obj\Debug\net6.0\05. Supplies for School.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\obj\Debug\net6.0\05. Supplies for School.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\05. Supplies for School\obj\Debug\net6.0\ref\05. Supplies for School.dll

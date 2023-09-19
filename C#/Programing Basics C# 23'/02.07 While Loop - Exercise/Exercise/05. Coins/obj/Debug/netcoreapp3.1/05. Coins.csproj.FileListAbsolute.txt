@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.exe
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.dll
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.dll
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.genruntimeconfig.cache

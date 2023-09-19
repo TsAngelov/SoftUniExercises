@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\bin\Debug\netcoreapp3.1\06. Bills.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\bin\Debug\netcoreapp3.1\06. Bills.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\bin\Debug\netcoreapp3.1\06. Bills.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\bin\Debug\netcoreapp3.1\06. Bills.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\bin\Debug\netcoreapp3.1\06. Bills.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\bin\Debug\netcoreapp3.1\06. Bills.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\06. Bills\obj\Debug\netcoreapp3.1\06. Bills.genruntimeconfig.cache

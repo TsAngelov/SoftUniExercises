@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.genruntimeconfig.cache

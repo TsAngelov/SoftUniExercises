@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.genruntimeconfig.cache

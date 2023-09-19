@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\bin\Debug\net6.0\08. Basketball Equipment.exe
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\bin\Debug\net6.0\08. Basketball Equipment.deps.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\bin\Debug\net6.0\08. Basketball Equipment.runtimeconfig.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\bin\Debug\net6.0\08. Basketball Equipment.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\bin\Debug\net6.0\08. Basketball Equipment.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\obj\Debug\net6.0\refint\08. Basketball Equipment.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\08. Basketball Equipment\obj\Debug\net6.0\ref\08. Basketball Equipment.dll

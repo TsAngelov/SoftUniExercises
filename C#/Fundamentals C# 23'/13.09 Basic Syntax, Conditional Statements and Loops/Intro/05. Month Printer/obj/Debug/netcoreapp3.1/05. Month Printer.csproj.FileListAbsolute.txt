@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.exe
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.deps.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.genruntimeconfig.cache

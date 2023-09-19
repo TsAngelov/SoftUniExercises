@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\obj\Debug\netcoreapp3.1\01. Series Calculator.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\obj\Debug\netcoreapp3.1\01. Series Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\obj\Debug\netcoreapp3.1\01. Series Calculator.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\obj\Debug\netcoreapp3.1\01. Series Calculator.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\obj\Debug\netcoreapp3.1\01. Series Calculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\bin\Debug\netcoreapp3.1\01. Series Calculator.exe
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\bin\Debug\netcoreapp3.1\01. Series Calculator.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\bin\Debug\netcoreapp3.1\01. Series Calculator.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\bin\Debug\netcoreapp3.1\01. Series Calculator.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\bin\Debug\netcoreapp3.1\01. Series Calculator.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\bin\Debug\netcoreapp3.1\01. Series Calculator.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\obj\Debug\netcoreapp3.1\01. Series Calculator.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\obj\Debug\netcoreapp3.1\01. Series Calculator.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\01. Series Calculator\obj\Debug\netcoreapp3.1\01. Series Calculator.genruntimeconfig.cache

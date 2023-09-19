@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\bin\Debug\netcoreapp3.1\03. Stream of letters.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\bin\Debug\netcoreapp3.1\03. Stream of letters.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\bin\Debug\netcoreapp3.1\03. Stream of letters.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\bin\Debug\netcoreapp3.1\03. Stream of letters.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\bin\Debug\netcoreapp3.1\03. Stream of letters.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\bin\Debug\netcoreapp3.1\03. Stream of letters.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\obj\Debug\netcoreapp3.1\03. Stream of letters.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\obj\Debug\netcoreapp3.1\03. Stream of letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\obj\Debug\netcoreapp3.1\03. Stream of letters.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\obj\Debug\netcoreapp3.1\03. Stream of letters.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\obj\Debug\netcoreapp3.1\03. Stream of letters.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\obj\Debug\netcoreapp3.1\03. Stream of letters.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\obj\Debug\netcoreapp3.1\03. Stream of letters.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\03. Stream of letters\obj\Debug\netcoreapp3.1\03. Stream of letters.genruntimeconfig.cache

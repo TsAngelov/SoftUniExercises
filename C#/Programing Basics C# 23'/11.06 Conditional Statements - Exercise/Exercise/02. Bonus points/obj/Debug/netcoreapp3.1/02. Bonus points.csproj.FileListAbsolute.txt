@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\bin\Debug\netcoreapp3.1\02. Bonus points.exe
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\bin\Debug\netcoreapp3.1\02. Bonus points.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\bin\Debug\netcoreapp3.1\02. Bonus points.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\bin\Debug\netcoreapp3.1\02. Bonus points.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\bin\Debug\netcoreapp3.1\02. Bonus points.dll
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\bin\Debug\netcoreapp3.1\02. Bonus points.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\obj\Debug\netcoreapp3.1\02. Bonus points.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\obj\Debug\netcoreapp3.1\02. Bonus points.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\obj\Debug\netcoreapp3.1\02. Bonus points.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\obj\Debug\netcoreapp3.1\02. Bonus points.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\obj\Debug\netcoreapp3.1\02. Bonus points.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\obj\Debug\netcoreapp3.1\02. Bonus points.dll
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\obj\Debug\netcoreapp3.1\02. Bonus points.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\11.06 Conditional Statements - Exercise\Exercise\02. Bonus points\obj\Debug\netcoreapp3.1\02. Bonus points.genruntimeconfig.cache

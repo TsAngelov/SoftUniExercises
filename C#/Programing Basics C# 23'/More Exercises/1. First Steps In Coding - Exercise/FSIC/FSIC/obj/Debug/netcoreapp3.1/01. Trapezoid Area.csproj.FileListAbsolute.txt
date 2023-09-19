@@ -1,0 +1,21 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\01. Trapezoid Area.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\01. Trapezoid Area.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\01. Trapezoid Area.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\01. Trapezoid Area.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\01. Trapezoid Area.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\01. Trapezoid Area.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\01. Trapezoid Area.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\01. Trapezoid Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\01. Trapezoid Area.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\01. Trapezoid Area.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\01. Trapezoid Area.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\01. Trapezoid Area.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\01. Trapezoid Area.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\01. Trapezoid Area.genruntimeconfig.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\demo.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\demo.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\demo.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\demo.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\01. Trapezoid Area.csproj.CopyComplete

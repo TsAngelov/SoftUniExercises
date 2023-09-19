@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.exe
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.dll
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.dll
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.exe
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\FSIC.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\FSIC.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\FSIC.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\FSIC.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\FSIC.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\bin\Debug\netcoreapp3.1\FSIC.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\FSIC.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\FSIC.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\FSIC.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\FSIC.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\FSIC.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\FSIC.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\FSIC.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\FSIC\obj\Debug\netcoreapp3.1\FSIC.genruntimeconfig.cache

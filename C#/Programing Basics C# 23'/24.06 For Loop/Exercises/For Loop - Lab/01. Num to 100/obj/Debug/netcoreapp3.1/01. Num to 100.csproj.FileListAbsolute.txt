@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\bin\Debug\netcoreapp3.1\01. Num to 100.exe
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\bin\Debug\netcoreapp3.1\01. Num to 100.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\bin\Debug\netcoreapp3.1\01. Num to 100.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\bin\Debug\netcoreapp3.1\01. Num to 100.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\bin\Debug\netcoreapp3.1\01. Num to 100.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\bin\Debug\netcoreapp3.1\01. Num to 100.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\obj\Debug\netcoreapp3.1\01. Num to 100.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\obj\Debug\netcoreapp3.1\01. Num to 100.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\obj\Debug\netcoreapp3.1\01. Num to 100.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\obj\Debug\netcoreapp3.1\01. Num to 100.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\obj\Debug\netcoreapp3.1\01. Num to 100.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\obj\Debug\netcoreapp3.1\01. Num to 100.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\obj\Debug\netcoreapp3.1\01. Num to 100.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\01. Num to 100\obj\Debug\netcoreapp3.1\01. Num to 100.genruntimeconfig.cache

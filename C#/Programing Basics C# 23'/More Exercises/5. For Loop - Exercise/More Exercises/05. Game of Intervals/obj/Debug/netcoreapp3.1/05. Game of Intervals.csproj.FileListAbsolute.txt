@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\bin\Debug\netcoreapp3.1\05. Game of Intervals.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\bin\Debug\netcoreapp3.1\05. Game of Intervals.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\bin\Debug\netcoreapp3.1\05. Game of Intervals.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\bin\Debug\netcoreapp3.1\05. Game of Intervals.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\bin\Debug\netcoreapp3.1\05. Game of Intervals.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\bin\Debug\netcoreapp3.1\05. Game of Intervals.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\obj\Debug\netcoreapp3.1\05. Game of Intervals.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\obj\Debug\netcoreapp3.1\05. Game of Intervals.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\obj\Debug\netcoreapp3.1\05. Game of Intervals.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\obj\Debug\netcoreapp3.1\05. Game of Intervals.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\obj\Debug\netcoreapp3.1\05. Game of Intervals.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\obj\Debug\netcoreapp3.1\05. Game of Intervals.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\obj\Debug\netcoreapp3.1\05. Game of Intervals.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\05. Game of Intervals\obj\Debug\netcoreapp3.1\05. Game of Intervals.genruntimeconfig.cache

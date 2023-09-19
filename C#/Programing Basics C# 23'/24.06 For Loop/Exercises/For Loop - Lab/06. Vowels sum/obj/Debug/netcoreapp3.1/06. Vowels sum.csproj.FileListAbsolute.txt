@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\bin\Debug\netcoreapp3.1\06. Vowels sum.exe
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\bin\Debug\netcoreapp3.1\06. Vowels sum.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\bin\Debug\netcoreapp3.1\06. Vowels sum.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\bin\Debug\netcoreapp3.1\06. Vowels sum.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\bin\Debug\netcoreapp3.1\06. Vowels sum.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\bin\Debug\netcoreapp3.1\06. Vowels sum.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\obj\Debug\netcoreapp3.1\06. Vowels sum.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\obj\Debug\netcoreapp3.1\06. Vowels sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\obj\Debug\netcoreapp3.1\06. Vowels sum.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\obj\Debug\netcoreapp3.1\06. Vowels sum.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\obj\Debug\netcoreapp3.1\06. Vowels sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\obj\Debug\netcoreapp3.1\06. Vowels sum.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\obj\Debug\netcoreapp3.1\06. Vowels sum.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\06. Vowels sum\obj\Debug\netcoreapp3.1\06. Vowels sum.genruntimeconfig.cache

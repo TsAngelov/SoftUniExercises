@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\bin\Debug\netcoreapp3.1\05. Average number.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\bin\Debug\netcoreapp3.1\05. Average number.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\bin\Debug\netcoreapp3.1\05. Average number.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\bin\Debug\netcoreapp3.1\05. Average number.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\bin\Debug\netcoreapp3.1\05. Average number.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\bin\Debug\netcoreapp3.1\05. Average number.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\obj\Debug\netcoreapp3.1\05. Average number.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\obj\Debug\netcoreapp3.1\05. Average number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\obj\Debug\netcoreapp3.1\05. Average number.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\obj\Debug\netcoreapp3.1\05. Average number.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\obj\Debug\netcoreapp3.1\05. Average number.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\obj\Debug\netcoreapp3.1\05. Average number.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\obj\Debug\netcoreapp3.1\05. Average number.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\Exercise\05. Average number\obj\Debug\netcoreapp3.1\05. Average number.genruntimeconfig.cache

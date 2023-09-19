@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\bin\Debug\net6.0\07.Projects Creation.exe
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\bin\Debug\net6.0\07.Projects Creation.deps.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\bin\Debug\net6.0\07.Projects Creation.runtimeconfig.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\bin\Debug\net6.0\07.Projects Creation.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\bin\Debug\net6.0\07.Projects Creation.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\obj\Debug\net6.0\07.Projects Creation.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\obj\Debug\net6.0\07.Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\obj\Debug\net6.0\07.Projects Creation.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\obj\Debug\net6.0\07.Projects Creation.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\obj\Debug\net6.0\07.Projects Creation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\obj\Debug\net6.0\07.Projects Creation.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\obj\Debug\net6.0\refint\07.Projects Creation.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\obj\Debug\net6.0\07.Projects Creation.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\obj\Debug\net6.0\07.Projects Creation.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\07.Projects Creation\obj\Debug\net6.0\ref\07.Projects Creation.dll

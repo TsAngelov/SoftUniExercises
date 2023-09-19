@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\obj\Debug\net6.0\06. Strong number.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\obj\Debug\net6.0\06. Strong number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\obj\Debug\net6.0\06. Strong number.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\obj\Debug\net6.0\06. Strong number.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\obj\Debug\net6.0\06. Strong number.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\bin\Debug\net6.0\06. Strong number.exe
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\bin\Debug\net6.0\06. Strong number.deps.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\bin\Debug\net6.0\06. Strong number.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\bin\Debug\net6.0\06. Strong number.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\bin\Debug\net6.0\06. Strong number.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\obj\Debug\net6.0\06. Strong number.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\obj\Debug\net6.0\refint\06. Strong number.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\obj\Debug\net6.0\06. Strong number.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\obj\Debug\net6.0\06. Strong number.genruntimeconfig.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\06. Strong number\obj\Debug\net6.0\ref\06. Strong number.dll

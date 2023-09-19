@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\bin\Debug\netcoreapp3.1\05. Number 100-200.exe
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\bin\Debug\netcoreapp3.1\05. Number 100-200.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\bin\Debug\netcoreapp3.1\05. Number 100-200.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\bin\Debug\netcoreapp3.1\05. Number 100-200.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\bin\Debug\netcoreapp3.1\05. Number 100-200.dll
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\bin\Debug\netcoreapp3.1\05. Number 100-200.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\obj\Debug\netcoreapp3.1\05. Number 100-200.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\obj\Debug\netcoreapp3.1\05. Number 100-200.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\obj\Debug\netcoreapp3.1\05. Number 100-200.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\obj\Debug\netcoreapp3.1\05. Number 100-200.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\obj\Debug\netcoreapp3.1\05. Number 100-200.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\obj\Debug\netcoreapp3.1\05. Number 100-200.dll
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\obj\Debug\netcoreapp3.1\05. Number 100-200.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\05. Number 100-200\obj\Debug\netcoreapp3.1\05. Number 100-200.genruntimeconfig.cache

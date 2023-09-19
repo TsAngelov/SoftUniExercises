@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.exe
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.dll
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.dll
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.genruntimeconfig.cache

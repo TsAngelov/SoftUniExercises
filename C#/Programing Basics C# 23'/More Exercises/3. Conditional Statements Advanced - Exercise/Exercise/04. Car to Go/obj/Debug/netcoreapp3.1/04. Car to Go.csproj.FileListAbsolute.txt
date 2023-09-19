@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\bin\Debug\netcoreapp3.1\04. Car to Go.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\bin\Debug\netcoreapp3.1\04. Car to Go.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\bin\Debug\netcoreapp3.1\04. Car to Go.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\bin\Debug\netcoreapp3.1\04. Car to Go.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\bin\Debug\netcoreapp3.1\04. Car to Go.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\bin\Debug\netcoreapp3.1\04. Car to Go.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\obj\Debug\netcoreapp3.1\04. Car to Go.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\obj\Debug\netcoreapp3.1\04. Car to Go.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\obj\Debug\netcoreapp3.1\04. Car to Go.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\obj\Debug\netcoreapp3.1\04. Car to Go.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\obj\Debug\netcoreapp3.1\04. Car to Go.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\obj\Debug\netcoreapp3.1\04. Car to Go.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\obj\Debug\netcoreapp3.1\04. Car to Go.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\04. Car to Go\obj\Debug\netcoreapp3.1\04. Car to Go.genruntimeconfig.cache

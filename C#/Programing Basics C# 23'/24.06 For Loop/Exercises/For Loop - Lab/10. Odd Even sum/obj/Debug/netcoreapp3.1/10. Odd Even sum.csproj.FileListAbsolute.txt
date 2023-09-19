@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\bin\Debug\netcoreapp3.1\10. Odd Even sum.exe
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\bin\Debug\netcoreapp3.1\10. Odd Even sum.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\bin\Debug\netcoreapp3.1\10. Odd Even sum.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\bin\Debug\netcoreapp3.1\10. Odd Even sum.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\bin\Debug\netcoreapp3.1\10. Odd Even sum.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\bin\Debug\netcoreapp3.1\10. Odd Even sum.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\obj\Debug\netcoreapp3.1\10. Odd Even sum.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\obj\Debug\netcoreapp3.1\10. Odd Even sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\obj\Debug\netcoreapp3.1\10. Odd Even sum.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\obj\Debug\netcoreapp3.1\10. Odd Even sum.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\obj\Debug\netcoreapp3.1\10. Odd Even sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\obj\Debug\netcoreapp3.1\10. Odd Even sum.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\obj\Debug\netcoreapp3.1\10. Odd Even sum.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\10. Odd Even sum\obj\Debug\netcoreapp3.1\10. Odd Even sum.genruntimeconfig.cache

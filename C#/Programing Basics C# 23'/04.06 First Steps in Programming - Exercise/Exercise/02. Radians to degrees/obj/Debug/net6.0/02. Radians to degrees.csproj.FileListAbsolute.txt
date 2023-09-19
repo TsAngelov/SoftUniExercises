@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\bin\Debug\net6.0\02. Radians to degrees.exe
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\bin\Debug\net6.0\02. Radians to degrees.deps.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\bin\Debug\net6.0\02. Radians to degrees.runtimeconfig.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\bin\Debug\net6.0\02. Radians to degrees.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\bin\Debug\net6.0\02. Radians to degrees.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\obj\Debug\net6.0\02. Radians to degrees.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\obj\Debug\net6.0\02. Radians to degrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\obj\Debug\net6.0\02. Radians to degrees.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\obj\Debug\net6.0\02. Radians to degrees.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\obj\Debug\net6.0\02. Radians to degrees.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\obj\Debug\net6.0\02. Radians to degrees.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\obj\Debug\net6.0\refint\02. Radians to degrees.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\obj\Debug\net6.0\02. Radians to degrees.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\obj\Debug\net6.0\02. Radians to degrees.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\02. Radians to degrees\obj\Debug\net6.0\ref\02. Radians to degrees.dll

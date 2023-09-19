@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.exe
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.dll
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.dll
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.genruntimeconfig.cache

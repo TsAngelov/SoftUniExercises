@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\bin\Debug\netcoreapp3.1\07. Area of figures.exe
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\bin\Debug\netcoreapp3.1\07. Area of figures.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\bin\Debug\netcoreapp3.1\07. Area of figures.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\bin\Debug\netcoreapp3.1\07. Area of figures.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\bin\Debug\netcoreapp3.1\07. Area of figures.dll
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\bin\Debug\netcoreapp3.1\07. Area of figures.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\obj\Debug\netcoreapp3.1\07. Area of figures.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\obj\Debug\netcoreapp3.1\07. Area of figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\obj\Debug\netcoreapp3.1\07. Area of figures.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\obj\Debug\netcoreapp3.1\07. Area of figures.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\obj\Debug\netcoreapp3.1\07. Area of figures.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\obj\Debug\netcoreapp3.1\07. Area of figures.dll
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\obj\Debug\netcoreapp3.1\07. Area of figures.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\10.06 Conditional Statements\Exercises\Conditional Statements\07. Area of figures\obj\Debug\netcoreapp3.1\07. Area of figures.genruntimeconfig.cache

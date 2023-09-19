@@ -1,0 +1,15 @@
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.exe
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.deps.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\obj\Debug\net6.0\refint\09. Padawan Equipment.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.genruntimeconfig.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\09. Padawan Equipment\obj\Debug\net6.0\ref\09. Padawan Equipment.dll

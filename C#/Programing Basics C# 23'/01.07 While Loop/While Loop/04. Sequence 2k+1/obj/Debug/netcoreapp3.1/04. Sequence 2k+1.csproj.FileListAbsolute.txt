@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.genruntimeconfig.cache

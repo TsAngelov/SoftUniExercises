@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.exe
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.dll
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.dll
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.genruntimeconfig.cache

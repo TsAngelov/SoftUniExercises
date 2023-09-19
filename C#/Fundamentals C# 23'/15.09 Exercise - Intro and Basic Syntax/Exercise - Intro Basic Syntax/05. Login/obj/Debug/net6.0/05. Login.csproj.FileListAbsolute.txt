@@ -1,0 +1,15 @@
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\bin\Debug\net6.0\05. Login.exe
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\bin\Debug\net6.0\05. Login.deps.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\bin\Debug\net6.0\05. Login.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\bin\Debug\net6.0\05. Login.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\bin\Debug\net6.0\05. Login.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\obj\Debug\net6.0\05. Login.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\obj\Debug\net6.0\05. Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\obj\Debug\net6.0\05. Login.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\obj\Debug\net6.0\05. Login.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\obj\Debug\net6.0\05. Login.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\obj\Debug\net6.0\05. Login.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\obj\Debug\net6.0\refint\05. Login.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\obj\Debug\net6.0\05. Login.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\obj\Debug\net6.0\05. Login.genruntimeconfig.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\05. Login\obj\Debug\net6.0\ref\05. Login.dll

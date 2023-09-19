@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "07. School Camp/1.0.0": {
+        "runtime": {
+          "07. School Camp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07. School Camp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

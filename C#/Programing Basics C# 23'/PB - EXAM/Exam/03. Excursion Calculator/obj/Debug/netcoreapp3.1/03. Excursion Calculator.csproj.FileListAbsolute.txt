@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\bin\Debug\netcoreapp3.1\03. Excursion Calculator.exe
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\bin\Debug\netcoreapp3.1\03. Excursion Calculator.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\bin\Debug\netcoreapp3.1\03. Excursion Calculator.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\bin\Debug\netcoreapp3.1\03. Excursion Calculator.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\bin\Debug\netcoreapp3.1\03. Excursion Calculator.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\bin\Debug\netcoreapp3.1\03. Excursion Calculator.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\obj\Debug\netcoreapp3.1\03. Excursion Calculator.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\obj\Debug\netcoreapp3.1\03. Excursion Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\obj\Debug\netcoreapp3.1\03. Excursion Calculator.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\obj\Debug\netcoreapp3.1\03. Excursion Calculator.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\obj\Debug\netcoreapp3.1\03. Excursion Calculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\obj\Debug\netcoreapp3.1\03. Excursion Calculator.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\obj\Debug\netcoreapp3.1\03. Excursion Calculator.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\03. Excursion Calculator\obj\Debug\netcoreapp3.1\03. Excursion Calculator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.exe
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.dll
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.dll
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.genruntimeconfig.cache

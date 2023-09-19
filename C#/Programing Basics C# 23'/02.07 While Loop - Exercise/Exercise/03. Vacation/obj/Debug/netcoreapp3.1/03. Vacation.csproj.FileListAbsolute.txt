@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.genruntimeconfig.cache

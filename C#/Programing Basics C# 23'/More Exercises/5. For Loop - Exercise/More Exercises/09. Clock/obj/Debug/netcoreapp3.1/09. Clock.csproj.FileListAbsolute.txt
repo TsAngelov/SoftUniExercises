@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\bin\Debug\netcoreapp3.1\09. Clock.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\bin\Debug\netcoreapp3.1\09. Clock.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\bin\Debug\netcoreapp3.1\09. Clock.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\bin\Debug\netcoreapp3.1\09. Clock.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\bin\Debug\netcoreapp3.1\09. Clock.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\bin\Debug\netcoreapp3.1\09. Clock.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\09. Clock\obj\Debug\netcoreapp3.1\09. Clock.genruntimeconfig.cache

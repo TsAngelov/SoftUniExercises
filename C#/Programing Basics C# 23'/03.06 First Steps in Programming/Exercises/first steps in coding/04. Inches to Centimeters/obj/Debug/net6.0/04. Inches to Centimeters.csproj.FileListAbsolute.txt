@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\bin\Debug\net6.0\04. Inches to Centimeters.exe
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\bin\Debug\net6.0\04. Inches to Centimeters.deps.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\bin\Debug\net6.0\04. Inches to Centimeters.runtimeconfig.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\bin\Debug\net6.0\04. Inches to Centimeters.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\bin\Debug\net6.0\04. Inches to Centimeters.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\obj\Debug\net6.0\04. Inches to Centimeters.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\obj\Debug\net6.0\04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\obj\Debug\net6.0\04. Inches to Centimeters.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\obj\Debug\net6.0\04. Inches to Centimeters.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\obj\Debug\net6.0\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\obj\Debug\net6.0\04. Inches to Centimeters.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\obj\Debug\net6.0\refint\04. Inches to Centimeters.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\obj\Debug\net6.0\04. Inches to Centimeters.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\obj\Debug\net6.0\04. Inches to Centimeters.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\04. Inches to Centimeters\obj\Debug\net6.0\ref\04. Inches to Centimeters.dll

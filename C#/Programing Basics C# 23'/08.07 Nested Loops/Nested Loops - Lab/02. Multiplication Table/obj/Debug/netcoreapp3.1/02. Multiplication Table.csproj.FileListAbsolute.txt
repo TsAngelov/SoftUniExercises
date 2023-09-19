@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.exe
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.dll
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.dll
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.genruntimeconfig.cache

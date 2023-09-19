@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.exe
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.deps.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.runtimeconfig.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\obj\Debug\net6.0\refint\03. Rectangle Area.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\03. Rectangle Area\obj\Debug\net6.0\ref\03. Rectangle Area.dll

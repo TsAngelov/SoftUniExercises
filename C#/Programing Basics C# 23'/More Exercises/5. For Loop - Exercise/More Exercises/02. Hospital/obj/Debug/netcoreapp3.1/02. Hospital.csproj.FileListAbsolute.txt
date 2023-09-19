@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\bin\Debug\netcoreapp3.1\02. Hospital.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\bin\Debug\netcoreapp3.1\02. Hospital.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\bin\Debug\netcoreapp3.1\02. Hospital.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\bin\Debug\netcoreapp3.1\02. Hospital.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\bin\Debug\netcoreapp3.1\02. Hospital.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\bin\Debug\netcoreapp3.1\02. Hospital.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\obj\Debug\netcoreapp3.1\02. Hospital.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\obj\Debug\netcoreapp3.1\02. Hospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\obj\Debug\netcoreapp3.1\02. Hospital.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\obj\Debug\netcoreapp3.1\02. Hospital.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\obj\Debug\netcoreapp3.1\02. Hospital.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\obj\Debug\netcoreapp3.1\02. Hospital.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\obj\Debug\netcoreapp3.1\02. Hospital.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\02. Hospital\obj\Debug\netcoreapp3.1\02. Hospital.genruntimeconfig.cache

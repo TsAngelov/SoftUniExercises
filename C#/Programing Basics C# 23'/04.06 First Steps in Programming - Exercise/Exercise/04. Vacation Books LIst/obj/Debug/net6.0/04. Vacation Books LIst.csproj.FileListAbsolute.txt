@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\bin\Debug\net6.0\04. Vacation Books LIst.exe
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\bin\Debug\net6.0\04. Vacation Books LIst.deps.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\bin\Debug\net6.0\04. Vacation Books LIst.runtimeconfig.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\bin\Debug\net6.0\04. Vacation Books LIst.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\bin\Debug\net6.0\04. Vacation Books LIst.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\obj\Debug\net6.0\04. Vacation Books LIst.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\obj\Debug\net6.0\04. Vacation Books LIst.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\obj\Debug\net6.0\04. Vacation Books LIst.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\obj\Debug\net6.0\04. Vacation Books LIst.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\obj\Debug\net6.0\04. Vacation Books LIst.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\obj\Debug\net6.0\04. Vacation Books LIst.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\obj\Debug\net6.0\refint\04. Vacation Books LIst.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\obj\Debug\net6.0\04. Vacation Books LIst.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\obj\Debug\net6.0\04. Vacation Books LIst.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\04. Vacation Books LIst\obj\Debug\net6.0\ref\04. Vacation Books LIst.dll

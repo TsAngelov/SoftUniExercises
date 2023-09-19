@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.exe
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.dll
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.dll
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.genruntimeconfig.cache

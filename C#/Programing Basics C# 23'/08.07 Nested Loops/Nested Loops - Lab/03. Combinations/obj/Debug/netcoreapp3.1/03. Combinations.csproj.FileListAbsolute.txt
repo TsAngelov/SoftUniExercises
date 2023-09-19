@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.exe
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.dll
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.dll
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\08.07 Nested Loops\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.genruntimeconfig.cache

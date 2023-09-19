@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\obj\Debug\net6.0\09.Yard Greening.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\obj\Debug\net6.0\09.Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\obj\Debug\net6.0\09.Yard Greening.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\obj\Debug\net6.0\09.Yard Greening.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\obj\Debug\net6.0\09.Yard Greening.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\bin\Debug\net6.0\09.Yard Greening.exe
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\bin\Debug\net6.0\09.Yard Greening.deps.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\bin\Debug\net6.0\09.Yard Greening.runtimeconfig.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\bin\Debug\net6.0\09.Yard Greening.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\bin\Debug\net6.0\09.Yard Greening.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\obj\Debug\net6.0\09.Yard Greening.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\obj\Debug\net6.0\refint\09.Yard Greening.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\obj\Debug\net6.0\09.Yard Greening.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\obj\Debug\net6.0\09.Yard Greening.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\09.Yard Greening\obj\Debug\net6.0\ref\09.Yard Greening.dll

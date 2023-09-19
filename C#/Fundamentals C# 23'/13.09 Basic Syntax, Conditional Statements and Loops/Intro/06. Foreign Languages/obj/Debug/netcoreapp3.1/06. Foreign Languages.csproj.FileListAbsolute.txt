@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.exe
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.deps.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.genruntimeconfig.cache

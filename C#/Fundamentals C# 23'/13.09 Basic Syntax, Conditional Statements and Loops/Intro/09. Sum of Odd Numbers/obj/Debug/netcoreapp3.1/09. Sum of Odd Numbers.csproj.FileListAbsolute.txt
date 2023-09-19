@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.exe
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.deps.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\obj\Debug\net6.0\08. Pet Shop.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\obj\Debug\net6.0\08. Pet Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\obj\Debug\net6.0\08. Pet Shop.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\obj\Debug\net6.0\08. Pet Shop.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\obj\Debug\net6.0\08. Pet Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\bin\Debug\net6.0\08. Pet Shop.exe
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\bin\Debug\net6.0\08. Pet Shop.deps.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\bin\Debug\net6.0\08. Pet Shop.runtimeconfig.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\bin\Debug\net6.0\08. Pet Shop.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\bin\Debug\net6.0\08. Pet Shop.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\obj\Debug\net6.0\08. Pet Shop.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\obj\Debug\net6.0\refint\08. Pet Shop.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\obj\Debug\net6.0\08. Pet Shop.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\obj\Debug\net6.0\08. Pet Shop.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\08. Pet Shop\obj\Debug\net6.0\ref\08. Pet Shop.dll

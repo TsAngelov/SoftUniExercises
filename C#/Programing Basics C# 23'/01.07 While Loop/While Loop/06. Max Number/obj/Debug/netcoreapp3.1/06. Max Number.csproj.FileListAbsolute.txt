@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.genruntimeconfig.cache

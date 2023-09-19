@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

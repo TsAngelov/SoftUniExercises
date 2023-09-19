@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\bin\Debug\netcoreapp3.1\06. Star Romb.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\bin\Debug\netcoreapp3.1\06. Star Romb.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\bin\Debug\netcoreapp3.1\06. Star Romb.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\bin\Debug\netcoreapp3.1\06. Star Romb.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\bin\Debug\netcoreapp3.1\06. Star Romb.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\bin\Debug\netcoreapp3.1\06. Star Romb.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\obj\Debug\netcoreapp3.1\06. Star Romb.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\obj\Debug\netcoreapp3.1\06. Star Romb.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\obj\Debug\netcoreapp3.1\06. Star Romb.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\obj\Debug\netcoreapp3.1\06. Star Romb.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\obj\Debug\netcoreapp3.1\06. Star Romb.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\obj\Debug\netcoreapp3.1\06. Star Romb.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\obj\Debug\netcoreapp3.1\06. Star Romb.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\06. Star Romb\obj\Debug\netcoreapp3.1\06. Star Romb.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\bin\Debug\netcoreapp3.1\06. Easter Competition.exe
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\bin\Debug\netcoreapp3.1\06. Easter Competition.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\bin\Debug\netcoreapp3.1\06. Easter Competition.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\bin\Debug\netcoreapp3.1\06. Easter Competition.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\bin\Debug\netcoreapp3.1\06. Easter Competition.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\bin\Debug\netcoreapp3.1\06. Easter Competition.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\obj\Debug\netcoreapp3.1\06. Easter Competition.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\obj\Debug\netcoreapp3.1\06. Easter Competition.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\obj\Debug\netcoreapp3.1\06. Easter Competition.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\obj\Debug\netcoreapp3.1\06. Easter Competition.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\obj\Debug\netcoreapp3.1\06. Easter Competition.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\obj\Debug\netcoreapp3.1\06. Easter Competition.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\obj\Debug\netcoreapp3.1\06. Easter Competition.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\06. Easter Competition\obj\Debug\netcoreapp3.1\06. Easter Competition.genruntimeconfig.cache

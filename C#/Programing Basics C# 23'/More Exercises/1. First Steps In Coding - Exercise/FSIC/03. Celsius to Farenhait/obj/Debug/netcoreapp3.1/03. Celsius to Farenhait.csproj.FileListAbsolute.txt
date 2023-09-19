@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\bin\Debug\netcoreapp3.1\03. Celsius to Farenhait.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\bin\Debug\netcoreapp3.1\03. Celsius to Farenhait.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\bin\Debug\netcoreapp3.1\03. Celsius to Farenhait.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\bin\Debug\netcoreapp3.1\03. Celsius to Farenhait.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\bin\Debug\netcoreapp3.1\03. Celsius to Farenhait.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\bin\Debug\netcoreapp3.1\03. Celsius to Farenhait.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\obj\Debug\netcoreapp3.1\03. Celsius to Farenhait.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\obj\Debug\netcoreapp3.1\03. Celsius to Farenhait.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\obj\Debug\netcoreapp3.1\03. Celsius to Farenhait.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\obj\Debug\netcoreapp3.1\03. Celsius to Farenhait.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\obj\Debug\netcoreapp3.1\03. Celsius to Farenhait.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\obj\Debug\netcoreapp3.1\03. Celsius to Farenhait.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\obj\Debug\netcoreapp3.1\03. Celsius to Farenhait.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\03. Celsius to Farenhait\obj\Debug\netcoreapp3.1\03. Celsius to Farenhait.genruntimeconfig.cache

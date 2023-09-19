@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.genruntimeconfig.cache

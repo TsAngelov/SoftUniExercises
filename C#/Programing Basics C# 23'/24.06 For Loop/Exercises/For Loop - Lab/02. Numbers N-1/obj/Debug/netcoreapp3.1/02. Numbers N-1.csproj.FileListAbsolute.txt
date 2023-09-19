@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\bin\Debug\netcoreapp3.1\02. Numbers N-1.exe
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\bin\Debug\netcoreapp3.1\02. Numbers N-1.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\bin\Debug\netcoreapp3.1\02. Numbers N-1.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\bin\Debug\netcoreapp3.1\02. Numbers N-1.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\bin\Debug\netcoreapp3.1\02. Numbers N-1.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\bin\Debug\netcoreapp3.1\02. Numbers N-1.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\obj\Debug\netcoreapp3.1\02. Numbers N-1.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\obj\Debug\netcoreapp3.1\02. Numbers N-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\obj\Debug\netcoreapp3.1\02. Numbers N-1.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\obj\Debug\netcoreapp3.1\02. Numbers N-1.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\obj\Debug\netcoreapp3.1\02. Numbers N-1.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\obj\Debug\netcoreapp3.1\02. Numbers N-1.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\obj\Debug\netcoreapp3.1\02. Numbers N-1.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\02. Numbers N-1\obj\Debug\netcoreapp3.1\02. Numbers N-1.genruntimeconfig.cache

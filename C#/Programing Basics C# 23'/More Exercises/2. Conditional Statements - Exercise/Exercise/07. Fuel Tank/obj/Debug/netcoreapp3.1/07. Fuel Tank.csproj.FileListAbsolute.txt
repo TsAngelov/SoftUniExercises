@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\2. Conditional Statements - Exercise\Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.genruntimeconfig.cache

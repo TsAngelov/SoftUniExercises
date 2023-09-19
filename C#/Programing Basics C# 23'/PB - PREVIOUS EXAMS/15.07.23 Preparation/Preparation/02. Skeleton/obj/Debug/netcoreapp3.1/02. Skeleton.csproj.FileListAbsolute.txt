@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\bin\Debug\netcoreapp3.1\02. Skeleton.exe
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\bin\Debug\netcoreapp3.1\02. Skeleton.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\bin\Debug\netcoreapp3.1\02. Skeleton.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\bin\Debug\netcoreapp3.1\02. Skeleton.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\bin\Debug\netcoreapp3.1\02. Skeleton.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\bin\Debug\netcoreapp3.1\02. Skeleton.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\obj\Debug\netcoreapp3.1\02. Skeleton.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\obj\Debug\netcoreapp3.1\02. Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\obj\Debug\netcoreapp3.1\02. Skeleton.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\obj\Debug\netcoreapp3.1\02. Skeleton.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\obj\Debug\netcoreapp3.1\02. Skeleton.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\obj\Debug\netcoreapp3.1\02. Skeleton.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\obj\Debug\netcoreapp3.1\02. Skeleton.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\02. Skeleton\obj\Debug\netcoreapp3.1\02. Skeleton.genruntimeconfig.cache

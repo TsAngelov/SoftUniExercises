@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.exe
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.deps.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.runtimeconfig.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\obj\Debug\net6.0\refint\07. Food Delivery.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\07. Food Delivery\obj\Debug\net6.0\ref\07. Food Delivery.dll

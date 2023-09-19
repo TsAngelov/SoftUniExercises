@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\bin\Debug\net6.0\03. Deposit calculator.exe
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\bin\Debug\net6.0\03. Deposit calculator.deps.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\bin\Debug\net6.0\03. Deposit calculator.runtimeconfig.json
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\bin\Debug\net6.0\03. Deposit calculator.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\bin\Debug\net6.0\03. Deposit calculator.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\obj\Debug\net6.0\03. Deposit calculator.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\obj\Debug\net6.0\03. Deposit calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\obj\Debug\net6.0\03. Deposit calculator.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\obj\Debug\net6.0\03. Deposit calculator.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\obj\Debug\net6.0\03. Deposit calculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\obj\Debug\net6.0\03. Deposit calculator.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\obj\Debug\net6.0\refint\03. Deposit calculator.dll
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\obj\Debug\net6.0\03. Deposit calculator.pdb
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\obj\Debug\net6.0\03. Deposit calculator.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C# 23'\04.06 Exercise\Exercise\03. Deposit calculator\obj\Debug\net6.0\ref\03. Deposit calculator.dll

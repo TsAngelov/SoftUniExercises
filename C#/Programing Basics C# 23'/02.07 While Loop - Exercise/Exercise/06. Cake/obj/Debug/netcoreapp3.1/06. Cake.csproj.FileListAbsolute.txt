@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.exe
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.dll
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.dll
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.genruntimeconfig.cache

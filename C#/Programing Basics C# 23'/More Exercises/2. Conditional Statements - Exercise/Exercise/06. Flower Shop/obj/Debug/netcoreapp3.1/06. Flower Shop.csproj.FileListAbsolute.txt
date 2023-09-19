@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\Conditional Statements - Exercise\Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.genruntimeconfig.cache

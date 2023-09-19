@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\bin\Debug\netcoreapp3.1\03. Sum Numbers.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\bin\Debug\netcoreapp3.1\03. Sum Numbers.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\bin\Debug\netcoreapp3.1\03. Sum Numbers.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\bin\Debug\netcoreapp3.1\03. Sum Numbers.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\bin\Debug\netcoreapp3.1\03. Sum Numbers.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\bin\Debug\netcoreapp3.1\03. Sum Numbers.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.genruntimeconfig.cache

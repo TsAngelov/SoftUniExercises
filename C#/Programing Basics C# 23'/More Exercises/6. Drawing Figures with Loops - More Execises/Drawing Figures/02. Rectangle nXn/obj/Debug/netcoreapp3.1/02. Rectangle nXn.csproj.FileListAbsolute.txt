@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\bin\Debug\netcoreapp3.1\02. Rectangle nXn.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\bin\Debug\netcoreapp3.1\02. Rectangle nXn.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\bin\Debug\netcoreapp3.1\02. Rectangle nXn.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\bin\Debug\netcoreapp3.1\02. Rectangle nXn.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\bin\Debug\netcoreapp3.1\02. Rectangle nXn.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\bin\Debug\netcoreapp3.1\02. Rectangle nXn.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\obj\Debug\netcoreapp3.1\02. Rectangle nXn.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\obj\Debug\netcoreapp3.1\02. Rectangle nXn.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\obj\Debug\netcoreapp3.1\02. Rectangle nXn.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\obj\Debug\netcoreapp3.1\02. Rectangle nXn.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\obj\Debug\netcoreapp3.1\02. Rectangle nXn.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\obj\Debug\netcoreapp3.1\02. Rectangle nXn.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\obj\Debug\netcoreapp3.1\02. Rectangle nXn.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\02. Rectangle nXn\obj\Debug\netcoreapp3.1\02. Rectangle nXn.genruntimeconfig.cache

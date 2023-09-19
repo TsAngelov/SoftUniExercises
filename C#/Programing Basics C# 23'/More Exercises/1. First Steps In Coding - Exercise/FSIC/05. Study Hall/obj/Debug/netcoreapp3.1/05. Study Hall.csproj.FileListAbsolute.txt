@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\bin\Debug\netcoreapp3.1\05. Study Hall.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\bin\Debug\netcoreapp3.1\05. Study Hall.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\bin\Debug\netcoreapp3.1\05. Study Hall.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\bin\Debug\netcoreapp3.1\05. Study Hall.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\bin\Debug\netcoreapp3.1\05. Study Hall.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\bin\Debug\netcoreapp3.1\05. Study Hall.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\obj\Debug\netcoreapp3.1\05. Study Hall.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\obj\Debug\netcoreapp3.1\05. Study Hall.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\obj\Debug\netcoreapp3.1\05. Study Hall.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\obj\Debug\netcoreapp3.1\05. Study Hall.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\obj\Debug\netcoreapp3.1\05. Study Hall.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\obj\Debug\netcoreapp3.1\05. Study Hall.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\obj\Debug\netcoreapp3.1\05. Study Hall.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\05. Study Hall\obj\Debug\netcoreapp3.1\05. Study Hall.genruntimeconfig.cache

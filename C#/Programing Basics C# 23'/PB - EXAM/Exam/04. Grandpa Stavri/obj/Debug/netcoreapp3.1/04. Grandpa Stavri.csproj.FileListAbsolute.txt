@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.exe
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - EXAM\Exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.genruntimeconfig.cache

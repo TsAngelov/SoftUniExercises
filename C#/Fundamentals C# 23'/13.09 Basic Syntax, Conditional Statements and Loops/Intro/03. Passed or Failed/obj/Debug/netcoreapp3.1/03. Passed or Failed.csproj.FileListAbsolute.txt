@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.exe
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.deps.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Intro\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.genruntimeconfig.cache

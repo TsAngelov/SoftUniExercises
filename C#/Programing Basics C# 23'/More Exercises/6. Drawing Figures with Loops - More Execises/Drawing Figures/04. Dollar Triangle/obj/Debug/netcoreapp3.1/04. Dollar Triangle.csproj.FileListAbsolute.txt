@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\bin\Debug\netcoreapp3.1\04. Dollar Triangle.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\bin\Debug\netcoreapp3.1\04. Dollar Triangle.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\bin\Debug\netcoreapp3.1\04. Dollar Triangle.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\bin\Debug\netcoreapp3.1\04. Dollar Triangle.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\bin\Debug\netcoreapp3.1\04. Dollar Triangle.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\bin\Debug\netcoreapp3.1\04. Dollar Triangle.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\obj\Debug\netcoreapp3.1\04. Dollar Triangle.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\obj\Debug\netcoreapp3.1\04. Dollar Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\obj\Debug\netcoreapp3.1\04. Dollar Triangle.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\obj\Debug\netcoreapp3.1\04. Dollar Triangle.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\obj\Debug\netcoreapp3.1\04. Dollar Triangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\obj\Debug\netcoreapp3.1\04. Dollar Triangle.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\obj\Debug\netcoreapp3.1\04. Dollar Triangle.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\04. Dollar Triangle\obj\Debug\netcoreapp3.1\04. Dollar Triangle.genruntimeconfig.cache

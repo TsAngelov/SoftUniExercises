@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.exe
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\For Loop - Lab\03. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.genruntimeconfig.cache

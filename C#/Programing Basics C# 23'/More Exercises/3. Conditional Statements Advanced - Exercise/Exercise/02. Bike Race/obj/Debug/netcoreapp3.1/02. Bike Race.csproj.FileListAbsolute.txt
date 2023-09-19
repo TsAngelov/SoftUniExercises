@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.genruntimeconfig.cache

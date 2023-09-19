@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\bin\Debug\net6.0\02. Nums 1-10.exe
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\bin\Debug\net6.0\02. Nums 1-10.deps.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\bin\Debug\net6.0\02. Nums 1-10.runtimeconfig.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\bin\Debug\net6.0\02. Nums 1-10.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\bin\Debug\net6.0\02. Nums 1-10.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\obj\Debug\net6.0\02. Nums 1-10.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\obj\Debug\net6.0\02. Nums 1-10.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\obj\Debug\net6.0\02. Nums 1-10.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\obj\Debug\net6.0\02. Nums 1-10.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\obj\Debug\net6.0\02. Nums 1-10.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\obj\Debug\net6.0\02. Nums 1-10.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\obj\Debug\net6.0\refint\02. Nums 1-10.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\obj\Debug\net6.0\02. Nums 1-10.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\obj\Debug\net6.0\02. Nums 1-10.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. Първи стъпки в програмирането\Задачи\first steps in coding\02. Nums 1-10\obj\Debug\net6.0\ref\02. Nums 1-10.dll

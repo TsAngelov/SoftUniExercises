@@ -1,0 +1,15 @@
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\bin\Debug\net6.0\05. Greeting by name.exe
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\bin\Debug\net6.0\05. Greeting by name.deps.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\bin\Debug\net6.0\05. Greeting by name.runtimeconfig.json
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\bin\Debug\net6.0\05. Greeting by name.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\bin\Debug\net6.0\05. Greeting by name.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\obj\Debug\net6.0\05. Greeting by name.csproj.AssemblyReference.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\obj\Debug\net6.0\05. Greeting by name.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\obj\Debug\net6.0\05. Greeting by name.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\obj\Debug\net6.0\05. Greeting by name.AssemblyInfo.cs
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\obj\Debug\net6.0\05. Greeting by name.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\obj\Debug\net6.0\05. Greeting by name.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\obj\Debug\net6.0\refint\05. Greeting by name.dll
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\obj\Debug\net6.0\05. Greeting by name.pdb
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\obj\Debug\net6.0\05. Greeting by name.genruntimeconfig.cache
+D:\SoftUni\Programing Basics C#\03.06.2023г. First Steps in Programming\Exercises\first steps in coding\05. Greeting by name\obj\Debug\net6.0\ref\05. Greeting by name.dll

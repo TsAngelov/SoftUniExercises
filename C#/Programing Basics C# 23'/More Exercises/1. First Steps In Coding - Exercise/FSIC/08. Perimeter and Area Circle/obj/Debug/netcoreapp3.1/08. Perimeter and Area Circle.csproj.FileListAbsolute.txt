@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\bin\Debug\netcoreapp3.1\08. Perimeter and Area Circle.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\bin\Debug\netcoreapp3.1\08. Perimeter and Area Circle.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\bin\Debug\netcoreapp3.1\08. Perimeter and Area Circle.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\bin\Debug\netcoreapp3.1\08. Perimeter and Area Circle.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\bin\Debug\netcoreapp3.1\08. Perimeter and Area Circle.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\bin\Debug\netcoreapp3.1\08. Perimeter and Area Circle.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\obj\Debug\netcoreapp3.1\08. Perimeter and Area Circle.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\obj\Debug\netcoreapp3.1\08. Perimeter and Area Circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\obj\Debug\netcoreapp3.1\08. Perimeter and Area Circle.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\obj\Debug\netcoreapp3.1\08. Perimeter and Area Circle.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\obj\Debug\netcoreapp3.1\08. Perimeter and Area Circle.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\obj\Debug\netcoreapp3.1\08. Perimeter and Area Circle.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\obj\Debug\netcoreapp3.1\08. Perimeter and Area Circle.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\08. Perimeter and Area Circle\obj\Debug\netcoreapp3.1\08. Perimeter and Area Circle.genruntimeconfig.cache

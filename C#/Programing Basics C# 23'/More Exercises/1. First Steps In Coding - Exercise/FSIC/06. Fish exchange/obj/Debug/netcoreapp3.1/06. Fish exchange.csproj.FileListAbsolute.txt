@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\bin\Debug\netcoreapp3.1\06. Fish exchange.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\bin\Debug\netcoreapp3.1\06. Fish exchange.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\bin\Debug\netcoreapp3.1\06. Fish exchange.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\bin\Debug\netcoreapp3.1\06. Fish exchange.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\bin\Debug\netcoreapp3.1\06. Fish exchange.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\bin\Debug\netcoreapp3.1\06. Fish exchange.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\obj\Debug\netcoreapp3.1\06. Fish exchange.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\obj\Debug\netcoreapp3.1\06. Fish exchange.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\obj\Debug\netcoreapp3.1\06. Fish exchange.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\obj\Debug\netcoreapp3.1\06. Fish exchange.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\obj\Debug\netcoreapp3.1\06. Fish exchange.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\obj\Debug\netcoreapp3.1\06. Fish exchange.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\obj\Debug\netcoreapp3.1\06. Fish exchange.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\06. Fish exchange\obj\Debug\netcoreapp3.1\06. Fish exchange.genruntimeconfig.cache

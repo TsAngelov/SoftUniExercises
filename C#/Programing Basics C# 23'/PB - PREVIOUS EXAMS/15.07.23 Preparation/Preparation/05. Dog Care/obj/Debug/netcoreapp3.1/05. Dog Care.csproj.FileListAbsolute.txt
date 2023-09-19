@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\bin\Debug\netcoreapp3.1\05. Dog Care.exe
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\bin\Debug\netcoreapp3.1\05. Dog Care.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\bin\Debug\netcoreapp3.1\05. Dog Care.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\bin\Debug\netcoreapp3.1\05. Dog Care.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\bin\Debug\netcoreapp3.1\05. Dog Care.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\bin\Debug\netcoreapp3.1\05. Dog Care.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\obj\Debug\netcoreapp3.1\05. Dog Care.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\obj\Debug\netcoreapp3.1\05. Dog Care.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\obj\Debug\netcoreapp3.1\05. Dog Care.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\obj\Debug\netcoreapp3.1\05. Dog Care.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\obj\Debug\netcoreapp3.1\05. Dog Care.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\obj\Debug\netcoreapp3.1\05. Dog Care.dll
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\obj\Debug\netcoreapp3.1\05. Dog Care.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\PB - PREVIOUS EXAMS\15.07.23 Preparation\Preparation\05. Dog Care\obj\Debug\netcoreapp3.1\05. Dog Care.genruntimeconfig.cache

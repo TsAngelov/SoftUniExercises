@@ -1,0 +1,15 @@
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\bin\Debug\net6.0\08. Triangle of numbers.exe
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\bin\Debug\net6.0\08. Triangle of numbers.deps.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\bin\Debug\net6.0\08. Triangle of numbers.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\bin\Debug\net6.0\08. Triangle of numbers.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\bin\Debug\net6.0\08. Triangle of numbers.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\obj\Debug\net6.0\08. Triangle of numbers.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\obj\Debug\net6.0\08. Triangle of numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\obj\Debug\net6.0\08. Triangle of numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\obj\Debug\net6.0\08. Triangle of numbers.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\obj\Debug\net6.0\08. Triangle of numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\obj\Debug\net6.0\08. Triangle of numbers.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\obj\Debug\net6.0\refint\08. Triangle of numbers.dll
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\obj\Debug\net6.0\08. Triangle of numbers.pdb
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\obj\Debug\net6.0\08. Triangle of numbers.genruntimeconfig.cache
+D:\SoftUni\C#\Fundamentals C# 23'\13.09 Basic Syntax, Conditional Statements and Loops\Exercise - Intro Basic Syntax\08. Triangle of numbers\obj\Debug\net6.0\ref\08. Triangle of numbers.dll

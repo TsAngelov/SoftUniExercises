@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\While Loop\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.genruntimeconfig.cache

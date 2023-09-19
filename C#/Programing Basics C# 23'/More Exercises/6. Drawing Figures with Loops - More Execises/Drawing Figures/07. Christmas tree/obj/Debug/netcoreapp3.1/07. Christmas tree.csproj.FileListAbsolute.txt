@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\obj\Debug\netcoreapp3.1\07. Christmas tree.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\obj\Debug\netcoreapp3.1\07. Christmas tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\obj\Debug\netcoreapp3.1\07. Christmas tree.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\obj\Debug\netcoreapp3.1\07. Christmas tree.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\obj\Debug\netcoreapp3.1\07. Christmas tree.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\bin\Debug\netcoreapp3.1\07. Christmas tree.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\bin\Debug\netcoreapp3.1\07. Christmas tree.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\bin\Debug\netcoreapp3.1\07. Christmas tree.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\bin\Debug\netcoreapp3.1\07. Christmas tree.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\bin\Debug\netcoreapp3.1\07. Christmas tree.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\bin\Debug\netcoreapp3.1\07. Christmas tree.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\obj\Debug\netcoreapp3.1\07. Christmas tree.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\obj\Debug\netcoreapp3.1\07. Christmas tree.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\6. Drawing Figures with Loops - More Execises\Drawing Figures\07. Christmas tree\obj\Debug\netcoreapp3.1\07. Christmas tree.genruntimeconfig.cache

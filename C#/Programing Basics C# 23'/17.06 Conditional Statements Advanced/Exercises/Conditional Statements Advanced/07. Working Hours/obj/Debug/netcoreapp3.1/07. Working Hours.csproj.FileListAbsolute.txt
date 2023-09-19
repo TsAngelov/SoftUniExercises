@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\bin\Debug\netcoreapp3.1\07. Working Hours.exe
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\bin\Debug\netcoreapp3.1\07. Working Hours.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\bin\Debug\netcoreapp3.1\07. Working Hours.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\bin\Debug\netcoreapp3.1\07. Working Hours.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\bin\Debug\netcoreapp3.1\07. Working Hours.dll
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\bin\Debug\netcoreapp3.1\07. Working Hours.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\obj\Debug\netcoreapp3.1\07. Working Hours.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\obj\Debug\netcoreapp3.1\07. Working Hours.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\obj\Debug\netcoreapp3.1\07. Working Hours.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\obj\Debug\netcoreapp3.1\07. Working Hours.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\obj\Debug\netcoreapp3.1\07. Working Hours.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\obj\Debug\netcoreapp3.1\07. Working Hours.dll
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\obj\Debug\netcoreapp3.1\07. Working Hours.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\17.06 Conditional Statements Advanced\Exercises\Conditional Statements Advanced\07. Working Hours\obj\Debug\netcoreapp3.1\07. Working Hours.genruntimeconfig.cache

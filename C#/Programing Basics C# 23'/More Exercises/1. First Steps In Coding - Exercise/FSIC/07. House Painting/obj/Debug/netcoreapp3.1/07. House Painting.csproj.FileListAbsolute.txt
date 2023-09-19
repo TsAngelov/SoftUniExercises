@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.genruntimeconfig.cache

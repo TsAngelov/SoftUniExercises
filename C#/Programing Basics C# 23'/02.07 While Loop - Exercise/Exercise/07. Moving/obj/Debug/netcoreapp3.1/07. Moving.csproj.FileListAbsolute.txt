@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.exe
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.dll
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.dll
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\02.07 While Loop - Exercise\Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.genruntimeconfig.cache

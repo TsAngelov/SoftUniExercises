@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\bin\Debug\netcoreapp3.1\03. Logistics.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\bin\Debug\netcoreapp3.1\03. Logistics.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\bin\Debug\netcoreapp3.1\03. Logistics.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\bin\Debug\netcoreapp3.1\03. Logistics.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\bin\Debug\netcoreapp3.1\03. Logistics.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\bin\Debug\netcoreapp3.1\03. Logistics.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\obj\Debug\netcoreapp3.1\03. Logistics.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\obj\Debug\netcoreapp3.1\03. Logistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\obj\Debug\netcoreapp3.1\03. Logistics.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\obj\Debug\netcoreapp3.1\03. Logistics.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\obj\Debug\netcoreapp3.1\03. Logistics.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\obj\Debug\netcoreapp3.1\03. Logistics.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\obj\Debug\netcoreapp3.1\03. Logistics.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\4. While Loop - Exercise\More Exercises\03. Logistics\obj\Debug\netcoreapp3.1\03. Logistics.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\bin\Debug\netcoreapp3.1\04. Vegetable exchange.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\bin\Debug\netcoreapp3.1\04. Vegetable exchange.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\bin\Debug\netcoreapp3.1\04. Vegetable exchange.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\bin\Debug\netcoreapp3.1\04. Vegetable exchange.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\bin\Debug\netcoreapp3.1\04. Vegetable exchange.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\bin\Debug\netcoreapp3.1\04. Vegetable exchange.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\obj\Debug\netcoreapp3.1\04. Vegetable exchange.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\obj\Debug\netcoreapp3.1\04. Vegetable exchange.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\obj\Debug\netcoreapp3.1\04. Vegetable exchange.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\obj\Debug\netcoreapp3.1\04. Vegetable exchange.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\obj\Debug\netcoreapp3.1\04. Vegetable exchange.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\obj\Debug\netcoreapp3.1\04. Vegetable exchange.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\obj\Debug\netcoreapp3.1\04. Vegetable exchange.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Excercises\First Steps In Coding - Exercise\FSIC\04. Vegetable exchange\obj\Debug\netcoreapp3.1\04. Vegetable exchange.genruntimeconfig.cache

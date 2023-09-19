@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\bin\Debug\netcoreapp3.1\07.  Hotel Room.exe
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\bin\Debug\netcoreapp3.1\07.  Hotel Room.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\bin\Debug\netcoreapp3.1\07.  Hotel Room.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\bin\Debug\netcoreapp3.1\07.  Hotel Room.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\bin\Debug\netcoreapp3.1\07.  Hotel Room.dll
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\bin\Debug\netcoreapp3.1\07.  Hotel Room.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\obj\Debug\netcoreapp3.1\07.  Hotel Room.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\obj\Debug\netcoreapp3.1\07.  Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\obj\Debug\netcoreapp3.1\07.  Hotel Room.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\obj\Debug\netcoreapp3.1\07.  Hotel Room.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\obj\Debug\netcoreapp3.1\07.  Hotel Room.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\obj\Debug\netcoreapp3.1\07.  Hotel Room.dll
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\obj\Debug\netcoreapp3.1\07.  Hotel Room.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\18.06 Conditional Statements Advanced - Exercise\Exercise\07.  Hotel Room\obj\Debug\netcoreapp3.1\07.  Hotel Room.genruntimeconfig.cache

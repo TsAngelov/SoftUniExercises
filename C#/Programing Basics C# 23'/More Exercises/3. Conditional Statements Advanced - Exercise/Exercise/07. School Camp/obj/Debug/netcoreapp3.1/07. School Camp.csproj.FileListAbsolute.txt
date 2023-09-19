@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\3. Conditional Statements Advanced - Exercise\Exercise\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.genruntimeconfig.cache

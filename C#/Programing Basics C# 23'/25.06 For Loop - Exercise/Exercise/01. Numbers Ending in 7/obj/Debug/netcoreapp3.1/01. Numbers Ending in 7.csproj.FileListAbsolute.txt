@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.exe
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.genruntimeconfig.cache

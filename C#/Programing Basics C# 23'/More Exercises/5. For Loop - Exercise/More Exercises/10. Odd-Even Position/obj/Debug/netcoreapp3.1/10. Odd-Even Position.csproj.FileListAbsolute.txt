@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\bin\Debug\netcoreapp3.1\10. Odd-Even Position.exe
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\bin\Debug\netcoreapp3.1\10. Odd-Even Position.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\bin\Debug\netcoreapp3.1\10. Odd-Even Position.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\bin\Debug\netcoreapp3.1\10. Odd-Even Position.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\bin\Debug\netcoreapp3.1\10. Odd-Even Position.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\bin\Debug\netcoreapp3.1\10. Odd-Even Position.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\obj\Debug\netcoreapp3.1\10. Odd-Even Position.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\obj\Debug\netcoreapp3.1\10. Odd-Even Position.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\obj\Debug\netcoreapp3.1\10. Odd-Even Position.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\obj\Debug\netcoreapp3.1\10. Odd-Even Position.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\obj\Debug\netcoreapp3.1\10. Odd-Even Position.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\obj\Debug\netcoreapp3.1\10. Odd-Even Position.dll
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\obj\Debug\netcoreapp3.1\10. Odd-Even Position.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\More Exercises\5. For Loop - Exercise\More Exercises\10. Odd-Even Position\obj\Debug\netcoreapp3.1\10. Odd-Even Position.genruntimeconfig.cache

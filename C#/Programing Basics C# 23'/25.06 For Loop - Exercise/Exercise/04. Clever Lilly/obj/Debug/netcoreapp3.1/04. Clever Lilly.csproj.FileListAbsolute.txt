@@ -1,0 +1,14 @@
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\bin\Debug\netcoreapp3.1\04. Clever Lilly.exe
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\bin\Debug\netcoreapp3.1\04. Clever Lilly.deps.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\bin\Debug\netcoreapp3.1\04. Clever Lilly.runtimeconfig.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\bin\Debug\netcoreapp3.1\04. Clever Lilly.runtimeconfig.dev.json
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\bin\Debug\netcoreapp3.1\04. Clever Lilly.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\bin\Debug\netcoreapp3.1\04. Clever Lilly.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\obj\Debug\netcoreapp3.1\04. Clever Lilly.csproj.AssemblyReference.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\obj\Debug\netcoreapp3.1\04. Clever Lilly.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\obj\Debug\netcoreapp3.1\04. Clever Lilly.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\obj\Debug\netcoreapp3.1\04. Clever Lilly.AssemblyInfo.cs
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\obj\Debug\netcoreapp3.1\04. Clever Lilly.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\obj\Debug\netcoreapp3.1\04. Clever Lilly.dll
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\obj\Debug\netcoreapp3.1\04. Clever Lilly.pdb
+D:\SoftUni\C#\Programing Basics C# 23'\24.06 For Loop\Exercises\Exercise\04. Clever Lilly\obj\Debug\netcoreapp3.1\04. Clever Lilly.genruntimeconfig.cache
