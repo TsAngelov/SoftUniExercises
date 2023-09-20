@@ -1,2 +1,2 @@
 # SoftUniExercises
-Решени задачи от модулите на SoftUni
+My solutions of SoftUni Exercises
