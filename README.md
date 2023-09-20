@@ -1,5 +1,5 @@
 <p align="center">
-# SoftUniExercises
+#SoftUniExercises
 </p>
 <p align="center">
 My solutions of SoftUni Exercises
