@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\bin\Debug\net6.0\12. Refactor Special Numbers.exe
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\bin\Debug\net6.0\12. Refactor Special Numbers.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\bin\Debug\net6.0\12. Refactor Special Numbers.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\bin\Debug\net6.0\12. Refactor Special Numbers.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\bin\Debug\net6.0\12. Refactor Special Numbers.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\obj\Debug\net6.0\refint\12. Refactor Special Numbers.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\12. Refactor Special Numbers\obj\Debug\net6.0\ref\12. Refactor Special Numbers.dll

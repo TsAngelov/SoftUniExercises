@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.exe
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\obj\Debug\net6.0\refint\01. Convert Meters to Kilometers.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\01. Convert Meters to Kilometers\obj\Debug\net6.0\ref\01. Convert Meters to Kilometers.dll

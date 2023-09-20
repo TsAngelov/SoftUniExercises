@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\bin\Debug\net6.0\09. Chars to String.exe
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\bin\Debug\net6.0\09. Chars to String.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\bin\Debug\net6.0\09. Chars to String.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\bin\Debug\net6.0\09. Chars to String.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\bin\Debug\net6.0\09. Chars to String.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\obj\Debug\net6.0\09. Chars to String.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\obj\Debug\net6.0\09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\obj\Debug\net6.0\09. Chars to String.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\obj\Debug\net6.0\09. Chars to String.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\obj\Debug\net6.0\09. Chars to String.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\obj\Debug\net6.0\09. Chars to String.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\obj\Debug\net6.0\refint\09. Chars to String.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\obj\Debug\net6.0\09. Chars to String.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\obj\Debug\net6.0\09. Chars to String.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\09. Chars to String\obj\Debug\net6.0\ref\09. Chars to String.dll

@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.exe
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\obj\Debug\net6.0\refint\05. Special Numbers.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\05. Special Numbers\obj\Debug\net6.0\ref\05. Special Numbers.dll

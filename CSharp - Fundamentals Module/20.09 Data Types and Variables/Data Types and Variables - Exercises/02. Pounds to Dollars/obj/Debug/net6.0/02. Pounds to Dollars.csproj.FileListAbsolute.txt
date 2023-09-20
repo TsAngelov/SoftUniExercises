@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.exe
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\obj\Debug\net6.0\refint\02. Pounds to Dollars.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\02. Pounds to Dollars\obj\Debug\net6.0\ref\02. Pounds to Dollars.dll

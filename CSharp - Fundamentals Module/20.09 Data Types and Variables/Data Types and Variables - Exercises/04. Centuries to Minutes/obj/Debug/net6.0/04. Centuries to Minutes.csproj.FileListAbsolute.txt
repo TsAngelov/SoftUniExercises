@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\bin\Debug\net6.0\04. Centuries to Minutes.exe
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\bin\Debug\net6.0\04. Centuries to Minutes.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\bin\Debug\net6.0\04. Centuries to Minutes.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\bin\Debug\net6.0\04. Centuries to Minutes.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\bin\Debug\net6.0\04. Centuries to Minutes.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\obj\Debug\net6.0\04. Centuries to Minutes.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\obj\Debug\net6.0\04. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\obj\Debug\net6.0\04. Centuries to Minutes.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\obj\Debug\net6.0\04. Centuries to Minutes.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\obj\Debug\net6.0\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\obj\Debug\net6.0\04. Centuries to Minutes.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\obj\Debug\net6.0\refint\04. Centuries to Minutes.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\obj\Debug\net6.0\04. Centuries to Minutes.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\obj\Debug\net6.0\04. Centuries to Minutes.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\04. Centuries to Minutes\obj\Debug\net6.0\ref\04. Centuries to Minutes.dll

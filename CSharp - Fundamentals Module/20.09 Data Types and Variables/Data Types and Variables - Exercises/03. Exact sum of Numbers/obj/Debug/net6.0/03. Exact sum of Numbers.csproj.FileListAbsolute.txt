@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\bin\Debug\net6.0\03. Exact sum of Numbers.exe
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\bin\Debug\net6.0\03. Exact sum of Numbers.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\bin\Debug\net6.0\03. Exact sum of Numbers.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\bin\Debug\net6.0\03. Exact sum of Numbers.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\bin\Debug\net6.0\03. Exact sum of Numbers.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\obj\Debug\net6.0\03. Exact sum of Numbers.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\obj\Debug\net6.0\03. Exact sum of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\obj\Debug\net6.0\03. Exact sum of Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\obj\Debug\net6.0\03. Exact sum of Numbers.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\obj\Debug\net6.0\03. Exact sum of Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\obj\Debug\net6.0\03. Exact sum of Numbers.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\obj\Debug\net6.0\refint\03. Exact sum of Numbers.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\obj\Debug\net6.0\03. Exact sum of Numbers.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\obj\Debug\net6.0\03. Exact sum of Numbers.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types and Variables\Data Types and Variables - Exercises\03. Exact sum of Numbers\obj\Debug\net6.0\ref\03. Exact sum of Numbers.dll
