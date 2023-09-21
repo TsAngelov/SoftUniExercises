@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\bin\Debug\net6.0\03. Elevator.exe
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\bin\Debug\net6.0\03. Elevator.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\bin\Debug\net6.0\03. Elevator.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\bin\Debug\net6.0\03. Elevator.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\bin\Debug\net6.0\03. Elevator.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\obj\Debug\net6.0\03. Elevator.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\obj\Debug\net6.0\03. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\obj\Debug\net6.0\03. Elevator.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\obj\Debug\net6.0\03. Elevator.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\obj\Debug\net6.0\03. Elevator.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\obj\Debug\net6.0\03. Elevator.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\obj\Debug\net6.0\refint\03. Elevator.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\obj\Debug\net6.0\03. Elevator.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\obj\Debug\net6.0\03. Elevator.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\03. Elevator\obj\Debug\net6.0\ref\03. Elevator.dll

@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\bin\Debug\net6.0\05. Print Part of ASCII Table.exe
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\bin\Debug\net6.0\05. Print Part of ASCII Table.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\bin\Debug\net6.0\05. Print Part of ASCII Table.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\bin\Debug\net6.0\05. Print Part of ASCII Table.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\bin\Debug\net6.0\05. Print Part of ASCII Table.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\obj\Debug\net6.0\05. Print Part of ASCII Table.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\obj\Debug\net6.0\05. Print Part of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\obj\Debug\net6.0\05. Print Part of ASCII Table.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\obj\Debug\net6.0\05. Print Part of ASCII Table.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\obj\Debug\net6.0\05. Print Part of ASCII Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\obj\Debug\net6.0\05. Print Part of ASCII Table.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\obj\Debug\net6.0\refint\05. Print Part of ASCII Table.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\obj\Debug\net6.0\05. Print Part of ASCII Table.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\obj\Debug\net6.0\05. Print Part of ASCII Table.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\05. Print Part of ASCII Table\obj\Debug\net6.0\ref\05. Print Part of ASCII Table.dll

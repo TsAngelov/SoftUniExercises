@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\bin\Debug\net6.0\1. Integer Operations.exe
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\bin\Debug\net6.0\1. Integer Operations.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\bin\Debug\net6.0\1. Integer Operations.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\bin\Debug\net6.0\1. Integer Operations.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\bin\Debug\net6.0\1. Integer Operations.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net6.0\refint\1. Integer Operations.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net6.0\ref\1. Integer Operations.dll

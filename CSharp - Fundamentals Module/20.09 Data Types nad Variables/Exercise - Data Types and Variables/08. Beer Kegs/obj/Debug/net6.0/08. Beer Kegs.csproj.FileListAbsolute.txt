@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\bin\Debug\net6.0\08. Beer Kegs.exe
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\bin\Debug\net6.0\08. Beer Kegs.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\bin\Debug\net6.0\08. Beer Kegs.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\bin\Debug\net6.0\08. Beer Kegs.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\bin\Debug\net6.0\08. Beer Kegs.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\obj\Debug\net6.0\08. Beer Kegs.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\obj\Debug\net6.0\08. Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\obj\Debug\net6.0\08. Beer Kegs.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\obj\Debug\net6.0\08. Beer Kegs.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\obj\Debug\net6.0\08. Beer Kegs.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\obj\Debug\net6.0\08. Beer Kegs.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\obj\Debug\net6.0\refint\08. Beer Kegs.dll
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\obj\Debug\net6.0\08. Beer Kegs.pdb
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\obj\Debug\net6.0\08. Beer Kegs.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\20.09 Data Types nad Variables\Exercise - Data Types and Variables\08. Beer Kegs\obj\Debug\net6.0\ref\08. Beer Kegs.dll
