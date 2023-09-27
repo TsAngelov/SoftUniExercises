@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\bin\Debug\net6.0\02. Print Numbers in Reverse Order.exe
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\bin\Debug\net6.0\02. Print Numbers in Reverse Order.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\bin\Debug\net6.0\02. Print Numbers in Reverse Order.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\bin\Debug\net6.0\02. Print Numbers in Reverse Order.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\bin\Debug\net6.0\02. Print Numbers in Reverse Order.pdb
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net6.0\refint\02. Print Numbers in Reverse Order.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.pdb
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net6.0\ref\02. Print Numbers in Reverse Order.dll

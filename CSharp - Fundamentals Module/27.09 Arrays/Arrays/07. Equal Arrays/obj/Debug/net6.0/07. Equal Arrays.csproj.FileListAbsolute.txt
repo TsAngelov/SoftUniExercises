@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\obj\Debug\net6.0\07. Equal Arrays.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\obj\Debug\net6.0\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\obj\Debug\net6.0\07. Equal Arrays.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\obj\Debug\net6.0\07. Equal Arrays.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\obj\Debug\net6.0\07. Equal Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\bin\Debug\net6.0\07. Equal Arrays.exe
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\bin\Debug\net6.0\07. Equal Arrays.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\bin\Debug\net6.0\07. Equal Arrays.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\bin\Debug\net6.0\07. Equal Arrays.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\bin\Debug\net6.0\07. Equal Arrays.pdb
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\obj\Debug\net6.0\07. Equal Arrays.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\obj\Debug\net6.0\refint\07. Equal Arrays.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\obj\Debug\net6.0\07. Equal Arrays.pdb
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\obj\Debug\net6.0\07. Equal Arrays.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\07. Equal Arrays\obj\Debug\net6.0\ref\07. Equal Arrays.dll

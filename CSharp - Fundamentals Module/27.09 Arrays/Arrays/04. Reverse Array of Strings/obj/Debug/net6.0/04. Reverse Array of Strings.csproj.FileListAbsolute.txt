@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\bin\Debug\net6.0\04. Reverse Array of Strings.exe
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\bin\Debug\net6.0\04. Reverse Array of Strings.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\bin\Debug\net6.0\04. Reverse Array of Strings.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\bin\Debug\net6.0\04. Reverse Array of Strings.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\bin\Debug\net6.0\04. Reverse Array of Strings.pdb
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\obj\Debug\net6.0\04. Reverse Array of Strings.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\obj\Debug\net6.0\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\obj\Debug\net6.0\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\obj\Debug\net6.0\04. Reverse Array of Strings.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\obj\Debug\net6.0\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\obj\Debug\net6.0\04. Reverse Array of Strings.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\obj\Debug\net6.0\refint\04. Reverse Array of Strings.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\obj\Debug\net6.0\04. Reverse Array of Strings.pdb
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\obj\Debug\net6.0\04. Reverse Array of Strings.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.09 Arrays\Arrays\04. Reverse Array of Strings\obj\Debug\net6.0\ref\04. Reverse Array of Strings.dll
