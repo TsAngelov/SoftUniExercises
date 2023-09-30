@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\bin\Debug\net6.0\2. Common Elements.exe
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\bin\Debug\net6.0\2. Common Elements.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\bin\Debug\net6.0\2. Common Elements.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\bin\Debug\net6.0\2. Common Elements.dll
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\bin\Debug\net6.0\2. Common Elements.pdb
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.dll
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\obj\Debug\net6.0\refint\2. Common Elements.dll
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.pdb
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\2. Common Elements\obj\Debug\net6.0\ref\2. Common Elements.dll

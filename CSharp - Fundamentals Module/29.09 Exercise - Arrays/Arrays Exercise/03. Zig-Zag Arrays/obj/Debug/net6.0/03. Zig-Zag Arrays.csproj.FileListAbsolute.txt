@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\bin\Debug\net6.0\03. Zig-Zag Arrays.exe
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\bin\Debug\net6.0\03. Zig-Zag Arrays.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\bin\Debug\net6.0\03. Zig-Zag Arrays.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\bin\Debug\net6.0\03. Zig-Zag Arrays.dll
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\bin\Debug\net6.0\03. Zig-Zag Arrays.pdb
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\obj\Debug\net6.0\03. Zig-Zag Arrays.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\obj\Debug\net6.0\03. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\obj\Debug\net6.0\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\obj\Debug\net6.0\03. Zig-Zag Arrays.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\obj\Debug\net6.0\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\obj\Debug\net6.0\03. Zig-Zag Arrays.dll
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\obj\Debug\net6.0\refint\03. Zig-Zag Arrays.dll
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\obj\Debug\net6.0\03. Zig-Zag Arrays.pdb
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\obj\Debug\net6.0\03. Zig-Zag Arrays.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\03. Zig-Zag Arrays\obj\Debug\net6.0\ref\03. Zig-Zag Arrays.dll

@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\bin\Debug\net6.0\01. Train.exe
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\bin\Debug\net6.0\01. Train.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\bin\Debug\net6.0\01. Train.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\bin\Debug\net6.0\01. Train.dll
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\bin\Debug\net6.0\01. Train.pdb
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\obj\Debug\net6.0\01. Train.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\obj\Debug\net6.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\obj\Debug\net6.0\01. Train.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\obj\Debug\net6.0\01. Train.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\obj\Debug\net6.0\01. Train.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\obj\Debug\net6.0\01. Train.dll
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\obj\Debug\net6.0\refint\01. Train.dll
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\obj\Debug\net6.0\01. Train.pdb
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\obj\Debug\net6.0\01. Train.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\01. Train\obj\Debug\net6.0\ref\01. Train.dll
