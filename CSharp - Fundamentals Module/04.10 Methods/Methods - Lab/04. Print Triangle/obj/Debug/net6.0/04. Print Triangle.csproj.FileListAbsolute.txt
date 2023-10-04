@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\bin\Debug\net6.0\04. Print Triangle.exe
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\bin\Debug\net6.0\04. Print Triangle.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\bin\Debug\net6.0\04. Print Triangle.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\bin\Debug\net6.0\04. Print Triangle.dll
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\bin\Debug\net6.0\04. Print Triangle.pdb
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\obj\Debug\net6.0\04. Print Triangle.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\obj\Debug\net6.0\04. Print Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\obj\Debug\net6.0\04. Print Triangle.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\obj\Debug\net6.0\04. Print Triangle.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\obj\Debug\net6.0\04. Print Triangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\obj\Debug\net6.0\04. Print Triangle.dll
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\obj\Debug\net6.0\refint\04. Print Triangle.dll
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\obj\Debug\net6.0\04. Print Triangle.pdb
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\obj\Debug\net6.0\04. Print Triangle.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\04. Print Triangle\obj\Debug\net6.0\ref\04. Print Triangle.dll
