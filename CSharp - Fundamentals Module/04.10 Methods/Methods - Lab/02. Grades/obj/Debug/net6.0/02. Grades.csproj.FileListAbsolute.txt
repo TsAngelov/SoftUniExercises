@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\bin\Debug\net6.0\02. Grades.exe
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\bin\Debug\net6.0\02. Grades.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\bin\Debug\net6.0\02. Grades.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\bin\Debug\net6.0\02. Grades.dll
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\bin\Debug\net6.0\02. Grades.pdb
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\obj\Debug\net6.0\02. Grades.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\obj\Debug\net6.0\02. Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\obj\Debug\net6.0\02. Grades.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\obj\Debug\net6.0\02. Grades.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\obj\Debug\net6.0\02. Grades.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\obj\Debug\net6.0\02. Grades.dll
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\obj\Debug\net6.0\refint\02. Grades.dll
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\obj\Debug\net6.0\02. Grades.pdb
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\obj\Debug\net6.0\02. Grades.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\02. Grades\obj\Debug\net6.0\ref\02. Grades.dll
