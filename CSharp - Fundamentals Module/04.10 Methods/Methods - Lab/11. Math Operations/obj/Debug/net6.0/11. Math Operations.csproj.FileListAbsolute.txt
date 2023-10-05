@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\bin\Debug\net6.0\11. Math Operations.exe
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\bin\Debug\net6.0\11. Math Operations.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\bin\Debug\net6.0\11. Math Operations.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\bin\Debug\net6.0\11. Math Operations.dll
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\bin\Debug\net6.0\11. Math Operations.pdb
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\obj\Debug\net6.0\11. Math Operations.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\obj\Debug\net6.0\11. Math Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\obj\Debug\net6.0\11. Math Operations.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\obj\Debug\net6.0\11. Math Operations.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\obj\Debug\net6.0\11. Math Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\obj\Debug\net6.0\11. Math Operations.dll
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\obj\Debug\net6.0\refint\11. Math Operations.dll
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\obj\Debug\net6.0\11. Math Operations.pdb
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\obj\Debug\net6.0\11. Math Operations.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\04.10 Methods\Methods - Lab\11. Math Operations\obj\Debug\net6.0\ref\11. Math Operations.dll
