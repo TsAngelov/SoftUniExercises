@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\bin\Debug\net6.0\10. Top Number.exe
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\bin\Debug\net6.0\10. Top Number.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\bin\Debug\net6.0\10. Top Number.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\bin\Debug\net6.0\10. Top Number.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\bin\Debug\net6.0\10. Top Number.pdb
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\obj\Debug\net6.0\10. Top Number.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\obj\Debug\net6.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\obj\Debug\net6.0\10. Top Number.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\obj\Debug\net6.0\10. Top Number.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\obj\Debug\net6.0\10. Top Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\obj\Debug\net6.0\10. Top Number.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\obj\Debug\net6.0\refint\10. Top Number.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\obj\Debug\net6.0\10. Top Number.pdb
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\obj\Debug\net6.0\10. Top Number.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\10. Top Number\obj\Debug\net6.0\ref\10. Top Number.dll

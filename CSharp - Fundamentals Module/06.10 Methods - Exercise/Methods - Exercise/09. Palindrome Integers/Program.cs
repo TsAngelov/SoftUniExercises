@@ -10,7 +10,7 @@
                 Console.WriteLine(IsPalindrome(input));
             }
         }
-        static bool IsPalindrome(string number)
+        static string IsPalindrome(string number)
         {
             int num = int.Parse(number);
             int numTemp = num;
@@ -22,9 +22,9 @@
                 numTemp /= 10;
             }
             if (reverse == num)
-                return true;
+                return "True";
             else
-                return false;
+                return "False";
         }
     }
 }
