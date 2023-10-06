@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.exe
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.pdb
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\refint\01. Smallest of Three Numbers.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.pdb
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\ref\01. Smallest of Three Numbers.dll
