@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\bin\Debug\net6.0\09. Palindrome Integers.exe
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\bin\Debug\net6.0\09. Palindrome Integers.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\bin\Debug\net6.0\09. Palindrome Integers.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\bin\Debug\net6.0\09. Palindrome Integers.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\bin\Debug\net6.0\09. Palindrome Integers.pdb
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\obj\Debug\net6.0\09. Palindrome Integers.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\obj\Debug\net6.0\09. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\obj\Debug\net6.0\09. Palindrome Integers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\obj\Debug\net6.0\09. Palindrome Integers.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\obj\Debug\net6.0\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\obj\Debug\net6.0\09. Palindrome Integers.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\obj\Debug\net6.0\refint\09. Palindrome Integers.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\obj\Debug\net6.0\09. Palindrome Integers.pdb
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\obj\Debug\net6.0\09. Palindrome Integers.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\09. Palindrome Integers\obj\Debug\net6.0\ref\09. Palindrome Integers.dll

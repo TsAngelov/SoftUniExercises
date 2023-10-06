@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\bin\Debug\net6.0\07. NxN Matrix.exe
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\bin\Debug\net6.0\07. NxN Matrix.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\bin\Debug\net6.0\07. NxN Matrix.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\bin\Debug\net6.0\07. NxN Matrix.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\bin\Debug\net6.0\07. NxN Matrix.pdb
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\obj\Debug\net6.0\07. NxN Matrix.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\obj\Debug\net6.0\07. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\obj\Debug\net6.0\07. NxN Matrix.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\obj\Debug\net6.0\07. NxN Matrix.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\obj\Debug\net6.0\07. NxN Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\obj\Debug\net6.0\07. NxN Matrix.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\obj\Debug\net6.0\refint\07. NxN Matrix.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\obj\Debug\net6.0\07. NxN Matrix.pdb
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\obj\Debug\net6.0\07. NxN Matrix.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\07. NxN Matrix\obj\Debug\net6.0\ref\07. NxN Matrix.dll
