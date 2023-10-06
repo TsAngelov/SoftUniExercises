@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\bin\Debug\net6.0\02. Vowels Count.exe
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\bin\Debug\net6.0\02. Vowels Count.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\bin\Debug\net6.0\02. Vowels Count.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\bin\Debug\net6.0\02. Vowels Count.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\bin\Debug\net6.0\02. Vowels Count.pdb
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\refint\02. Vowels Count.dll
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.pdb
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\06.10 Methods - Exercise\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\ref\02. Vowels Count.dll
