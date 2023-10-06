@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\CSharp - Fundamentals Module\\06.10 Methods - Exercise\\Methods - Exercise\\5. Add and Subtract\\5. Add and Subtract.csproj",
-      "projectName": "5. Add and Subtract",
-      "projectPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\06.10 Methods - Exercise\\Methods - Exercise\\5. Add and Subtract\\5. Add and Subtract.csproj",
+      "projectUniqueName": "D:\\SoftUni\\CSharp - Fundamentals Module\\06.10 Methods - Exercise\\Methods - Exercise\\5. Add and Subtract\\05. Add and Subtract.csproj",
+      "projectName": "05. Add and Subtract",
+      "projectPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\06.10 Methods - Exercise\\Methods - Exercise\\5. Add and Subtract\\05. Add and Subtract.csproj",
       "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
       "outputPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\06.10 Methods - Exercise\\Methods - Exercise\\5. Add and Subtract\\obj\\",
       "projectStyle": "PackageReference",

@@ -17,7 +17,5 @@
         {
             Console.WriteLine(SumMethod(num1, num2) - num3); 
         }
-
-
     }
 }
