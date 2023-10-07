@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\bin\Debug\net6.0\06. Equal Sums.exe
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\bin\Debug\net6.0\06. Equal Sums.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\bin\Debug\net6.0\06. Equal Sums.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\bin\Debug\net6.0\06. Equal Sums.dll
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\bin\Debug\net6.0\06. Equal Sums.pdb
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\obj\Debug\net6.0\06. Equal Sums.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\obj\Debug\net6.0\06. Equal Sums.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\obj\Debug\net6.0\06. Equal Sums.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\obj\Debug\net6.0\06. Equal Sums.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\obj\Debug\net6.0\06. Equal Sums.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\obj\Debug\net6.0\06. Equal Sums.dll
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\obj\Debug\net6.0\refint\06. Equal Sums.dll
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\obj\Debug\net6.0\06. Equal Sums.pdb
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\obj\Debug\net6.0\06. Equal Sums.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\29.09 Exercise - Arrays\Arrays Exercise\06. Equal Sums\obj\Debug\net6.0\ref\06. Equal Sums.dll
