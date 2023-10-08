@@ -10,6 +10,8 @@
             int longestLength = 0;
             for (int i = 0; i < numbers.Length; i++)
             {
+                int currentStart = i - 1;
+                int currentLength = 1;
             }
         }
     }
