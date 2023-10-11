@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\bin\Debug\net6.0\02. Gauss' Trick.exe
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\bin\Debug\net6.0\02. Gauss' Trick.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\bin\Debug\net6.0\02. Gauss' Trick.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\bin\Debug\net6.0\02. Gauss' Trick.dll
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\bin\Debug\net6.0\02. Gauss' Trick.pdb
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.dll
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\obj\Debug\net6.0\refint\02. Gauss' Trick.dll
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.pdb
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\02. Gauss' Trick\obj\Debug\net6.0\ref\02. Gauss' Trick.dll

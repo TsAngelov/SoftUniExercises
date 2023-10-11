@@ -4,17 +4,7 @@
     {
         static void Main(string[] args)
         {
-            List<double> numbers = new List<double>(Console.ReadLine().Split().Select(double.Parse).ToList());
-            for (int i = 0; i < numbers.Count - 1; i++)
-            {
-                if (numbers[i] == numbers[i + 1])
-                {
-                    numbers[i] += numbers[i + 1];
-                    numbers.RemoveAt(i + 1);
-                    i = -1;
-                }
-            }
-            Console.WriteLine(string.Join(" ", numbers));
+            List<int> numbers = new List<int>(Console.ReadLine().Split().Select(int.Parse).ToList());
         }
     }
 }
