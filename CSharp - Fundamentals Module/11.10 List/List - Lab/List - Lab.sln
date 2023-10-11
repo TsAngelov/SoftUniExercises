@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sum Adjacent Equal Numbers", "01. Sum Adjacent Equal Numbers\01. Sum Adjacent Equal Numbers.csproj", "{53ABA8C0-7A41-4708-ABF0-88EB284960F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{A1C67EE0-37CB-481B-AD80-699498BA4361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53ABA8C0-7A41-4708-ABF0-88EB284960F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ABA8C0-7A41-4708-ABF0-88EB284960F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53ABA8C0-7A41-4708-ABF0-88EB284960F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53ABA8C0-7A41-4708-ABF0-88EB284960F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C67EE0-37CB-481B-AD80-699498BA4361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C67EE0-37CB-481B-AD80-699498BA4361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C67EE0-37CB-481B-AD80-699498BA4361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C67EE0-37CB-481B-AD80-699498BA4361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1810DA14-F3BC-47C6-A3FD-F1B69C4279BC}
+	EndGlobalSection
+EndGlobal
