@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Merging Lists", "03. Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. List of Products", "04. List of Products\04. List of Products.csproj", "{9F6B2BED-9B5E-4A9A-8C90-566E89C30393}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Remove Negatives and Reverse", "05. Remove Negatives and Reverse\05. Remove Negatives and Reverse.csproj", "{860F7DEF-EC34-464C-B894-6008762383F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. List Manipulation Basics", "06. List Manipulation Basics\06. List Manipulation Basics.csproj", "{1D4C6CDB-447D-4919-8F8E-2FAF82F9D625}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{9F6B2BED-9B5E-4A9A-8C90-566E89C30393}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F6B2BED-9B5E-4A9A-8C90-566E89C30393}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F6B2BED-9B5E-4A9A-8C90-566E89C30393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{860F7DEF-EC34-464C-B894-6008762383F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860F7DEF-EC34-464C-B894-6008762383F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860F7DEF-EC34-464C-B894-6008762383F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860F7DEF-EC34-464C-B894-6008762383F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D4C6CDB-447D-4919-8F8E-2FAF82F9D625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4C6CDB-447D-4919-8F8E-2FAF82F9D625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4C6CDB-447D-4919-8F8E-2FAF82F9D625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4C6CDB-447D-4919-8F8E-2FAF82F9D625}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
