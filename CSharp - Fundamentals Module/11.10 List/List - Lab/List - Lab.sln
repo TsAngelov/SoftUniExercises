@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Sum Adjacent Equal Numb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo", "demo\demo.csproj", "{A1C67EE0-37CB-481B-AD80-699498BA4361}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Gauss' Trick", "02. Gauss' Trick\02. Gauss' Trick.csproj", "{6247917C-87BF-4AC6-A757-3194525105D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Gauss' Trick", "02. Gauss' Trick\02. Gauss' Trick.csproj", "{6247917C-87BF-4AC6-A757-3194525105D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Merging Lists", "03. Merging Lists\03. Merging Lists.csproj", "{527B1F89-3151-4ED5-B27F-4A9966450744}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Merging Lists", "03. Merging Lists\03. Merging Lists.csproj", "{527B1F89-3151-4ED5-B27F-4A9966450744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. List of Products", "04. List of Products\04. List of Products.csproj", "{9F6B2BED-9B5E-4A9A-8C90-566E89C30393}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{527B1F89-3151-4ED5-B27F-4A9966450744}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{527B1F89-3151-4ED5-B27F-4A9966450744}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{527B1F89-3151-4ED5-B27F-4A9966450744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6B2BED-9B5E-4A9A-8C90-566E89C30393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6B2BED-9B5E-4A9A-8C90-566E89C30393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6B2BED-9B5E-4A9A-8C90-566E89C30393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6B2BED-9B5E-4A9A-8C90-566E89C30393}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
