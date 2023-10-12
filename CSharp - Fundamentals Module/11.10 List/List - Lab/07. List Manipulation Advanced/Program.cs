@@ -85,36 +85,28 @@
                     foreach (int num in integers)
                     {
                         if (num < number)
-                        {
                             Console.Write(num + " ");
-                        }
                     }
                     break;
                 case ">":
-                    foreach (int num in temp)
+                    foreach (int num in integers)
                     {
                         if (num > number)
-                        {
                             Console.Write(num + " ");
-                        }
                     }
                     break;
                 case ">=":
-                    foreach (int num in temp)
+                    foreach (int num in integers)
                     {
                         if (num >= number)
-                        {
                             Console.Write(num + " ");
-                        }
                     }
                     break;
                 case "<=":
-                    foreach (int num in temp)
+                    foreach (int num in integers)
                     {
                         if (num <= number)
-                        {
                             Console.Write(num + " ");
-                        }
                     }
                     break;
             }
