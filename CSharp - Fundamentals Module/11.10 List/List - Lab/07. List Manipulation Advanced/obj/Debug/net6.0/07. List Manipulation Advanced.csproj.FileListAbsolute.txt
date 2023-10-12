@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\obj\Debug\net6.0\07. List Manipulation Advanced.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\obj\Debug\net6.0\07. List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\obj\Debug\net6.0\07. List Manipulation Advanced.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\obj\Debug\net6.0\07. List Manipulation Advanced.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\obj\Debug\net6.0\07. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\bin\Debug\net6.0\07. List Manipulation Advanced.exe
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\bin\Debug\net6.0\07. List Manipulation Advanced.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\bin\Debug\net6.0\07. List Manipulation Advanced.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\bin\Debug\net6.0\07. List Manipulation Advanced.dll
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\bin\Debug\net6.0\07. List Manipulation Advanced.pdb
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\obj\Debug\net6.0\07. List Manipulation Advanced.dll
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\obj\Debug\net6.0\refint\07. List Manipulation Advanced.dll
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\obj\Debug\net6.0\07. List Manipulation Advanced.pdb
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\obj\Debug\net6.0\07. List Manipulation Advanced.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\11.10 List\List - Lab\07. List Manipulation Advanced\obj\Debug\net6.0\ref\07. List Manipulation Advanced.dll
