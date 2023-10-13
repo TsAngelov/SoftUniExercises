@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\bin\Debug\net6.0\03. House Party.exe
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\bin\Debug\net6.0\03. House Party.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\bin\Debug\net6.0\03. House Party.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\bin\Debug\net6.0\03. House Party.dll
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\bin\Debug\net6.0\03. House Party.pdb
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\obj\Debug\net6.0\03. House Party.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\obj\Debug\net6.0\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\obj\Debug\net6.0\03. House Party.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\obj\Debug\net6.0\03. House Party.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\obj\Debug\net6.0\03. House Party.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\obj\Debug\net6.0\03. House Party.dll
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\obj\Debug\net6.0\refint\03. House Party.dll
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\obj\Debug\net6.0\03. House Party.pdb
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\obj\Debug\net6.0\03. House Party.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\03. House Party\obj\Debug\net6.0\ref\03. House Party.dll
