@@ -24,10 +24,9 @@
                         Console.WriteLine(name + " is not in the list!");
                     else
                         guests.Add(name);
-                }
-                
+                }  
             }
-            Console.WriteLine(string.Join(" ", guests));
+            Console.WriteLine(string.Join("\n", guests));
         }
     }
 }

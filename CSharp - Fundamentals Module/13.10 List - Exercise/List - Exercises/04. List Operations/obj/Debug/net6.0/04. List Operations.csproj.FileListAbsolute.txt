@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\bin\Debug\net6.0\04. List Operations.exe
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\bin\Debug\net6.0\04. List Operations.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\bin\Debug\net6.0\04. List Operations.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\bin\Debug\net6.0\04. List Operations.dll
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\bin\Debug\net6.0\04. List Operations.pdb
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\obj\Debug\net6.0\04. List Operations.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\obj\Debug\net6.0\04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\obj\Debug\net6.0\04. List Operations.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\obj\Debug\net6.0\04. List Operations.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\obj\Debug\net6.0\04. List Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\obj\Debug\net6.0\04. List Operations.dll
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\obj\Debug\net6.0\refint\04. List Operations.dll
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\obj\Debug\net6.0\04. List Operations.pdb
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\obj\Debug\net6.0\04. List Operations.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\13.10 List - Exercise\List - Exercises\04. List Operations\obj\Debug\net6.0\ref\04. List Operations.dll
