@@ -20,7 +20,7 @@ namespace _04._List_Operations
                 else if (input.Contains("Remove"))
                 {
                     int number = int.Parse(lineTokens[1]);
-                    if (number > integers.Count - 1)
+                    if (number > integers.Count - 1 || number < 0)
                         Console.WriteLine("Invalid index");
                     else
                         integers.RemoveAt(number);
@@ -29,7 +29,7 @@ namespace _04._List_Operations
                 {
                     int number = int.Parse(lineTokens[1]);
                     int index = int.Parse(lineTokens[2]);
-                    if (index > integers.Count - 1)
+                    if (index > integers.Count - 1 || index < 0)
                         Console.WriteLine("Invalid index");
                     else
                         integers.Insert(index, number);
