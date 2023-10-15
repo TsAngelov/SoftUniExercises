@@ -18,7 +18,7 @@
                     }
                     else
                         numbers.RemoveAt(index + 1);
-                    if (index - 1 >= numbers.Count)
+                    if (index - 1 < 0)
                     {
                     }
                     else
