@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Train", "01. Train\01. Train.csproj", "{2E3D2CA9-097B-4E6B-963C-15B21E7D251D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Train", "01. Train\01. Train.csproj", "{2E3D2CA9-097B-4E6B-963C-15B21E7D251D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Change List", "02. Change List\02. Change List.csproj", "{0D450DE5-960C-4992-A670-5A37402D006C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Change List", "02. Change List\02. Change List.csproj", "{0D450DE5-960C-4992-A670-5A37402D006C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. House Party", "03. House Party\03. House Party.csproj", "{DA31E712-00BC-4B91-B6BF-32F158478F16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. House Party", "03. House Party\03. House Party.csproj", "{DA31E712-00BC-4B91-B6BF-32F158478F16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. List Operations", "04. List Operations\04. List Operations.csproj", "{DBAB0D68-2097-4D1B-A79F-A1CA5CA8D190}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. List Operations", "04. List Operations\04. List Operations.csproj", "{DBAB0D68-2097-4D1B-A79F-A1CA5CA8D190}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{6AA0A78F-8452-4C1D-8DBC-DF73123AB4EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo", "demo\demo.csproj", "{6AA0A78F-8452-4C1D-8DBC-DF73123AB4EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bomb Numbers", "05. Bomb Numbers\05. Bomb Numbers.csproj", "{803592BE-9667-4AB7-A7F5-65D8656C6791}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{6AA0A78F-8452-4C1D-8DBC-DF73123AB4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AA0A78F-8452-4C1D-8DBC-DF73123AB4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AA0A78F-8452-4C1D-8DBC-DF73123AB4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803592BE-9667-4AB7-A7F5-65D8656C6791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803592BE-9667-4AB7-A7F5-65D8656C6791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803592BE-9667-4AB7-A7F5-65D8656C6791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803592BE-9667-4AB7-A7F5-65D8656C6791}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
