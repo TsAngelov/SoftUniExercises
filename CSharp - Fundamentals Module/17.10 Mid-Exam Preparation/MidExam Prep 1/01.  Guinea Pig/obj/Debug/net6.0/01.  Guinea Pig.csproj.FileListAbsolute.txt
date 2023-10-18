@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\bin\Debug\net6.0\01.  Guinea Pig.exe
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\bin\Debug\net6.0\01.  Guinea Pig.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\bin\Debug\net6.0\01.  Guinea Pig.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\bin\Debug\net6.0\01.  Guinea Pig.dll
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\bin\Debug\net6.0\01.  Guinea Pig.pdb
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\obj\Debug\net6.0\01.  Guinea Pig.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\obj\Debug\net6.0\01.  Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\obj\Debug\net6.0\01.  Guinea Pig.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\obj\Debug\net6.0\01.  Guinea Pig.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\obj\Debug\net6.0\01.  Guinea Pig.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\obj\Debug\net6.0\01.  Guinea Pig.dll
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\obj\Debug\net6.0\refint\01.  Guinea Pig.dll
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\obj\Debug\net6.0\01.  Guinea Pig.pdb
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\obj\Debug\net6.0\01.  Guinea Pig.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\01.  Guinea Pig\obj\Debug\net6.0\ref\01.  Guinea Pig.dll
