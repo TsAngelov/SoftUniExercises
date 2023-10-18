@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\obj\Debug\net6.0\02. The Lift.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\obj\Debug\net6.0\02. The Lift.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\obj\Debug\net6.0\02. The Lift.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\obj\Debug\net6.0\02. The Lift.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\obj\Debug\net6.0\02. The Lift.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\bin\Debug\net6.0\02. The Lift.exe
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\bin\Debug\net6.0\02. The Lift.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\bin\Debug\net6.0\02. The Lift.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\bin\Debug\net6.0\02. The Lift.dll
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\bin\Debug\net6.0\02. The Lift.pdb
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\obj\Debug\net6.0\02. The Lift.dll
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\obj\Debug\net6.0\refint\02. The Lift.dll
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\obj\Debug\net6.0\02. The Lift.pdb
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\obj\Debug\net6.0\02. The Lift.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\17.10 Mid-Exam Preparation\MidExam Prep 1\02. The Lift\obj\Debug\net6.0\ref\02. The Lift.dll
