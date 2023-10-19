@@ -40,7 +40,6 @@
             }
             else
                 Console.WriteLine("Invalid order!");
-            
         }
     }
 }
