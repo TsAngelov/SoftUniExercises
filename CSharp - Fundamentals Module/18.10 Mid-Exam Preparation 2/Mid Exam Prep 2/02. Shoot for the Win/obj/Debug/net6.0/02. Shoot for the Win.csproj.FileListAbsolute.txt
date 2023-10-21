@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\bin\Debug\net6.0\02. Shoot for the Win.exe
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\bin\Debug\net6.0\02. Shoot for the Win.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\bin\Debug\net6.0\02. Shoot for the Win.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\bin\Debug\net6.0\02. Shoot for the Win.dll
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\bin\Debug\net6.0\02. Shoot for the Win.pdb
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.dll
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\obj\Debug\net6.0\refint\02. Shoot for the Win.dll
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.pdb
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\02. Shoot for the Win\obj\Debug\net6.0\ref\02. Shoot for the Win.dll
