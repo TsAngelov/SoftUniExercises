@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\obj\Debug\net6.0\03. Memory Game.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\obj\Debug\net6.0\03. Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\obj\Debug\net6.0\03. Memory Game.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\obj\Debug\net6.0\03. Memory Game.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\obj\Debug\net6.0\03. Memory Game.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\bin\Debug\net6.0\03. Memory Game.exe
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\bin\Debug\net6.0\03. Memory Game.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\bin\Debug\net6.0\03. Memory Game.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\bin\Debug\net6.0\03. Memory Game.dll
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\bin\Debug\net6.0\03. Memory Game.pdb
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\obj\Debug\net6.0\03. Memory Game.dll
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\obj\Debug\net6.0\refint\03. Memory Game.dll
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\obj\Debug\net6.0\03. Memory Game.pdb
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\obj\Debug\net6.0\03. Memory Game.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\18.10 Mid-Exam Preparation 2\Mid Exam Prep 2\03. Memory Game\obj\Debug\net6.0\ref\03. Memory Game.dll
