@@ -16,7 +16,7 @@
             double price = flourCost + eggCost + apronCost;
 
             if (price <= budget)
-                Console.WriteLine($"Items purchased for {price:f2}.$");
+                Console.WriteLine($"Items purchased for {price:f2}$.");
             else
                 Console.WriteLine($"{price - budget:f2}$ more needed.");
         }

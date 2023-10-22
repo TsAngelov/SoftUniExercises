@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\bin\Debug\net6.0\02. Tax Calculator.exe
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\bin\Debug\net6.0\02. Tax Calculator.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\bin\Debug\net6.0\02. Tax Calculator.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\bin\Debug\net6.0\02. Tax Calculator.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\bin\Debug\net6.0\02. Tax Calculator.pdb
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\obj\Debug\net6.0\02. Tax Calculator.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\obj\Debug\net6.0\02. Tax Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\obj\Debug\net6.0\02. Tax Calculator.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\obj\Debug\net6.0\02. Tax Calculator.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\obj\Debug\net6.0\02. Tax Calculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\obj\Debug\net6.0\02. Tax Calculator.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\obj\Debug\net6.0\refint\02. Tax Calculator.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\obj\Debug\net6.0\02. Tax Calculator.pdb
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\obj\Debug\net6.0\02. Tax Calculator.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\02. Tax Calculator\obj\Debug\net6.0\ref\02. Tax Calculator.dll
