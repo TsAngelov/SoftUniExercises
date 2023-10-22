@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\bin\Debug\net6.0\03. School Library.exe
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\bin\Debug\net6.0\03. School Library.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\bin\Debug\net6.0\03. School Library.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\bin\Debug\net6.0\03. School Library.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\bin\Debug\net6.0\03. School Library.pdb
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\obj\Debug\net6.0\03. School Library.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\obj\Debug\net6.0\03. School Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\obj\Debug\net6.0\03. School Library.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\obj\Debug\net6.0\03. School Library.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\obj\Debug\net6.0\03. School Library.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\obj\Debug\net6.0\03. School Library.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\obj\Debug\net6.0\refint\03. School Library.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\obj\Debug\net6.0\03. School Library.pdb
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\obj\Debug\net6.0\03. School Library.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\03. School Library\obj\Debug\net6.0\ref\03. School Library.dll
