@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\bin\Debug\net6.0\01. Cooking Masterclass.exe
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\bin\Debug\net6.0\01. Cooking Masterclass.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\bin\Debug\net6.0\01. Cooking Masterclass.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\bin\Debug\net6.0\01. Cooking Masterclass.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\bin\Debug\net6.0\01. Cooking Masterclass.pdb
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\obj\Debug\net6.0\01. Cooking Masterclass.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\obj\Debug\net6.0\01. Cooking Masterclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\obj\Debug\net6.0\01. Cooking Masterclass.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\obj\Debug\net6.0\01. Cooking Masterclass.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\obj\Debug\net6.0\01. Cooking Masterclass.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\obj\Debug\net6.0\01. Cooking Masterclass.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\obj\Debug\net6.0\refint\01. Cooking Masterclass.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\obj\Debug\net6.0\01. Cooking Masterclass.pdb
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\obj\Debug\net6.0\01. Cooking Masterclass.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Mid Exam\01. Cooking Masterclass\obj\Debug\net6.0\ref\01. Cooking Masterclass.dll
