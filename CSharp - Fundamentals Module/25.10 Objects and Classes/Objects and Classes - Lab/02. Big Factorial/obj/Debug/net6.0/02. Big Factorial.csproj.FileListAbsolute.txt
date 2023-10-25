@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.exe
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.dll
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.pdb
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.dll
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\refint\02. Big Factorial.dll
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.pdb
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\25.10 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\net6.0\ref\02. Big Factorial.dll

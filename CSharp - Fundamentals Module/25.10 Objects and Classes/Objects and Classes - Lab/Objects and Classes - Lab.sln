@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo", "demo\demo.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Randomize Words", "1. Randomize Words\01. Randomize Words.csproj", "{9332721E-7933-4B14-9BC1-446613166F56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Big Factorial", "02. Big Factorial\02. Big Factorial.csproj", "{274EEAA3-8CE9-4562-88F4-1A732B157B02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9332721E-7933-4B14-9BC1-446613166F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9332721E-7933-4B14-9BC1-446613166F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9332721E-7933-4B14-9BC1-446613166F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274EEAA3-8CE9-4562-88F4-1A732B157B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274EEAA3-8CE9-4562-88F4-1A732B157B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274EEAA3-8CE9-4562-88F4-1A732B157B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274EEAA3-8CE9-4562-88F4-1A732B157B02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
