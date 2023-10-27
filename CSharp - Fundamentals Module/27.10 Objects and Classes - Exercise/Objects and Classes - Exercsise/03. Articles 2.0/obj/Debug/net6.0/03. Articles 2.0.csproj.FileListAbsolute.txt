@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\bin\Debug\net6.0\03. Articles 2.0.exe
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\bin\Debug\net6.0\03. Articles 2.0.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\bin\Debug\net6.0\03. Articles 2.0.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\bin\Debug\net6.0\03. Articles 2.0.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\bin\Debug\net6.0\03. Articles 2.0.pdb
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\obj\Debug\net6.0\03. Articles 2.0.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\obj\Debug\net6.0\03. Articles 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\obj\Debug\net6.0\03. Articles 2.0.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\obj\Debug\net6.0\03. Articles 2.0.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\obj\Debug\net6.0\03. Articles 2.0.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\obj\Debug\net6.0\03. Articles 2.0.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\obj\Debug\net6.0\refint\03. Articles 2.0.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\obj\Debug\net6.0\03. Articles 2.0.pdb
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\obj\Debug\net6.0\03. Articles 2.0.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\03. Articles 2.0\obj\Debug\net6.0\ref\03. Articles 2.0.dll
