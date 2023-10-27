@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\bin\Debug\net6.0\04. Students.exe
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\bin\Debug\net6.0\04. Students.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\bin\Debug\net6.0\04. Students.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\bin\Debug\net6.0\04. Students.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\bin\Debug\net6.0\04. Students.pdb
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\obj\Debug\net6.0\04. Students.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\obj\Debug\net6.0\04. Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\obj\Debug\net6.0\04. Students.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\obj\Debug\net6.0\04. Students.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\obj\Debug\net6.0\04. Students.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\obj\Debug\net6.0\04. Students.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\obj\Debug\net6.0\refint\04. Students.dll
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\obj\Debug\net6.0\04. Students.pdb
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\obj\Debug\net6.0\04. Students.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\27.10 Objects and Classes - Exercise\Objects and Classes - Exercsise\04. Students\obj\Debug\net6.0\ref\04. Students.dll
