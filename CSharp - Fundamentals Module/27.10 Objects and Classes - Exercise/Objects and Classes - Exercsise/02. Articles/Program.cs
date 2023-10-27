@@ -16,13 +16,13 @@ namespace _02._Articles
                 string text = lineTokens[1];
                 switch (command)
                 {
-                    case "Edit:":
+                    case "Edit":
                         article.Edit(text);
                         break;
-                    case "ChangeAuthor:":
+                    case "ChangeAuthor":
                         article.ChangeAuthor(text);
                         break;
-                    case "Rename:":
+                    case "Rename":
                         article.Rename(text);
                         break;
                 }
