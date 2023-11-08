@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\bin\Debug\net6.0\03. SubString.exe
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\bin\Debug\net6.0\03. SubString.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\bin\Debug\net6.0\03. SubString.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\bin\Debug\net6.0\03. SubString.dll
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\bin\Debug\net6.0\03. SubString.pdb
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\obj\Debug\net6.0\03. SubString.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\obj\Debug\net6.0\03. SubString.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\obj\Debug\net6.0\03. SubString.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\obj\Debug\net6.0\03. SubString.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\obj\Debug\net6.0\03. SubString.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\obj\Debug\net6.0\03. SubString.dll
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\obj\Debug\net6.0\refint\03. SubString.dll
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\obj\Debug\net6.0\03. SubString.pdb
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\obj\Debug\net6.0\03. SubString.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\03. SubString\obj\Debug\net6.0\ref\03. SubString.dll
