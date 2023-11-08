@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\bin\Debug\net6.0\04. Text Filter.exe
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\bin\Debug\net6.0\04. Text Filter.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\bin\Debug\net6.0\04. Text Filter.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\bin\Debug\net6.0\04. Text Filter.dll
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\bin\Debug\net6.0\04. Text Filter.pdb
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.dll
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\refint\04. Text Filter.dll
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.pdb
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\04. Text Filter.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\04. Text Filter\obj\Debug\net6.0\ref\04. Text Filter.dll

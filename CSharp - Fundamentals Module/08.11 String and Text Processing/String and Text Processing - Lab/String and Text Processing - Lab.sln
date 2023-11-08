@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Repeat Strings", "02. R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. SubString", "03. SubString\03. SubString.csproj", "{5D4941AB-4A7F-483B-BC3C-D9371A2E800A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Text Filter", "04. Text Filter\04. Text Filter.csproj", "{1F906DFD-9758-4664-9139-98527ECC3604}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5D4941AB-4A7F-483B-BC3C-D9371A2E800A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D4941AB-4A7F-483B-BC3C-D9371A2E800A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D4941AB-4A7F-483B-BC3C-D9371A2E800A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F906DFD-9758-4664-9139-98527ECC3604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F906DFD-9758-4664-9139-98527ECC3604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F906DFD-9758-4664-9139-98527ECC3604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F906DFD-9758-4664-9139-98527ECC3604}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
