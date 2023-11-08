@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.exe
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.dll
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.pdb
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.dll
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\obj\Debug\net6.0\refint\03. Orders.dll
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.pdb
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\03.11 Associative Arrays - Exercise\Associative Arrays - Exercise\03. Orders\obj\Debug\net6.0\ref\03. Orders.dll
