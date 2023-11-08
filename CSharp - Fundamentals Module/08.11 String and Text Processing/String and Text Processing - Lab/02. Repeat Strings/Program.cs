@@ -10,7 +10,7 @@ namespace _02._Repeat_Strings
             StringBuilder result = new StringBuilder();
             foreach (string word in words) 
             {
-                for (int i = 0; i < 3; i++)
+                for (int i = 0; i < word.Length; i++)
                 {
                     result.Append(word);
                 }
