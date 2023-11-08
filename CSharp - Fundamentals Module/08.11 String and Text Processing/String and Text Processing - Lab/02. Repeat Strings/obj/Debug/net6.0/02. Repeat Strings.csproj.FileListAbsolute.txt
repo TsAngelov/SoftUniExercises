@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.exe
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.dll
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.pdb
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.dll
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\refint\02. Repeat Strings.dll
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.pdb
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\ref\02. Repeat Strings.dll
