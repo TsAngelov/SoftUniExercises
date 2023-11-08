@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\bin\Debug\net6.0\5. Digits, Letters and Others.exe
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\bin\Debug\net6.0\5. Digits, Letters and Others.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\bin\Debug\net6.0\5. Digits, Letters and Others.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\bin\Debug\net6.0\5. Digits, Letters and Others.dll
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\bin\Debug\net6.0\5. Digits, Letters and Others.pdb
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\obj\Debug\net6.0\5. Digits, Letters and Others.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\obj\Debug\net6.0\5. Digits, Letters and Others.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\obj\Debug\net6.0\5. Digits, Letters and Others.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\obj\Debug\net6.0\5. Digits, Letters and Others.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\obj\Debug\net6.0\5. Digits, Letters and Others.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\obj\Debug\net6.0\5. Digits, Letters and Others.dll
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\obj\Debug\net6.0\refint\5. Digits, Letters and Others.dll
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\obj\Debug\net6.0\5. Digits, Letters and Others.pdb
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\obj\Debug\net6.0\5. Digits, Letters and Others.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\08.11 String and Text Processing\String and Text Processing - Lab\5. Digits, Letters and Others\obj\Debug\net6.0\ref\5. Digits, Letters and Others.dll

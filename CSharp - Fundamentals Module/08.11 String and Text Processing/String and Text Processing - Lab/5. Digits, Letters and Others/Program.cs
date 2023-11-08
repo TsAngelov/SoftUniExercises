@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string input = Console.ReadLine();
+            Console.WriteLine(input.Where(x => Char.IsDigit(x)).ToArray());
+            Console.WriteLine(input.Where(x => Char.IsLetter(x)).ToArray());
+            Console.WriteLine(input.Where(x => !Char.IsLetterOrDigit(x)).ToArray());
         }
     }
 }
