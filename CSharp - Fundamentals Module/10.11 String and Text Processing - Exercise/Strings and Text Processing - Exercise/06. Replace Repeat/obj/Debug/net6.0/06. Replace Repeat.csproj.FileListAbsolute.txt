@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\bin\Debug\net6.0\06. Replace Repeat.exe
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\bin\Debug\net6.0\06. Replace Repeat.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\bin\Debug\net6.0\06. Replace Repeat.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\bin\Debug\net6.0\06. Replace Repeat.dll
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\bin\Debug\net6.0\06. Replace Repeat.pdb
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\obj\Debug\net6.0\06. Replace Repeat.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\obj\Debug\net6.0\06. Replace Repeat.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\obj\Debug\net6.0\06. Replace Repeat.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\obj\Debug\net6.0\06. Replace Repeat.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\obj\Debug\net6.0\06. Replace Repeat.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\obj\Debug\net6.0\06. Replace Repeat.dll
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\obj\Debug\net6.0\refint\06. Replace Repeat.dll
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\obj\Debug\net6.0\06. Replace Repeat.pdb
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\obj\Debug\net6.0\06. Replace Repeat.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\06. Replace Repeat\obj\Debug\net6.0\ref\06. Replace Repeat.dll
