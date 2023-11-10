@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\bin\Debug\net6.0\05. Multiply BigNum.exe
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\bin\Debug\net6.0\05. Multiply BigNum.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\bin\Debug\net6.0\05. Multiply BigNum.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\bin\Debug\net6.0\05. Multiply BigNum.dll
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\bin\Debug\net6.0\05. Multiply BigNum.pdb
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\obj\Debug\net6.0\05. Multiply BigNum.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\obj\Debug\net6.0\05. Multiply BigNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\obj\Debug\net6.0\05. Multiply BigNum.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\obj\Debug\net6.0\05. Multiply BigNum.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\obj\Debug\net6.0\05. Multiply BigNum.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\obj\Debug\net6.0\05. Multiply BigNum.dll
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\obj\Debug\net6.0\refint\05. Multiply BigNum.dll
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\obj\Debug\net6.0\05. Multiply BigNum.pdb
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\obj\Debug\net6.0\05. Multiply BigNum.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\05. Multiply BigNum\obj\Debug\net6.0\ref\05. Multiply BigNum.dll

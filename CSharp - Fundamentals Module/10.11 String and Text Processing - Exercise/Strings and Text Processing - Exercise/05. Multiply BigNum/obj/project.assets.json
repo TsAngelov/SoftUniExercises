@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\CSharp - Fundamentals Module\\10.11 String and Text Processing - Exercise\\Strings and Text Processing - Exercise\\4. Caesar Cipher\\4. Caesar Cipher.csproj",
-      "projectName": "4. Caesar Cipher",
-      "projectPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\10.11 String and Text Processing - Exercise\\Strings and Text Processing - Exercise\\4. Caesar Cipher\\4. Caesar Cipher.csproj",
+      "projectUniqueName": "D:\\SoftUni\\CSharp - Fundamentals Module\\10.11 String and Text Processing - Exercise\\Strings and Text Processing - Exercise\\05. Multiply BigNum\\05. Multiply BigNum.csproj",
+      "projectName": "05. Multiply BigNum",
+      "projectPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\10.11 String and Text Processing - Exercise\\Strings and Text Processing - Exercise\\05. Multiply BigNum\\05. Multiply BigNum.csproj",
       "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\10.11 String and Text Processing - Exercise\\Strings and Text Processing - Exercise\\4. Caesar Cipher\\obj\\",
+      "outputPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\10.11 String and Text Processing - Exercise\\Strings and Text Processing - Exercise\\05. Multiply BigNum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",
