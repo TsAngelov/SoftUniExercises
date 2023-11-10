@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\CSharp - Fundamentals Module\\03.11 Associative Arrays - Exercise\\Associative Arrays - Exercise\\2. A Miner Task\\02. A Miner Task.csproj": {}
+    "D:\\SoftUni\\CSharp - Fundamentals Module\\10.11 String and Text Processing - Exercise\\Strings and Text Processing - Exercise\\06. Replace Repeat\\06. Replace Repeat.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\CSharp - Fundamentals Module\\03.11 Associative Arrays - Exercise\\Associative Arrays - Exercise\\2. A Miner Task\\02. A Miner Task.csproj": {
+    "D:\\SoftUni\\CSharp - Fundamentals Module\\10.11 String and Text Processing - Exercise\\Strings and Text Processing - Exercise\\06. Replace Repeat\\06. Replace Repeat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\CSharp - Fundamentals Module\\03.11 Associative Arrays - Exercise\\Associative Arrays - Exercise\\2. A Miner Task\\02. A Miner Task.csproj",
-        "projectName": "02. A Miner Task",
-        "projectPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\03.11 Associative Arrays - Exercise\\Associative Arrays - Exercise\\2. A Miner Task\\02. A Miner Task.csproj",
+        "projectUniqueName": "D:\\SoftUni\\CSharp - Fundamentals Module\\10.11 String and Text Processing - Exercise\\Strings and Text Processing - Exercise\\06. Replace Repeat\\06. Replace Repeat.csproj",
+        "projectName": "06. Replace Repeat",
+        "projectPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\10.11 String and Text Processing - Exercise\\Strings and Text Processing - Exercise\\06. Replace Repeat\\06. Replace Repeat.csproj",
         "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\03.11 Associative Arrays - Exercise\\Associative Arrays - Exercise\\2. A Miner Task\\obj\\",
+        "outputPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\10.11 String and Text Processing - Exercise\\Strings and Text Processing - Exercise\\06. Replace Repeat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",
