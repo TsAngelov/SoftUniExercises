@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\bin\Debug\net6.0\01. Valid Usernames.exe
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\bin\Debug\net6.0\01. Valid Usernames.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\bin\Debug\net6.0\01. Valid Usernames.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\bin\Debug\net6.0\01. Valid Usernames.dll
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\bin\Debug\net6.0\01. Valid Usernames.pdb
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.dll
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\net6.0\refint\01. Valid Usernames.dll
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.pdb
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\net6.0\ref\01. Valid Usernames.dll
