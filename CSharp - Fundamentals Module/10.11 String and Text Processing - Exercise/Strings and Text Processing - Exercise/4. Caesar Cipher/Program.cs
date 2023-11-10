@@ -8,7 +8,6 @@
             string encryptedText = "";
             foreach (char character in text)
                 encryptedText += (char)(character + 3);
-
             Console.WriteLine(encryptedText);
         }
     }
