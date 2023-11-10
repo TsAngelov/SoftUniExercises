@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Valid Usernames", "01. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Character Mult", "02. Character Mult\02. Character Mult.csproj", "{EDAE6AA7-B06B-4B73-822A-631C3756D3EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Extract File", "03. Extract File\03. Extract File.csproj", "{83D79BAA-6747-4B92-A443-D64F7F4E76CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EDAE6AA7-B06B-4B73-822A-631C3756D3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDAE6AA7-B06B-4B73-822A-631C3756D3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDAE6AA7-B06B-4B73-822A-631C3756D3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D79BAA-6747-4B92-A443-D64F7F4E76CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D79BAA-6747-4B92-A443-D64F7F4E76CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D79BAA-6747-4B92-A443-D64F7F4E76CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D79BAA-6747-4B92-A443-D64F7F4E76CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
