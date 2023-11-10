@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Multiply BigNum", "05. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Replace Repeat", "06. Replace Repeat\06. Replace Repeat.csproj", "{66FBADCE-93F8-47F2-B84A-246D42F2586B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. String Explode", "07. String Explode\07. String Explode.csproj", "{4E6E22A2-F93B-4890-BD91-E256DDA7B53C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{66FBADCE-93F8-47F2-B84A-246D42F2586B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66FBADCE-93F8-47F2-B84A-246D42F2586B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66FBADCE-93F8-47F2-B84A-246D42F2586B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6E22A2-F93B-4890-BD91-E256DDA7B53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6E22A2-F93B-4890-BD91-E256DDA7B53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6E22A2-F93B-4890-BD91-E256DDA7B53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6E22A2-F93B-4890-BD91-E256DDA7B53C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
