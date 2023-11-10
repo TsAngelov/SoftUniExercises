@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\bin\Debug\net6.0\02. Character Mult.exe
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\bin\Debug\net6.0\02. Character Mult.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\bin\Debug\net6.0\02. Character Mult.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\bin\Debug\net6.0\02. Character Mult.dll
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\bin\Debug\net6.0\02. Character Mult.pdb
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\obj\Debug\net6.0\02. Character Mult.csproj.AssemblyReference.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\obj\Debug\net6.0\02. Character Mult.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\obj\Debug\net6.0\02. Character Mult.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\obj\Debug\net6.0\02. Character Mult.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\obj\Debug\net6.0\02. Character Mult.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\obj\Debug\net6.0\02. Character Mult.dll
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\obj\Debug\net6.0\refint\02. Character Mult.dll
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\obj\Debug\net6.0\02. Character Mult.pdb
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\obj\Debug\net6.0\02. Character Mult.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\10.11 String and Text Processing - Exercise\Strings and Text Processing - Exercise\02. Character Mult\obj\Debug\net6.0\ref\02. Character Mult.dll
