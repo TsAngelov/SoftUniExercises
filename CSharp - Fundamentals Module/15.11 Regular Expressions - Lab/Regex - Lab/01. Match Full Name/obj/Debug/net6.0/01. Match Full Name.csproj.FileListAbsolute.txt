@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.exe
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.dll
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.pdb
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.sourcelink.json
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.dll
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\obj\Debug\net6.0\refint\01. Match Full Name.dll
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.pdb
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\15.11 Regular Expressions - Lab\Regex - Lab\01. Match Full Name\obj\Debug\net6.0\ref\01. Match Full Name.dll
