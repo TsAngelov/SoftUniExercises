@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Match Phone Number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5141ae1481bfdee379f8563264e5b4aa9e0d6c08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fb5ca4141c592d932e81d0fcce0869e5e000bb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Match Phone Number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Match Phone Number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
