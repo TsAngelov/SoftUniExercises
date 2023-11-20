@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Count Chars in a String", "01. Count Chars in a String\01. Count Chars in a String.csproj", "{346510FB-1BBD-4C9C-B9AA-A0F1FCD56698}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Chars in a String", "01. Count Chars in a String\01. Count Chars in a String.csproj", "{346510FB-1BBD-4C9C-B9AA-A0F1FCD56698}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. A Miner Task", "2. A Miner Task\02. A Miner Task.csproj", "{666B679A-A05D-4ECF-B0CF-2102564F811D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Orders", "03. Orders\03. Orders.csproj", "{1936817D-CAAB-4C84-92DC-A57953B68144}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Orders", "03. Orders\03. Orders.csproj", "{1936817D-CAAB-4C84-92DC-A57953B68144}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{346510FB-1BBD-4C9C-B9AA-A0F1FCD56698}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{346510FB-1BBD-4C9C-B9AA-A0F1FCD56698}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{346510FB-1BBD-4C9C-B9AA-A0F1FCD56698}.Release|Any CPU.Build.0 = Release|Any CPU
-		{666B679A-A05D-4ECF-B0CF-2102564F811D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{666B679A-A05D-4ECF-B0CF-2102564F811D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{666B679A-A05D-4ECF-B0CF-2102564F811D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{666B679A-A05D-4ECF-B0CF-2102564F811D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1936817D-CAAB-4C84-92DC-A57953B68144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1936817D-CAAB-4C84-92DC-A57953B68144}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1936817D-CAAB-4C84-92DC-A57953B68144}.Release|Any CPU.ActiveCfg = Release|Any CPU
