@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\bin\Debug\net6.0\02. Fancy Barcodes.exe
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\bin\Debug\net6.0\02. Fancy Barcodes.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\bin\Debug\net6.0\02. Fancy Barcodes.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\bin\Debug\net6.0\02. Fancy Barcodes.dll
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\bin\Debug\net6.0\02. Fancy Barcodes.pdb
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.sourcelink.json
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.dll
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\obj\Debug\net6.0\refint\02. Fancy Barcodes.dll
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.pdb
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\22.11 Exam Prep\Exam Prep 1\02. Fancy Barcodes\obj\Debug\net6.0\ref\02. Fancy Barcodes.dll
