@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\bin\Debug\net6.0\01. Decrypting Commands.exe
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\bin\Debug\net6.0\01. Decrypting Commands.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\bin\Debug\net6.0\01. Decrypting Commands.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\bin\Debug\net6.0\01. Decrypting Commands.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\bin\Debug\net6.0\01. Decrypting Commands.pdb
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\obj\Debug\net6.0\01. Decrypting Commands.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\obj\Debug\net6.0\01. Decrypting Commands.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\obj\Debug\net6.0\01. Decrypting Commands.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\obj\Debug\net6.0\01. Decrypting Commands.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\obj\Debug\net6.0\01. Decrypting Commands.sourcelink.json
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\obj\Debug\net6.0\01. Decrypting Commands.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\obj\Debug\net6.0\refint\01. Decrypting Commands.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\obj\Debug\net6.0\01. Decrypting Commands.pdb
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\obj\Debug\net6.0\01. Decrypting Commands.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\01. Decrypting Commands\obj\Debug\net6.0\ref\01. Decrypting Commands.dll

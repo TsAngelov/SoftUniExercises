@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\bin\Debug\net6.0\03. Dictionary.exe
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\bin\Debug\net6.0\03. Dictionary.deps.json
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\bin\Debug\net6.0\03. Dictionary.runtimeconfig.json
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\bin\Debug\net6.0\03. Dictionary.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\bin\Debug\net6.0\03. Dictionary.pdb
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\obj\Debug\net6.0\03. Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\obj\Debug\net6.0\03. Dictionary.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\obj\Debug\net6.0\03. Dictionary.AssemblyInfo.cs
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\obj\Debug\net6.0\03. Dictionary.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\obj\Debug\net6.0\03. Dictionary.sourcelink.json
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\obj\Debug\net6.0\03. Dictionary.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\obj\Debug\net6.0\refint\03. Dictionary.dll
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\obj\Debug\net6.0\03. Dictionary.pdb
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\obj\Debug\net6.0\03. Dictionary.genruntimeconfig.cache
+D:\SoftUni\CSharp - Fundamentals Module\Exams\Exam\Fundamentals Exam\03. Dictionary\obj\Debug\net6.0\ref\03. Dictionary.dll
