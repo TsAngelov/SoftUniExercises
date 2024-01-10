@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\bin\Debug\net6.0\01. Reverse a String.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\bin\Debug\net6.0\01. Reverse a String.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\bin\Debug\net6.0\01. Reverse a String.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\bin\Debug\net6.0\01. Reverse a String.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\bin\Debug\net6.0\01. Reverse a String.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\obj\Debug\net6.0\01. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\obj\Debug\net6.0\01. Reverse a String.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\obj\Debug\net6.0\01. Reverse a String.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\obj\Debug\net6.0\01. Reverse a String.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\obj\Debug\net6.0\01. Reverse a String.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\obj\Debug\net6.0\01. Reverse a String.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\obj\Debug\net6.0\refint\01. Reverse a String.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\obj\Debug\net6.0\01. Reverse a String.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\obj\Debug\net6.0\01. Reverse a String.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\1. Reverse a String\obj\Debug\net6.0\ref\01. Reverse a String.dll
