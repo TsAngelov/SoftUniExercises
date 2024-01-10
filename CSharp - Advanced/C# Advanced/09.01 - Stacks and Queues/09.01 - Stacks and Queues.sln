@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Simple Calculator", "3.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Matching Brackets", "04. Matching Brackets\04. Matching Brackets.csproj", "{5F282376-4D61-4821-83C8-BA845236EF6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Hot Potato", "07. Hot Potato\07. Hot Potato.csproj", "{8EA8A485-D6C1-4BFA-9DB9-979F6356395E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Hot Potato", "07. Hot Potato\07. Hot Potato.csproj", "{8EA8A485-D6C1-4BFA-9DB9-979F6356395E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Traffic Jam", "08. Traffic Jam\08. Traffic Jam.csproj", "{06451355-829F-40F9-901F-19420E011010}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8EA8A485-D6C1-4BFA-9DB9-979F6356395E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EA8A485-D6C1-4BFA-9DB9-979F6356395E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EA8A485-D6C1-4BFA-9DB9-979F6356395E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06451355-829F-40F9-901F-19420E011010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06451355-829F-40F9-901F-19420E011010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06451355-829F-40F9-901F-19420E011010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06451355-829F-40F9-901F-19420E011010}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
