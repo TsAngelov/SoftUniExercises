@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\bin\Debug\net6.0\01. Basic Stack Operations.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\bin\Debug\net6.0\01. Basic Stack Operations.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\bin\Debug\net6.0\01. Basic Stack Operations.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\bin\Debug\net6.0\01. Basic Stack Operations.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\bin\Debug\net6.0\01. Basic Stack Operations.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\obj\Debug\net6.0\refint\01. Basic Stack Operations.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\01. Basic Stack Operations\obj\Debug\net6.0\ref\01. Basic Stack Operations.dll
