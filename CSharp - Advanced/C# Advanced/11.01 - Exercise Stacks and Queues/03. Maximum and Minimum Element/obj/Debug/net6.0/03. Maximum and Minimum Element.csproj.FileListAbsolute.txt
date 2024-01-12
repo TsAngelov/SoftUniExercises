@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\net6.0\03. Maximum and Minimum Element.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\net6.0\03. Maximum and Minimum Element.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\net6.0\03. Maximum and Minimum Element.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\net6.0\03. Maximum and Minimum Element.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\net6.0\03. Maximum and Minimum Element.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\net6.0\refint\03. Maximum and Minimum Element.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\net6.0\03. Maximum and Minimum Element.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\net6.0\ref\03. Maximum and Minimum Element.dll
