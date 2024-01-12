@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\net6.0\01. Sum Matrix Elements.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\net6.0\01. Sum Matrix Elements.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\net6.0\01. Sum Matrix Elements.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\net6.0\01. Sum Matrix Elements.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\net6.0\01. Sum Matrix Elements.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\net6.0\refint\01. Sum Matrix Elements.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\net6.0\ref\01. Sum Matrix Elements.dll

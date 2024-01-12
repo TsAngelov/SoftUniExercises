@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\bin\Debug\net6.0\MatrixPrinting.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\bin\Debug\net6.0\MatrixPrinting.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\bin\Debug\net6.0\MatrixPrinting.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\bin\Debug\net6.0\MatrixPrinting.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\bin\Debug\net6.0\MatrixPrinting.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\obj\Debug\net6.0\refint\MatrixPrinting.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\MatrixPrinting\obj\Debug\net6.0\ref\MatrixPrinting.dll

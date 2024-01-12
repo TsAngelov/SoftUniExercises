@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\bin\Debug\net6.0\demo.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\bin\Debug\net6.0\demo.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\bin\Debug\net6.0\demo.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\bin\Debug\net6.0\demo.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\bin\Debug\net6.0\demo.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\obj\Debug\net6.0\demo.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\obj\Debug\net6.0\demo.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\obj\Debug\net6.0\refint\demo.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\obj\Debug\net6.0\demo.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\demo\obj\Debug\net6.0\ref\demo.dll
