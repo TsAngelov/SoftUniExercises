@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatrixPrinting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f89a54cef24c0b1288f5935971023c536029fa1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+892faa3f4ce0bff4ba57b560f7d0a92748589e41")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatrixPrinting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatrixPrinting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
