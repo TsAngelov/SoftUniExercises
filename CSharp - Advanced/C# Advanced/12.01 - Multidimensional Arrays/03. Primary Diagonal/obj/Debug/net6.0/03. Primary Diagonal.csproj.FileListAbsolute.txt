@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\bin\Debug\net6.0\03. Primary Diagonal.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\bin\Debug\net6.0\03. Primary Diagonal.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\bin\Debug\net6.0\03. Primary Diagonal.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\bin\Debug\net6.0\03. Primary Diagonal.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\bin\Debug\net6.0\03. Primary Diagonal.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net6.0\refint\03. Primary Diagonal.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net6.0\ref\03. Primary Diagonal.dll
