@@ -49,8 +49,7 @@
                         break;
                 }
             }
-            Stack<int> stack2 = new Stack<int>(stack.Reverse());
-            Console.WriteLine(string.Join(", ", stack2));
+            Console.WriteLine(string.Join(", ", stack.Reverse()));
         }
     }
 }
