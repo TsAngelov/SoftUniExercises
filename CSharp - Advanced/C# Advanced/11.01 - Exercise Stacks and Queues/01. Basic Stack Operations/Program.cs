@@ -20,24 +20,21 @@
             {
                 Console.WriteLine(0);
             }
+            else if (stack.Contains(x))
+            {
+                Console.WriteLine("true");
+            }
             else
             {
-                if (stack.Contains(x))
+                int min = int.MaxValue;
+                foreach (var item in stack)
                 {
-                    Console.WriteLine("true");
-                }
-                else
-                {
-                    int min = int.MaxValue;
-                    foreach (var item in stack)
+                    if (item < min)
                     {
-                        if (item < min)
-                        {
-                            min = item;
-                        }
+                        min = item;
                     }
-                    Console.WriteLine(min);
                 }
+                Console.WriteLine(min);
             }
         }
     }
