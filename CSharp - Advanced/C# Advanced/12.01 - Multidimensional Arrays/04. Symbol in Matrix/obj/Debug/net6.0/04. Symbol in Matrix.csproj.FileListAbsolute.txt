@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\net6.0\04. Symbol in Matrix.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\net6.0\04. Symbol in Matrix.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\net6.0\04. Symbol in Matrix.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\net6.0\04. Symbol in Matrix.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\net6.0\04. Symbol in Matrix.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net6.0\refint\04. Symbol in Matrix.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net6.0\ref\04. Symbol in Matrix.dll
