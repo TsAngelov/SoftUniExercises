@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\obj\Debug\net6.0\refint\05. Fashion Boutique.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\05. Fashion Boutique\obj\Debug\net6.0\ref\05. Fashion Boutique.dll
