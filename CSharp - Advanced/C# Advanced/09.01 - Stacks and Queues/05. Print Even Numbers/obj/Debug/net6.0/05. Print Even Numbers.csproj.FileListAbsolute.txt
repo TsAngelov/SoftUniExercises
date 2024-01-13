@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\bin\Debug\net6.0\05. Print Even Numbers.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\bin\Debug\net6.0\05. Print Even Numbers.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\bin\Debug\net6.0\05. Print Even Numbers.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\bin\Debug\net6.0\05. Print Even Numbers.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\bin\Debug\net6.0\05. Print Even Numbers.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\obj\Debug\net6.0\refint\05. Print Even Numbers.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\05. Print Even Numbers\obj\Debug\net6.0\ref\05. Print Even Numbers.dll
