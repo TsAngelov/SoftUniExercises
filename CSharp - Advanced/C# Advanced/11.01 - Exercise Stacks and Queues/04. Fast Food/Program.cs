@@ -8,34 +8,25 @@
             int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
             Queue<int> orders = new Queue<int>(numbers);
-            int biggestOrder = int.MinValue;
-            while (orders.Count > 0)
+            int biggestOrder = orders.Max();
+            while (orders.Count != 0)
             {
-                int currentOrder = orders.First();
+                int currentOrder = orders.Peek();
                 if (currentOrder <= quantity)
                 {
                     quantity -= currentOrder;
-                    if (currentOrder > biggestOrder)
-                    {
-                        biggestOrder = currentOrder;
-                    }
+                    orders.Dequeue();
                 }
                 else
                 {
                     break;
                 }
-                orders.Dequeue();
             }
-            if (orders.Count > 0)
-            {
-                Console.WriteLine(biggestOrder);
+            Console.WriteLine(biggestOrder);
+            if (orders.Count > 0)      
                 Console.WriteLine($"Orders left: {string.Join(' ', orders)}");
-            }
             else
-            {
-                Console.WriteLine(biggestOrder);
                 Console.WriteLine("Orders complete");
-            }
         }
     }
 }

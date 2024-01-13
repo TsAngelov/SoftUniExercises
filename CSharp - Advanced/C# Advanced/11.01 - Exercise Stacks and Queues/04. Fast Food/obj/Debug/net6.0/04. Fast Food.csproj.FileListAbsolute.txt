@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\bin\Debug\net6.0\04. Fast Food.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\bin\Debug\net6.0\04. Fast Food.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\bin\Debug\net6.0\04. Fast Food.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\bin\Debug\net6.0\04. Fast Food.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\bin\Debug\net6.0\04. Fast Food.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\obj\Debug\net6.0\04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\obj\Debug\net6.0\04. Fast Food.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\obj\Debug\net6.0\04. Fast Food.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\obj\Debug\net6.0\04. Fast Food.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\obj\Debug\net6.0\04. Fast Food.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\obj\Debug\net6.0\04. Fast Food.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\obj\Debug\net6.0\refint\04. Fast Food.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\obj\Debug\net6.0\04. Fast Food.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\obj\Debug\net6.0\04. Fast Food.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\04. Fast Food\obj\Debug\net6.0\ref\04. Fast Food.dll
