@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("08. Traffic Jam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60e65a6d6af46ed0ddcdfef6a314152556e52ca2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eba9755f95dd308da36537bc88e2323287b592ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("08. Traffic Jam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("08. Traffic Jam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

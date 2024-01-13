@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\bin\Debug\net6.0\06. Supermarket.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\bin\Debug\net6.0\06. Supermarket.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\bin\Debug\net6.0\06. Supermarket.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\bin\Debug\net6.0\06. Supermarket.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\bin\Debug\net6.0\06. Supermarket.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\obj\Debug\net6.0\06. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\obj\Debug\net6.0\06. Supermarket.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\obj\Debug\net6.0\06. Supermarket.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\obj\Debug\net6.0\06. Supermarket.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\obj\Debug\net6.0\06. Supermarket.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\obj\Debug\net6.0\06. Supermarket.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\obj\Debug\net6.0\refint\06. Supermarket.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\obj\Debug\net6.0\06. Supermarket.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\obj\Debug\net6.0\06. Supermarket.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\09.01 - Stacks and Queues\06. Supermarket\obj\Debug\net6.0\ref\06. Supermarket.dll

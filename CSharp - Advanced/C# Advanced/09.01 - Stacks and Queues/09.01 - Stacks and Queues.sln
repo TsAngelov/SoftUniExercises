@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Hot Potato", "07. Hot P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Traffic Jam", "08. Traffic Jam\08. Traffic Jam.csproj", "{06451355-829F-40F9-901F-19420E011010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Print Even Numbers", "05. Print Even Numbers\05. Print Even Numbers.csproj", "{E8F25FB8-6494-4D33-88E7-3BC446944422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Print Even Numbers", "05. Print Even Numbers\05. Print Even Numbers.csproj", "{E8F25FB8-6494-4D33-88E7-3BC446944422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Supermarket", "06. Supermarket\06. Supermarket.csproj", "{E3F64992-0F6B-42AD-9B12-C65D1F79564A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E8F25FB8-6494-4D33-88E7-3BC446944422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8F25FB8-6494-4D33-88E7-3BC446944422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8F25FB8-6494-4D33-88E7-3BC446944422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F64992-0F6B-42AD-9B12-C65D1F79564A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F64992-0F6B-42AD-9B12-C65D1F79564A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F64992-0F6B-42AD-9B12-C65D1F79564A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F64992-0F6B-42AD-9B12-C65D1F79564A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
