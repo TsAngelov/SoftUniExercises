@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\bin\Debug\net6.0\06. Songs Queue.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\bin\Debug\net6.0\06. Songs Queue.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\bin\Debug\net6.0\06. Songs Queue.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\bin\Debug\net6.0\06. Songs Queue.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\bin\Debug\net6.0\06. Songs Queue.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\obj\Debug\net6.0\refint\06. Songs Queue.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\06. Songs Queue\obj\Debug\net6.0\ref\06. Songs Queue.dll
