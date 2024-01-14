@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03. Maximum and Minimum Element")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce2ee9358a24a056d842bd8b5f75084fb99f3629")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7a5f941033dfc7fac48438fec7854a20d387d9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("03. Maximum and Minimum Element")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03. Maximum and Minimum Element")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\bin\Debug\net6.0\08. Balanced Parentheses.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\bin\Debug\net6.0\08. Balanced Parentheses.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\bin\Debug\net6.0\08. Balanced Parentheses.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\bin\Debug\net6.0\08. Balanced Parentheses.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\bin\Debug\net6.0\08. Balanced Parentheses.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\net6.0\08. Balanced Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\net6.0\08. Balanced Parentheses.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\net6.0\08. Balanced Parentheses.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\net6.0\08. Balanced Parentheses.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\net6.0\08. Balanced Parentheses.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\net6.0\08. Balanced Parentheses.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\net6.0\refint\08. Balanced Parentheses.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\net6.0\08. Balanced Parentheses.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\net6.0\08. Balanced Parentheses.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\net6.0\ref\08. Balanced Parentheses.dll
