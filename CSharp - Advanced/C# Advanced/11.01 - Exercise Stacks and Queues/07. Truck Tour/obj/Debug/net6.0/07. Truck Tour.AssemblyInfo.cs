@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07. Truck Tour")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce2ee9358a24a056d842bd8b5f75084fb99f3629")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a91eeb59356b6fb677ef2463b368e80f22e36032")]
 [assembly: System.Reflection.AssemblyProductAttribute("07. Truck Tour")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07. Truck Tour")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

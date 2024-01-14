@@ -9,22 +9,18 @@
 
             Stack<int> clothes = new Stack<int>(clothesSize);
             int rackCount = 1;
-            int currentSpace = 0;
+            int currentSpace = rackSize;
             while (clothes.Count != 0)
             {
-                int currentCloth = clothes.Pop();
-                if (currentCloth + currentSpace > rackSize )
+                if (clothes.Peek() <= currentSpace )
                 {
-                    rackCount++;
-                    currentSpace = currentCloth;
-                }
-                else if (currentCloth + currentSpace == rackSize)
-                {
-                    rackCount++;
-                    currentSpace = 0;
+                    currentSpace -= clothes.Pop();
                 }
                 else
-                    currentSpace += currentCloth;
+                {
+                    rackCount++;
+                    currentSpace = rackSize;
+                }
             }
             Console.WriteLine(rackCount);
             

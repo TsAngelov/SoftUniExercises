@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\bin\Debug\net6.0\07. Truck Tour.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\bin\Debug\net6.0\07. Truck Tour.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\bin\Debug\net6.0\07. Truck Tour.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\bin\Debug\net6.0\07. Truck Tour.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\bin\Debug\net6.0\07. Truck Tour.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\obj\Debug\net6.0\refint\07. Truck Tour.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\07. Truck Tour\obj\Debug\net6.0\ref\07. Truck Tour.dll
