@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaggedArray", "JaggedArray\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Jagged-Array Modification", "06. Jagged-Array Modification\06. Jagged-Array Modification.csproj", "{14EE98F0-18CE-49B0-A74C-B3C8657E76B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Symbol in Matrix", "04. Symbol in Matrix\04. Symbol in Matrix.csproj", "{E4EEF574-EACB-4D6A-A340-7DD4AA2AA3DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Symbol in Matrix", "04. Symbol in Matrix\04. Symbol in Matrix.csproj", "{E4EEF574-EACB-4D6A-A340-7DD4AA2AA3DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Pascal Triangle", "07. Pascal Triangle\07. Pascal Triangle.csproj", "{9F114829-3A53-4BE8-A35C-3012D24C2B79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{E4EEF574-EACB-4D6A-A340-7DD4AA2AA3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4EEF574-EACB-4D6A-A340-7DD4AA2AA3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4EEF574-EACB-4D6A-A340-7DD4AA2AA3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F114829-3A53-4BE8-A35C-3012D24C2B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F114829-3A53-4BE8-A35C-3012D24C2B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F114829-3A53-4BE8-A35C-3012D24C2B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F114829-3A53-4BE8-A35C-3012D24C2B79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
