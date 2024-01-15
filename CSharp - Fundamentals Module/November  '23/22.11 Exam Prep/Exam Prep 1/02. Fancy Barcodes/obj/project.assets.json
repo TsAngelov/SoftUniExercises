@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\CSharp - Fundamentals Module\\22.11 Exam Prep\\Exam Prep 1\\02. Fancy Barcodes\\02. Fancy Barcodes.csproj",
+      "projectUniqueName": "D:\\SoftUni\\CSharp - Fundamentals Module\\November  '23\\22.11 Exam Prep\\Exam Prep 1\\02. Fancy Barcodes\\02. Fancy Barcodes.csproj",
       "projectName": "02. Fancy Barcodes",
-      "projectPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\22.11 Exam Prep\\Exam Prep 1\\02. Fancy Barcodes\\02. Fancy Barcodes.csproj",
+      "projectPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\November  '23\\22.11 Exam Prep\\Exam Prep 1\\02. Fancy Barcodes\\02. Fancy Barcodes.csproj",
       "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\22.11 Exam Prep\\Exam Prep 1\\02. Fancy Barcodes\\obj\\",
+      "outputPath": "D:\\SoftUni\\CSharp - Fundamentals Module\\November  '23\\22.11 Exam Prep\\Exam Prep 1\\02. Fancy Barcodes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

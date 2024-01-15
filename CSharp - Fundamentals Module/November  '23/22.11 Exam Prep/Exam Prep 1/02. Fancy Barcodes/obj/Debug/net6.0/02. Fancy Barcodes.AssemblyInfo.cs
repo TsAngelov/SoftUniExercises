@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Fancy Barcodes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdb8617a0e4d2394c38f4ab90b264bed5468342b")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Fancy Barcodes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Fancy Barcodes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
