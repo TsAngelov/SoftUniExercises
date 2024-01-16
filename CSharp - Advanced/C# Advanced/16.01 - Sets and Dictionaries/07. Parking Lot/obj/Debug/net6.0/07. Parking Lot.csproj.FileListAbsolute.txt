@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\bin\Debug\net6.0\07. Parking Lot.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\bin\Debug\net6.0\07. Parking Lot.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\bin\Debug\net6.0\07. Parking Lot.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\bin\Debug\net6.0\07. Parking Lot.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\bin\Debug\net6.0\07. Parking Lot.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\obj\Debug\net6.0\refint\07. Parking Lot.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\obj\Debug\net6.0\07. Parking Lot.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\07. Parking Lot\obj\Debug\net6.0\ref\07. Parking Lot.dll
