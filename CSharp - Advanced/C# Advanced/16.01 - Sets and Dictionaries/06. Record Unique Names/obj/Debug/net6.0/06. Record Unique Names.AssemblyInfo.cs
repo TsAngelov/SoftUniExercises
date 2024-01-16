@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06. Record Unique Names")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb19e5a4eb6e17c2bc9c3f2dbf0ea483def010c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29666157e85b86c11ef75dcf85e2b8869cd43ff3")]
 [assembly: System.Reflection.AssemblyProductAttribute("06. Record Unique Names")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06. Record Unique Names")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
