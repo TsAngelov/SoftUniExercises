@@ -20,8 +20,8 @@
             {
                 for (int col = 0; col <= cols - colsSearching; col++)
                 {
-                    int currentSum = 0;
-                    for (int rowInside = 0; rowInside < rowsSearching; rowInside++)
+                    int currentSum = 0; 
+                    for (int rowInside = 0; rowInside < rowsSearching; rowInside++) // Calculating the sum for all the values inside the current scope
                     {
                         for (int colInside = 0; colInside < colsSearching; colInside++)
                         {
@@ -38,6 +38,7 @@
                 }
             }
 
+            // Print out the square from the matrix
             for (int currentRow = 0; currentRow < rowsSearching; currentRow++)
             {
                 for (int currentCol = 0; currentCol < colsSearching; currentCol++)
