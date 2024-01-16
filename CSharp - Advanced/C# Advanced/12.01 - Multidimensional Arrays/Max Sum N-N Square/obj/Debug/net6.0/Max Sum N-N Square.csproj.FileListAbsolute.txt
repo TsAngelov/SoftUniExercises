@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\bin\Debug\net6.0\Max Sum N-N Square.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\bin\Debug\net6.0\Max Sum N-N Square.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\bin\Debug\net6.0\Max Sum N-N Square.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\bin\Debug\net6.0\Max Sum N-N Square.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\bin\Debug\net6.0\Max Sum N-N Square.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\obj\Debug\net6.0\Max Sum N-N Square.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\obj\Debug\net6.0\Max Sum N-N Square.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\obj\Debug\net6.0\Max Sum N-N Square.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\obj\Debug\net6.0\Max Sum N-N Square.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\obj\Debug\net6.0\Max Sum N-N Square.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\obj\Debug\net6.0\Max Sum N-N Square.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\obj\Debug\net6.0\refint\Max Sum N-N Square.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\obj\Debug\net6.0\Max Sum N-N Square.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\obj\Debug\net6.0\Max Sum N-N Square.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\12.01 - Multidimensional Arrays\Max Sum N-N Square\obj\Debug\net6.0\ref\Max Sum N-N Square.dll

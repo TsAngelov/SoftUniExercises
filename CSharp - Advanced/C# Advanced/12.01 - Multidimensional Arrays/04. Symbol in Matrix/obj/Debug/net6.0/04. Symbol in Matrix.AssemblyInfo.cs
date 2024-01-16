@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. Symbol in Matrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17fbde3ef8038c724ac4b002c2dac757b1749530")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a3fc78e576a8ffc18bb0359d4ecb8fd31cc3c5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. Symbol in Matrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. Symbol in Matrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
