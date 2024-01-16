@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\obj\Debug\net6.0\refint\03. Largest 3 Numbers.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\16.01 - Sets and Dictionaries\03. Largest 3 Numbers\obj\Debug\net6.0\ref\03. Largest 3 Numbers.dll

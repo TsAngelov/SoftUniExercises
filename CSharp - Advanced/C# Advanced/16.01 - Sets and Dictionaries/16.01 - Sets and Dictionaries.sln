@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Same Values in Ar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Average Student Grades", "02. Average Student Grades\02. Average Student Grades.csproj", "{059E2166-1598-4A7A-A3E1-DD5334DE43FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Product Shop", "04. Product Shop\04. Product Shop.csproj", "{659D3115-D4E7-4781-9D73-02B4DF80575B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Product Shop", "04. Product Shop\04. Product Shop.csproj", "{659D3115-D4E7-4781-9D73-02B4DF80575B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Record Unique Names", "06. Record Unique Names\06. Record Unique Names.csproj", "{332ED80E-0A3D-4385-AAD6-193D92101AA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Record Unique Names", "06. Record Unique Names\06. Record Unique Names.csproj", "{332ED80E-0A3D-4385-AAD6-193D92101AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Largest 3 Numbers", "03. Largest 3 Numbers\03. Largest 3 Numbers.csproj", "{33C920E0-03DE-4D5D-B89F-269EC62AB99B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{332ED80E-0A3D-4385-AAD6-193D92101AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{332ED80E-0A3D-4385-AAD6-193D92101AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{332ED80E-0A3D-4385-AAD6-193D92101AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C920E0-03DE-4D5D-B89F-269EC62AB99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C920E0-03DE-4D5D-B89F-269EC62AB99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C920E0-03DE-4D5D-B89F-269EC62AB99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C920E0-03DE-4D5D-B89F-269EC62AB99B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
