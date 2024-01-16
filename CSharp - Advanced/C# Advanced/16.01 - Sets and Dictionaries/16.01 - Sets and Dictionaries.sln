@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Product Shop", "04. Pro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Record Unique Names", "06. Record Unique Names\06. Record Unique Names.csproj", "{332ED80E-0A3D-4385-AAD6-193D92101AA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Largest 3 Numbers", "03. Largest 3 Numbers\03. Largest 3 Numbers.csproj", "{33C920E0-03DE-4D5D-B89F-269EC62AB99B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Largest 3 Numbers", "03. Largest 3 Numbers\03. Largest 3 Numbers.csproj", "{33C920E0-03DE-4D5D-B89F-269EC62AB99B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Cities by Continent and Country", "05. Cities by Continent and Country\05. Cities by Continent and Country.csproj", "{36C287AA-DE51-4642-805C-3E12C3B6C3AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Cities by Continent and Country", "05. Cities by Continent and Country\05. Cities by Continent and Country.csproj", "{36C287AA-DE51-4642-805C-3E12C3B6C3AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
