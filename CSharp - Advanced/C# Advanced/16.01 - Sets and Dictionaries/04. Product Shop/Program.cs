@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Dictionary<string, Dictionary<string, decimal>> shops = new();
+            Dictionary<string, Dictionary<string, double>> shops = new();
 
             string input;
             while ((input = Console.ReadLine()) != "Revision")
@@ -12,11 +12,11 @@
                 string[] info = input.Split(", ");
                 string shop = info[0];
                 string product = info[1];
-                decimal price = decimal.Parse(info[2]);
+                double price = double.Parse(info[2]);
 
                 if (!shops.ContainsKey(shop))
                 {
-                    shops.Add(shop, new Dictionary<string, decimal>());
+                    shops.Add(shop, new Dictionary<string, double>());
                 }
                 if (!shops[shop].ContainsKey(product))
                 {
@@ -30,7 +30,7 @@
                 Console.WriteLine($"{shop.Key}->");
                 foreach (var product in shop.Value)
                 {
-                    Console.WriteLine($"Product: {product.Key}, Price: {product.Value:f1}");
+                    Console.WriteLine($"Product: {product.Key}, Price: {product.Value}");
                 }
             }
         }
