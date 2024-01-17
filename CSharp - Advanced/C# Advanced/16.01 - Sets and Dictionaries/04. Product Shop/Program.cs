@@ -4,39 +4,33 @@
     {
         static void Main(string[] args)
         {
-            Dictionary<string, Dictionary<string,double>> stores = new Dictionary<string, Dictionary<string,double>>();
+            Dictionary<string, Dictionary<string, decimal>> shops = new();
 
             string input;
             while ((input = Console.ReadLine()) != "Revision")
             {
-                string[] info = input.Split(' ');
-                
-                string store = info[0];
+                string[] info = input.Split(", ");
+                string shop = info[0];
                 string product = info[1];
-                double price = double.Parse(info[2]);
+                decimal price = decimal.Parse(info[2]);
 
-                if (!stores.ContainsKey(store))
+                if (!shops.ContainsKey(shop))
                 {
-                    stores.Add(store, new Dictionary<string, double>());
+                    shops.Add(shop, new Dictionary<string, decimal>());
                 }
-
-                if (!stores[store].ContainsKey(product))
+                if (!shops[shop].ContainsKey(product))
                 {
-                    stores[store].Add(product, 0);
+                    shops[shop].Add(product, 0);
                 }
-
-                stores[store][product] = price;
+                shops[shop][product] = price;
             }
-
-            stores = stores.OrderBy(s => s.Key).ToDictionary(s => s.Key, s => s.Value);
-
-            foreach (var (store, products) in stores)
+            shops = shops.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
+            foreach (var shop in shops)
             {
-                Console.WriteLine($"{store} ->");
-
-                foreach (var (product,price) in products)
+                Console.WriteLine($"{shop.Key}->");
+                foreach (var product in shop.Value)
                 {
-                    Console.WriteLine($"Product: {product}, Price: {price}");
+                    Console.WriteLine($"Product: {product.Key}, Price: {product.Value:f1}");
                 }
             }
         }
