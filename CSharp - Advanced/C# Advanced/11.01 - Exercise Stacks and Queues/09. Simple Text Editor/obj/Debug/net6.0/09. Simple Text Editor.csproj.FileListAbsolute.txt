@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\refint\09. Simple Text Editor.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\11.01 - Exercise Stacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\ref\09. Simple Text Editor.dll
