@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\bin\Debug\net6.0\03. Maximal Sum.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\bin\Debug\net6.0\03. Maximal Sum.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\bin\Debug\net6.0\03. Maximal Sum.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\bin\Debug\net6.0\03. Maximal Sum.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\bin\Debug\net6.0\03. Maximal Sum.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\refint\03. Maximal Sum.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\ref\03. Maximal Sum.dll
