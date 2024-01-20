@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\bin\Debug\net6.0\06. Jagged Array Manipulator.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\bin\Debug\net6.0\06. Jagged Array Manipulator.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\bin\Debug\net6.0\06. Jagged Array Manipulator.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\bin\Debug\net6.0\06. Jagged Array Manipulator.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\bin\Debug\net6.0\06. Jagged Array Manipulator.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\net6.0\06. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\net6.0\06. Jagged Array Manipulator.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\net6.0\06. Jagged Array Manipulator.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\net6.0\06. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\net6.0\06. Jagged Array Manipulator.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\net6.0\06. Jagged Array Manipulator.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\net6.0\refint\06. Jagged Array Manipulator.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\net6.0\06. Jagged Array Manipulator.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\net6.0\06. Jagged Array Manipulator.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\06. Jagged Array Manipulator\obj\Debug\net6.0\ref\06. Jagged Array Manipulator.dll
