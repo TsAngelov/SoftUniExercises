@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\bin\Debug\net6.0\05. Snake Moves.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\bin\Debug\net6.0\05. Snake Moves.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\bin\Debug\net6.0\05. Snake Moves.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\bin\Debug\net6.0\05. Snake Moves.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\bin\Debug\net6.0\05. Snake Moves.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\obj\Debug\net6.0\refint\05. Snake Moves.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\05. Snake Moves\obj\Debug\net6.0\ref\05. Snake Moves.dll
