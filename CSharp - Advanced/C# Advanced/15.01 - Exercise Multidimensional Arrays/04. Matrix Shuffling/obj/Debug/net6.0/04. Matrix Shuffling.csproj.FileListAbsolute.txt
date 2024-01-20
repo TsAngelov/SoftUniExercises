@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net6.0\04. Matrix Shuffling.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net6.0\04. Matrix Shuffling.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net6.0\04. Matrix Shuffling.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net6.0\04. Matrix Shuffling.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net6.0\04. Matrix Shuffling.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net6.0\04. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net6.0\04. Matrix Shuffling.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net6.0\04. Matrix Shuffling.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net6.0\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net6.0\04. Matrix Shuffling.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net6.0\04. Matrix Shuffling.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net6.0\refint\04. Matrix Shuffling.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net6.0\04. Matrix Shuffling.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net6.0\04. Matrix Shuffling.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\15.01 - Exercise Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net6.0\ref\04. Matrix Shuffling.dll
