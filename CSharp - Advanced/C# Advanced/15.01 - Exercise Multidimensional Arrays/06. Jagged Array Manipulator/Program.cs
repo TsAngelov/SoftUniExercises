@@ -4,11 +4,6 @@
     {
         static void Main(string[] args)
         {
-            double number = 0.5;
-            int numberf = 3;
-
-            Console.WriteLine(number + numberf);
-            Console.WriteLine(number - numberf);
             int n = int.Parse(Console.ReadLine());
             double[][] matrix = new double[n][];
 
@@ -42,7 +37,7 @@
             string input;
             while ((input = Console.ReadLine()) != "End")
             {
-                string[] info = Console.ReadLine().Split();
+                string[] info = input.Split();
                 int row = int.Parse(info[1]);
                 int col = int.Parse(info[2]);
                 int value = int.Parse(info[3]);
@@ -74,7 +69,7 @@
         }
         static bool AreValidIndices(double[][] matrix, int currentRow, int currentCol, int rows)
         {
-            if (currentRow < 0 || currentRow >= rows || currentCol < 0 || currentCol >= matrix[currentRow].Length)
+            if (currentRow < 0 || currentRow > rows || currentCol < 0 || currentCol >= matrix[currentRow].Length)
             {
                 return false;
             }
