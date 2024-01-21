@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. Unique Usernames")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff270a7c1235ae63a3b7e31c66ae2b57de53f867")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3168acba68f9e9e92caccd2b49972f89c2211345")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. Unique Usernames")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. Unique Usernames")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
