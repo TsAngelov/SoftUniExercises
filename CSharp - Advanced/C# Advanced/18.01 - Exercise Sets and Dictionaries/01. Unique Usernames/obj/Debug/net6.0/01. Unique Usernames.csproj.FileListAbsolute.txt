@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\obj\Debug\net6.0\refint\01. Unique Usernames.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\01. Unique Usernames\obj\Debug\net6.0\ref\01. Unique Usernames.dll
