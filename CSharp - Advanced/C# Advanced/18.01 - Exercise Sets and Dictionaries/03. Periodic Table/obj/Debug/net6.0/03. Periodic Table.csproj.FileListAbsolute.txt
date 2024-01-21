@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\obj\Debug\net6.0\refint\03. Periodic Table.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\18.01 - Exercise Sets and Dictionaries\03. Periodic Table\obj\Debug\net6.0\ref\03. Periodic Table.dll
