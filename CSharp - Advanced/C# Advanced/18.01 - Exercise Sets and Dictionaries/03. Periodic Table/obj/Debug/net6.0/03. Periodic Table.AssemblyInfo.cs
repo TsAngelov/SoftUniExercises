@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03. Periodic Table")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55bdb594edd59cd4dca33a011ca927105605fa80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff270a7c1235ae63a3b7e31c66ae2b57de53f867")]
 [assembly: System.Reflection.AssemblyProductAttribute("03. Periodic Table")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03. Periodic Table")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
