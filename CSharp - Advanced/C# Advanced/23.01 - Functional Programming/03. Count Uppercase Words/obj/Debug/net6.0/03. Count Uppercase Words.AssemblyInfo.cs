@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03. Count Uppercase Words")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28a98196e957bfc1da4dd74df6dc34dae36833ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88d7f7af96695dd710207dc40401ecf3a9ced9a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("03. Count Uppercase Words")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03. Count Uppercase Words")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
