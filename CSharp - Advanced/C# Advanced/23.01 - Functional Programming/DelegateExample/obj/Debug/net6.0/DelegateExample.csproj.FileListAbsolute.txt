@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\bin\Debug\net6.0\DelegateExample.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\bin\Debug\net6.0\DelegateExample.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\bin\Debug\net6.0\DelegateExample.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\bin\Debug\net6.0\DelegateExample.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\bin\Debug\net6.0\DelegateExample.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\obj\Debug\net6.0\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\obj\Debug\net6.0\DelegateExample.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\obj\Debug\net6.0\DelegateExample.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\obj\Debug\net6.0\DelegateExample.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\obj\Debug\net6.0\DelegateExample.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\obj\Debug\net6.0\DelegateExample.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\obj\Debug\net6.0\refint\DelegateExample.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\obj\Debug\net6.0\DelegateExample.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\obj\Debug\net6.0\DelegateExample.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\23.01 - Functional Programming\DelegateExample\obj\Debug\net6.0\ref\DelegateExample.dll
