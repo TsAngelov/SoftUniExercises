@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Knights of Honor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55d91aac6ff83fc866be8d9c789c4593bd4cf95d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b877fa5483d0bc0c2fd1f2448deb9dbaff96b7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Knights of Honor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Knights of Honor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
