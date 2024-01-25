@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. Action Point")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b877fa5483d0bc0c2fd1f2448deb9dbaff96b7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88ddd8b6d2bc735940558b45afe6a8cb3c6c5ac1")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. Action Point")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. Action Point")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

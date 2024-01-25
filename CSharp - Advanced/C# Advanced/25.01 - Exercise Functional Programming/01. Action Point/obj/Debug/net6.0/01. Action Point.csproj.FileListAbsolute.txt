@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\bin\Debug\net6.0\01. Action Point.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\bin\Debug\net6.0\01. Action Point.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\bin\Debug\net6.0\01. Action Point.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\bin\Debug\net6.0\01. Action Point.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\bin\Debug\net6.0\01. Action Point.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\obj\Debug\net6.0\01. Action Point.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\obj\Debug\net6.0\01. Action Point.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\obj\Debug\net6.0\01. Action Point.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\obj\Debug\net6.0\01. Action Point.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\obj\Debug\net6.0\01. Action Point.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\obj\Debug\net6.0\01. Action Point.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\obj\Debug\net6.0\refint\01. Action Point.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\obj\Debug\net6.0\01. Action Point.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\obj\Debug\net6.0\01. Action Point.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\01. Action Point\obj\Debug\net6.0\ref\01. Action Point.dll
