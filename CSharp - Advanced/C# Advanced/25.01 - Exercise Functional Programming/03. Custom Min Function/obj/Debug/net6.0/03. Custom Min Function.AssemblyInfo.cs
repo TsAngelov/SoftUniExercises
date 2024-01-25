@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03. Custom Min Function")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88ddd8b6d2bc735940558b45afe6a8cb3c6c5ac1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43a04d83a55fddc5295bffd162ce359aca42cc92")]
 [assembly: System.Reflection.AssemblyProductAttribute("03. Custom Min Function")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03. Custom Min Function")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
