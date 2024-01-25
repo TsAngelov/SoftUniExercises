@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\bin\Debug\net6.0\07. Predicate for Names.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\bin\Debug\net6.0\07. Predicate for Names.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\bin\Debug\net6.0\07. Predicate for Names.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\bin\Debug\net6.0\07. Predicate for Names.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\bin\Debug\net6.0\07. Predicate for Names.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\obj\Debug\net6.0\07. Predicate for Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\obj\Debug\net6.0\07. Predicate for Names.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\obj\Debug\net6.0\07. Predicate for Names.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\obj\Debug\net6.0\07. Predicate for Names.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\obj\Debug\net6.0\07. Predicate for Names.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\obj\Debug\net6.0\07. Predicate for Names.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\obj\Debug\net6.0\refint\07. Predicate for Names.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\obj\Debug\net6.0\07. Predicate for Names.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\obj\Debug\net6.0\07. Predicate for Names.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\07. Predicate for Names\obj\Debug\net6.0\ref\07. Predicate for Names.dll
