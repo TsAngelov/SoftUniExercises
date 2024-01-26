@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\obj\Debug\net6.0\refint\09. Predicate Party!.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\09. Predicate Party!\obj\Debug\net6.0\ref\09. Predicate Party!.dll
