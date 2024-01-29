@@ -1,10 +1,17 @@
-﻿namespace _03._Car_Constructors
+﻿namespace CarManufacturer;
+
+public class StartUp
 {
-    internal class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        string make = Console.ReadLine();
+        string model = Console.ReadLine();
+        int year = int.Parse(Console.ReadLine());
+        double fuelQuantity = double.Parse(Console.ReadLine());
+        double fuelConsumption = double.Parse(Console.ReadLine());
+
+        Car firstCar = new Car();
+        Car secondCar = new Car(make, model, year);
+        Car thirdCar = new Car(make, model, year, fuelQuantity, fuelConsumption);
     }
 }
