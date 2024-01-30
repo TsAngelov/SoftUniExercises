@@ -94,10 +94,11 @@ public class Car
     {
         StringBuilder sb = new();
 
-        sb.AppendLine($"Make {this.Make}");
-        sb.AppendLine($"Model {this.Model}");
-        sb.AppendLine($"Year{this.Year}");
-        sb.AppendLine($"Fuel {this.FuelQuantity:f2}");
+        sb.AppendLine($"Make: {this.Make}");
+        sb.AppendLine($"Model: {this.Model}");
+        sb.AppendLine($"Year: {this.Year}");
+        sb.AppendLine($"HorsePowers: {this.Engine.HorsePower}");
+        sb.AppendLine($"FuelQuantity: {this.FuelQuantity:f1}");
 
         //return $"Make: {this.Make}\nModel: {this.Model}\nYear: {this.Year}\nFuel: {this.FuelQuantity:f2}";
         return sb.ToString().TrimEnd();
