@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. Car Engine and Tires")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca1297a2d8d52c20e671c2d58f307f57c697c6a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+398e4f052c5e029d72f0fc747a0e432ad4d86bc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. Car Engine and Tires")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. Car Engine and Tires")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
