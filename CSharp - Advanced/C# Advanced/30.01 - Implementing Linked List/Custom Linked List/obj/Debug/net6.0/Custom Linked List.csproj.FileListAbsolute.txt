@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\bin\Debug\net6.0\Custom Linked List.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\bin\Debug\net6.0\Custom Linked List.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\bin\Debug\net6.0\Custom Linked List.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\bin\Debug\net6.0\Custom Linked List.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\bin\Debug\net6.0\Custom Linked List.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\obj\Debug\net6.0\Custom Linked List.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\obj\Debug\net6.0\Custom Linked List.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\obj\Debug\net6.0\Custom Linked List.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\obj\Debug\net6.0\Custom Linked List.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\obj\Debug\net6.0\Custom Linked List.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\obj\Debug\net6.0\Custom Linked List.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\obj\Debug\net6.0\refint\Custom Linked List.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\obj\Debug\net6.0\Custom Linked List.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\obj\Debug\net6.0\Custom Linked List.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Custom Linked List\obj\Debug\net6.0\ref\Custom Linked List.dll

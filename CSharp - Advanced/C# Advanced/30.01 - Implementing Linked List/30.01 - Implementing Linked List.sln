@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing Linked List", "Implementing Linked List\Implementing Linked List.csproj", "{6FD6F5C2-5AF0-41E4-9624-837EA7C3C372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implementing Linked List", "Implementing Linked List\Implementing Linked List.csproj", "{6FD6F5C2-5AF0-41E4-9624-837EA7C3C372}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack and Queue", "Stack and Queue\Stack and Queue.csproj", "{BF0275E0-ED86-49FE-A1F1-BA46736852A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack and Queue", "Stack and Queue\Stack and Queue.csproj", "{BF0275E0-ED86-49FE-A1F1-BA46736852A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom Linked List", "Custom Linked List\Custom Linked List.csproj", "{AA14958E-7556-4478-A79B-7AD88276D1AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BF0275E0-ED86-49FE-A1F1-BA46736852A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF0275E0-ED86-49FE-A1F1-BA46736852A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF0275E0-ED86-49FE-A1F1-BA46736852A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA14958E-7556-4478-A79B-7AD88276D1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA14958E-7556-4478-A79B-7AD88276D1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA14958E-7556-4478-A79B-7AD88276D1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA14958E-7556-4478-A79B-7AD88276D1AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
