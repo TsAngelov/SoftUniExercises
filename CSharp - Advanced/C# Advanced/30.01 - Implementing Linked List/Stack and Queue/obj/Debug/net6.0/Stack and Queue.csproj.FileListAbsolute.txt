@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\bin\Debug\net6.0\Stack and Queue.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\bin\Debug\net6.0\Stack and Queue.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\bin\Debug\net6.0\Stack and Queue.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\bin\Debug\net6.0\Stack and Queue.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\bin\Debug\net6.0\Stack and Queue.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\obj\Debug\net6.0\Stack and Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\obj\Debug\net6.0\Stack and Queue.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\obj\Debug\net6.0\Stack and Queue.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\obj\Debug\net6.0\Stack and Queue.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\obj\Debug\net6.0\Stack and Queue.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\obj\Debug\net6.0\Stack and Queue.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\obj\Debug\net6.0\refint\Stack and Queue.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\obj\Debug\net6.0\Stack and Queue.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\obj\Debug\net6.0\Stack and Queue.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\30.01 - Implementing Linked List\Stack and Queue\obj\Debug\net6.0\ref\Stack and Queue.dll
