@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Creating Constructors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2cd11dd817fa194ac8642357e5eb08d7663e8f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6c2bd6bdc57ab334aaa17875245346b9675e6ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Creating Constructors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Creating Constructors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
