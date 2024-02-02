@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05. Date Modifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+529993d94a47903fd61b9129cf7f4af226a900d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+602775eb308c1677b3b625706c92154466301a13")]
 [assembly: System.Reflection.AssemblyProductAttribute("05. Date Modifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05. Date Modifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

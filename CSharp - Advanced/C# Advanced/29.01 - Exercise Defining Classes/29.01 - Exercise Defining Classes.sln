@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Oldest Family Member", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Opinion Poll", "04. Opinion Poll\04. Opinion Poll.csproj", "{106F965C-7386-4DC2-BF40-DF712136F8BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Date Modifier", "05. Date Modifier\05. Date Modifier.csproj", "{6DF58142-C59D-48DB-803E-7AF04AD8BC81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Date Modifier", "05. Date Modifier\05. Date Modifier.csproj", "{6DF58142-C59D-48DB-803E-7AF04AD8BC81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Speed Racing", "06. Speed Racing\06. Speed Racing.csproj", "{56421DFC-5839-435C-945D-681191973566}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{6DF58142-C59D-48DB-803E-7AF04AD8BC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DF58142-C59D-48DB-803E-7AF04AD8BC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DF58142-C59D-48DB-803E-7AF04AD8BC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56421DFC-5839-435C-945D-681191973566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56421DFC-5839-435C-945D-681191973566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56421DFC-5839-435C-945D-681191973566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56421DFC-5839-435C-945D-681191973566}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
