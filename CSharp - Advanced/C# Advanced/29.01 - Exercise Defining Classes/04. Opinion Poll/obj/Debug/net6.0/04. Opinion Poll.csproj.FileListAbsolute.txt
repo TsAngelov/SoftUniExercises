@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\obj\Debug\net6.0\refint\04. Opinion Poll.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\04. Opinion Poll\obj\Debug\net6.0\ref\04. Opinion Poll.dll

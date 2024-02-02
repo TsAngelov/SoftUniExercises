@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03. Oldest Family Member")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6c2bd6bdc57ab334aaa17875245346b9675e6ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc40a3afb0e52903a24f85bf56d9eb89e9d586e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("03. Oldest Family Member")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03. Oldest Family Member")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Creating Constructors",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Oldest Family Member", "03. Oldest Family Member\03. Oldest Family Member.csproj", "{55582444-B2B6-4F70-842F-8DFF493320EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldestFamilyMember", "OldestFamilyMember\OldestFamilyMember.csproj", "{CA82CF8B-A360-48D4-B3FF-DD480686FF5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Opinion Poll", "04. Opinion Poll\04. Opinion Poll.csproj", "{106F965C-7386-4DC2-BF40-DF712136F8BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{55582444-B2B6-4F70-842F-8DFF493320EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55582444-B2B6-4F70-842F-8DFF493320EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55582444-B2B6-4F70-842F-8DFF493320EE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CA82CF8B-A360-48D4-B3FF-DD480686FF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA82CF8B-A360-48D4-B3FF-DD480686FF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA82CF8B-A360-48D4-B3FF-DD480686FF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA82CF8B-A360-48D4-B3FF-DD480686FF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106F965C-7386-4DC2-BF40-DF712136F8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106F965C-7386-4DC2-BF40-DF712136F8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106F965C-7386-4DC2-BF40-DF712136F8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106F965C-7386-4DC2-BF40-DF712136F8BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
