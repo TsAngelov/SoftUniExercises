@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\bin\Debug\net6.0\01. Box.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\bin\Debug\net6.0\01. Box.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\bin\Debug\net6.0\01. Box.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\bin\Debug\net6.0\01. Box.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\bin\Debug\net6.0\01. Box.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\obj\Debug\net6.0\01. Box.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\obj\Debug\net6.0\01. Box.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\obj\Debug\net6.0\01. Box.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\obj\Debug\net6.0\01. Box.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\obj\Debug\net6.0\01. Box.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\obj\Debug\net6.0\01. Box.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\obj\Debug\net6.0\refint\01. Box.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\obj\Debug\net6.0\01. Box.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\obj\Debug\net6.0\01. Box.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\02.02 - Generics\01. Box\obj\Debug\net6.0\ref\01. Box.dll
