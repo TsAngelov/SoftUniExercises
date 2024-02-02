@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\bin\Debug\net6.0\DataStructures.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\bin\Debug\net6.0\DataStructures.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\bin\Debug\net6.0\DataStructures.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\bin\Debug\net6.0\DataStructures.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\bin\Debug\net6.0\DataStructures.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\obj\Debug\net6.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\obj\Debug\net6.0\DataStructures.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\obj\Debug\net6.0\DataStructures.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\obj\Debug\net6.0\DataStructures.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\obj\Debug\net6.0\refint\DataStructures.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\obj\Debug\net6.0\DataStructures.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\obj\Debug\net6.0\DataStructures.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\01.02 - Implementing Stack and Queue\DataStructures\obj\Debug\net6.0\ref\DataStructures.dll
