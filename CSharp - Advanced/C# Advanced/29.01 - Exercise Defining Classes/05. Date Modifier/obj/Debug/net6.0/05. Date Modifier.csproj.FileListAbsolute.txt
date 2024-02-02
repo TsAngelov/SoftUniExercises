@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\obj\Debug\net6.0\refint\05. Date Modifier.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\05. Date Modifier\obj\Debug\net6.0\ref\05. Date Modifier.dll
