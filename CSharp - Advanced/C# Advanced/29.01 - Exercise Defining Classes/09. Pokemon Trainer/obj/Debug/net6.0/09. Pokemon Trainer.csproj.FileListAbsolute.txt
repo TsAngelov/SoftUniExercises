@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\obj\Debug\net6.0\refint\09. Pokemon Trainer.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\29.01 - Exercise Defining Classes\09. Pokemon Trainer\obj\Debug\net6.0\ref\09. Pokemon Trainer.dll
