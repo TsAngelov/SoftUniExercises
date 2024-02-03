@@ -38,43 +38,25 @@ namespace _09._Predicate_Party_
                     case "StartsWith":
                         string start = lineTokens[2];
                         predicate = n => n.StartsWith(start);
-                        switch (command)
-                        {
-                            case "Double":
-                                names = doubleAdd(names, predicate);
-                                break;
-                            case "Remove":
-                                names = remove(names, predicate);
-                                break;
-                        }
                         break;
 
                     case "EndsWith":
                         string end = lineTokens[2];
                         predicate = n => n.EndsWith(end);
-                        switch (command)
-                        {
-                            case "Double":
-                                names = doubleAdd(names, predicate);
-                                break;
-                            case "Remove":
-                                names = remove(names, predicate);
-                                break;
-                        }
                         break;
 
                     case "Length":
                         int length = int.Parse(lineTokens[2]);
                         predicate = n => n.Length == length;
-                        switch (command)
-                        {
-                            case "Double":
-                                names = doubleAdd(names, predicate);
-                                break;
-                            case "Remove":
-                                names = remove(names, predicate);
-                                break;
-                        }
+                        break;
+                }
+                switch (command)
+                {
+                    case "Double":
+                        names = doubleAdd(names, predicate);
+                        break;
+                    case "Remove":
+                        names = remove(names, predicate);
                         break;
                 }
             }
