@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03. Generic Swap Method String")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee3b717c742d7554597ee900915a023e4710121c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1d9f910d5a9c91bafc3d763d243051d99e8ea6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("03. Generic Swap Method String")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03. Generic Swap Method String")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

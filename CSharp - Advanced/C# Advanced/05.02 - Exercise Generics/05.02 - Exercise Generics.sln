@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Generic Count Method St
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Generic Count Method Double", "06. Generic Count Method Double\06. Generic Count Method Double.csproj", "{2125D776-5415-404E-8CD5-0BF6090BA737}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Tuple", "07. Tuple\07. Tuple.csproj", "{8EDFD18D-8865-480F-AABF-86CCDD3C837A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Tuple", "07. Tuple\07. Tuple.csproj", "{8EDFD18D-8865-480F-AABF-86CCDD3C837A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Threeuple", "08. Threeuple\08. Threeuple.csproj", "{15BC04B9-1F4C-4BEC-A843-45880DD50D16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{8EDFD18D-8865-480F-AABF-86CCDD3C837A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EDFD18D-8865-480F-AABF-86CCDD3C837A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EDFD18D-8865-480F-AABF-86CCDD3C837A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BC04B9-1F4C-4BEC-A843-45880DD50D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BC04B9-1F4C-4BEC-A843-45880DD50D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BC04B9-1F4C-4BEC-A843-45880DD50D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BC04B9-1F4C-4BEC-A843-45880DD50D16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
