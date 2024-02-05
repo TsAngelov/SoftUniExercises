@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\bin\Debug\net6.0\04. Generic Swap Method Integer.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\bin\Debug\net6.0\04. Generic Swap Method Integer.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\bin\Debug\net6.0\04. Generic Swap Method Integer.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\bin\Debug\net6.0\04. Generic Swap Method Integer.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\bin\Debug\net6.0\04. Generic Swap Method Integer.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\obj\Debug\net6.0\refint\04. Generic Swap Method Integer.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\04. Generic Swap Method Integer\obj\Debug\net6.0\ref\04. Generic Swap Method Integer.dll

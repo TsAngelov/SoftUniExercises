@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Generic Box of Integer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd969e153c59d25ca1c02c56f8587e292ebeebfe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+059815d5641052c7f95a5690ec6a38c48bb3559a")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Generic Box of Integer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Generic Box of Integer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
