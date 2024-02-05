@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. Generic Box Of String")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e4c515ab44cab929aa2c5b1d534b6c9bc14631e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29ccc419d421434f5e31ae002ce36ab6f3f68f4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. Generic Box Of String")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. Generic Box Of String")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
