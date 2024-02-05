@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\bin\Debug\net6.0\05. Generic Count Method Strings.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\bin\Debug\net6.0\05. Generic Count Method Strings.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\bin\Debug\net6.0\05. Generic Count Method Strings.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\bin\Debug\net6.0\05. Generic Count Method Strings.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\bin\Debug\net6.0\05. Generic Count Method Strings.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\obj\Debug\net6.0\05. Generic Count Method Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\obj\Debug\net6.0\05. Generic Count Method Strings.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\obj\Debug\net6.0\05. Generic Count Method Strings.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\obj\Debug\net6.0\05. Generic Count Method Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\obj\Debug\net6.0\05. Generic Count Method Strings.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\obj\Debug\net6.0\05. Generic Count Method Strings.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\obj\Debug\net6.0\refint\05. Generic Count Method Strings.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\obj\Debug\net6.0\05. Generic Count Method Strings.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\obj\Debug\net6.0\05. Generic Count Method Strings.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\05.02 - Exercise Generics\05. Generic Count Method Strings\obj\Debug\net6.0\ref\05. Generic Count Method Strings.dll
