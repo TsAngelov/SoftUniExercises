@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. Opinion Poll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f952141c1ba4e618738c198fecca0751f671933a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+153caa64b615b8eb17bc686009cb385128cb621e")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. Opinion Poll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. Opinion Poll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

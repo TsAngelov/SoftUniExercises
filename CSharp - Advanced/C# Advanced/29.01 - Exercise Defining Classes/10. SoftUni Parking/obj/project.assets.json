@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\29.01 - Exercise Defining Classes\\SoftUniParking\\SoftUniParking.csproj",
-      "projectName": "SoftUniParking",
-      "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\29.01 - Exercise Defining Classes\\SoftUniParking\\SoftUniParking.csproj",
+      "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\29.01 - Exercise Defining Classes\\10. SoftUni Parking\\10. SoftUni Parking.csproj",
+      "projectName": "10. SoftUni Parking",
+      "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\29.01 - Exercise Defining Classes\\10. SoftUni Parking\\10. SoftUni Parking.csproj",
       "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\29.01 - Exercise Defining Classes\\SoftUniParking\\obj\\",
+      "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\29.01 - Exercise Defining Classes\\10. SoftUni Parking\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",
