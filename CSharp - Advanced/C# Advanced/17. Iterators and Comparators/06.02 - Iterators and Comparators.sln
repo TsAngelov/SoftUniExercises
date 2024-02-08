@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Library", "01. Library\01. Library.csproj", "{C7A9A493-C0CE-418B-8BB7-B6D31B7FF9EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{1D852718-8715-4F93-9B85-CEACF99D401C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorsAndComparators", "IteratorsAndComparators\IteratorsAndComparators.csproj", "{F0130552-AEAE-4225-9296-8C9082A66EBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C7A9A493-C0CE-418B-8BB7-B6D31B7FF9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7A9A493-C0CE-418B-8BB7-B6D31B7FF9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7A9A493-C0CE-418B-8BB7-B6D31B7FF9EB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1D852718-8715-4F93-9B85-CEACF99D401C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1D852718-8715-4F93-9B85-CEACF99D401C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1D852718-8715-4F93-9B85-CEACF99D401C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1D852718-8715-4F93-9B85-CEACF99D401C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0130552-AEAE-4225-9296-8C9082A66EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0130552-AEAE-4225-9296-8C9082A66EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0130552-AEAE-4225-9296-8C9082A66EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0130552-AEAE-4225-9296-8C9082A66EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

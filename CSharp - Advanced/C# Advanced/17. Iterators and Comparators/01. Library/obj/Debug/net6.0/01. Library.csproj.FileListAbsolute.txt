@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\bin\Debug\net6.0\01. Library.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\bin\Debug\net6.0\01. Library.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\bin\Debug\net6.0\01. Library.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\bin\Debug\net6.0\01. Library.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\bin\Debug\net6.0\01. Library.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\obj\Debug\net6.0\01. Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\obj\Debug\net6.0\01. Library.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\obj\Debug\net6.0\01. Library.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\obj\Debug\net6.0\01. Library.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\obj\Debug\net6.0\01. Library.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\obj\Debug\net6.0\01. Library.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\obj\Debug\net6.0\refint\01. Library.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\obj\Debug\net6.0\01. Library.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\obj\Debug\net6.0\01. Library.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\17. Iterators and Comparators\01. Library\obj\Debug\net6.0\ref\01. Library.dll
