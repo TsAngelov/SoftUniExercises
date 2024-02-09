@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. BookComparer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f65c53da564881d55ea0cc5152d79571ccbf6771")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95834830bb73e3409afe816b67c72fffb6facf7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. BookComparer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. BookComparer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
