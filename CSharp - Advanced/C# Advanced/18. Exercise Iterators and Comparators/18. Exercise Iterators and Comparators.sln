@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. ListyIterator", "01. ListyIterator\01. ListyIterator.csproj", "{9B39207A-456F-429D-A442-0A68D4B27C9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Collection", "02. Collection\02. Collection.csproj", "{2B9F2A5B-9863-4347-9036-78158373C100}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Collection", "02. Collection\02. Collection.csproj", "{2B9F2A5B-9863-4347-9036-78158373C100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Stack", "03. Stack\03. Stack.csproj", "{1135784D-7D1D-47B4-A538-16C67699A159}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2B9F2A5B-9863-4347-9036-78158373C100}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B9F2A5B-9863-4347-9036-78158373C100}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B9F2A5B-9863-4347-9036-78158373C100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1135784D-7D1D-47B4-A538-16C67699A159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1135784D-7D1D-47B4-A538-16C67699A159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1135784D-7D1D-47B4-A538-16C67699A159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1135784D-7D1D-47B4-A538-16C67699A159}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
