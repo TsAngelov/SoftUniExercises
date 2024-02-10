@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\bin\Debug\net6.0\07. Custom Comparator.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\bin\Debug\net6.0\07. Custom Comparator.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\bin\Debug\net6.0\07. Custom Comparator.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\bin\Debug\net6.0\07. Custom Comparator.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\bin\Debug\net6.0\07. Custom Comparator.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\obj\Debug\net6.0\07. Custom Comparator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\obj\Debug\net6.0\07. Custom Comparator.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\obj\Debug\net6.0\07. Custom Comparator.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\obj\Debug\net6.0\07. Custom Comparator.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\obj\Debug\net6.0\07. Custom Comparator.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\obj\Debug\net6.0\07. Custom Comparator.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\obj\Debug\net6.0\refint\07. Custom Comparator.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\obj\Debug\net6.0\07. Custom Comparator.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\obj\Debug\net6.0\07. Custom Comparator.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\18. Exercise Iterators and Comparators\07. Custom Comparator\obj\Debug\net6.0\ref\07. Custom Comparator.dll
