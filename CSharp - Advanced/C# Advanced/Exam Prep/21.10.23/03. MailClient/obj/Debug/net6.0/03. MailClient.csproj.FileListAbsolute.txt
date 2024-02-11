@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\bin\Debug\net6.0\03. MailClient.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\bin\Debug\net6.0\03. MailClient.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\bin\Debug\net6.0\03. MailClient.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\bin\Debug\net6.0\03. MailClient.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\bin\Debug\net6.0\03. MailClient.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\obj\Debug\net6.0\03. MailClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\obj\Debug\net6.0\03. MailClient.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\obj\Debug\net6.0\03. MailClient.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\obj\Debug\net6.0\03. MailClient.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\obj\Debug\net6.0\03. MailClient.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\obj\Debug\net6.0\03. MailClient.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\obj\Debug\net6.0\refint\03. MailClient.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\obj\Debug\net6.0\03. MailClient.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\obj\Debug\net6.0\03. MailClient.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\21.10.23\03. MailClient\obj\Debug\net6.0\ref\03. MailClient.dll
