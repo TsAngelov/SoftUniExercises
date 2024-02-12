@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\bin\Debug\net6.0\02. Mouse in the kitchen.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\bin\Debug\net6.0\02. Mouse in the kitchen.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\bin\Debug\net6.0\02. Mouse in the kitchen.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\bin\Debug\net6.0\02. Mouse in the kitchen.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\bin\Debug\net6.0\02. Mouse in the kitchen.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\obj\Debug\net6.0\02. Mouse in the kitchen.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\obj\Debug\net6.0\02. Mouse in the kitchen.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\obj\Debug\net6.0\02. Mouse in the kitchen.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\obj\Debug\net6.0\02. Mouse in the kitchen.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\obj\Debug\net6.0\02. Mouse in the kitchen.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\obj\Debug\net6.0\02. Mouse in the kitchen.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\obj\Debug\net6.0\refint\02. Mouse in the kitchen.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\obj\Debug\net6.0\02. Mouse in the kitchen.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\obj\Debug\net6.0\02. Mouse in the kitchen.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\02. Mouse in the kitchen\obj\Debug\net6.0\ref\02. Mouse in the kitchen.dll
