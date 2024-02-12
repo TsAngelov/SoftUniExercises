@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\bin\Debug\net6.0\03. Automotive Repair Shop.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\bin\Debug\net6.0\03. Automotive Repair Shop.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\bin\Debug\net6.0\03. Automotive Repair Shop.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\bin\Debug\net6.0\03. Automotive Repair Shop.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\bin\Debug\net6.0\03. Automotive Repair Shop.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\obj\Debug\net6.0\refint\03. Automotive Repair Shop.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\03. Automotive Repair Shop\obj\Debug\net6.0\ref\03. Automotive Repair Shop.dll

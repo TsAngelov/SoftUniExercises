@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Temple of Doom", "01. Temple of Doom\01. Temple of Doom.csproj", "{0B90AFA2-FC84-4CDF-BFF7-4F3FB6CE4697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Mouse in the kitchen", "02. Mouse in the kitchen\02. Mouse in the kitchen.csproj", "{DBE38D89-202B-44D1-AAA2-5E528FE77BA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Mouse in the kitchen", "02. Mouse in the kitchen\02. Mouse in the kitchen.csproj", "{DBE38D89-202B-44D1-AAA2-5E528FE77BA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Automotive Repair Shop", "03. Automotive Repair Shop\03. Automotive Repair Shop.csproj", "{8EE9A31A-318D-4CEB-8C80-C35DF53886A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DBE38D89-202B-44D1-AAA2-5E528FE77BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBE38D89-202B-44D1-AAA2-5E528FE77BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBE38D89-202B-44D1-AAA2-5E528FE77BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE9A31A-318D-4CEB-8C80-C35DF53886A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE9A31A-318D-4CEB-8C80-C35DF53886A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE9A31A-318D-4CEB-8C80-C35DF53886A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE9A31A-318D-4CEB-8C80-C35DF53886A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
