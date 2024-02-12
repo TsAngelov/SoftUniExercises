@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\bin\Debug\net6.0\01. Temple of Doom.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\bin\Debug\net6.0\01. Temple of Doom.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\bin\Debug\net6.0\01. Temple of Doom.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\bin\Debug\net6.0\01. Temple of Doom.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\bin\Debug\net6.0\01. Temple of Doom.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\obj\Debug\net6.0\refint\01. Temple of Doom.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\17.06.23\01. Temple of Doom\obj\Debug\net6.0\ref\01. Temple of Doom.dll

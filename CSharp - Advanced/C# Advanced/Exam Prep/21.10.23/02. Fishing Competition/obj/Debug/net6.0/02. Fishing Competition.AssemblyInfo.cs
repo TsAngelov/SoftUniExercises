@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Fishing Competition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd4c3c21efb96ffa3900fab4c99092679c68b4ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70e93c07f31118f80f99dfb11d2225502a057090")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Fishing Competition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Fishing Competition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
