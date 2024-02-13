@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. Recursive Array Sum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4edb3d6b1b38e7b29e1ea2e07ba9dd2ed25a929")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac3f5e8be85b3b49c22a989ed37a5544b8d0406b")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. Recursive Array Sum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. Recursive Array Sum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\bin\Debug\net6.0\05. Merge Sort.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\bin\Debug\net6.0\05. Merge Sort.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\bin\Debug\net6.0\05. Merge Sort.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\bin\Debug\net6.0\05. Merge Sort.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\bin\Debug\net6.0\05. Merge Sort.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\obj\Debug\net6.0\refint\05. Merge Sort.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\19. Basic Algorithms\05. Merge Sort\obj\Debug\net6.0\ref\05. Merge Sort.dll
