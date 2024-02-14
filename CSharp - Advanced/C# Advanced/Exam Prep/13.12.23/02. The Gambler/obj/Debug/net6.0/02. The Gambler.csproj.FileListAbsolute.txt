@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\bin\Debug\net6.0\02. The Gambler.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\bin\Debug\net6.0\02. The Gambler.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\bin\Debug\net6.0\02. The Gambler.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\bin\Debug\net6.0\02. The Gambler.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\bin\Debug\net6.0\02. The Gambler.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\obj\Debug\net6.0\02. The Gambler.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\obj\Debug\net6.0\02. The Gambler.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\obj\Debug\net6.0\02. The Gambler.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\obj\Debug\net6.0\02. The Gambler.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\obj\Debug\net6.0\02. The Gambler.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\obj\Debug\net6.0\02. The Gambler.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\obj\Debug\net6.0\refint\02. The Gambler.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\obj\Debug\net6.0\02. The Gambler.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\obj\Debug\net6.0\02. The Gambler.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\Exam Prep\13.12.23\02. The Gambler\obj\Debug\net6.0\ref\02. The Gambler.dll

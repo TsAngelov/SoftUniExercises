@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Worms and Holes", "01. Worms and Holes\01. Worms and Holes.csproj", "{E6E4CAF6-B87A-4A0F-8BA2-95517F8B930F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Worms and Holes", "01. Worms and Holes\01. Worms and Holes.csproj", "{E6E4CAF6-B87A-4A0F-8BA2-95517F8B930F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. The Gambler", "02. The Gambler\02. The Gambler.csproj", "{8DFAA40A-1FCA-426C-8C5E-8DD560A0E24C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E6E4CAF6-B87A-4A0F-8BA2-95517F8B930F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6E4CAF6-B87A-4A0F-8BA2-95517F8B930F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6E4CAF6-B87A-4A0F-8BA2-95517F8B930F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DFAA40A-1FCA-426C-8C5E-8DD560A0E24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFAA40A-1FCA-426C-8C5E-8DD560A0E24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFAA40A-1FCA-426C-8C5E-8DD560A0E24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFAA40A-1FCA-426C-8C5E-8DD560A0E24C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
