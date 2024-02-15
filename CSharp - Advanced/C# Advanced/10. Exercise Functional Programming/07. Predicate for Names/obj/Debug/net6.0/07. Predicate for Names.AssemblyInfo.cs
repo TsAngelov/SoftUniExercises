@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07. Predicate for Names")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce1ea58960d776e3520388c6deef3c59dec50093")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3772df574e143d9eb19dd36f4a1900d579c9008")]
 [assembly: System.Reflection.AssemblyProductAttribute("07. Predicate for Names")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07. Predicate for Names")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
