@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "86zgD0DD74PdiwSg6TPnyE2+/lkizHdLlAL10bfesX7faVXqFFwyte17FT0H283PEbQzEkwbG3pa8oPx45vaBg==",
+  "dgSpecHash": "0X32hBOpWDWIJx9jrjiX1xTSb/PZz2e8SLXpKylDcMDbSOiSQUlNGvTpwzpGzrwKADbFnowOZyRo5dgb3ydKSA==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\07. Predicate for Names\\07. Predicate for Names.csproj",
+  "projectFilePath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\07. Predicate for Names\\07. Predicate for Names.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

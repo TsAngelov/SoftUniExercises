@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _02._Knights_of_Honor
-build_property.ProjectDir = D:\SoftUni\CSharp - Advanced\C# Advanced\25.01 - Exercise Functional Programming\02. Knights of Honor\
+build_property.ProjectDir = D:\SoftUni\CSharp - Advanced\C# Advanced\10. Exercise Functional Programming\02. Knights of Honor\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

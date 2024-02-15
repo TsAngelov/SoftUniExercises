@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj": {}
+    "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj": {
+    "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
+        "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
         "projectName": "04. Find Evens or Odds",
-        "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
+        "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
         "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\04. Find Evens or Odds\\obj\\",
+        "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\04. Find Evens or Odds\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",

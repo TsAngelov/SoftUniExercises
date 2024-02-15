@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\09. Predicate Party!\\09. Predicate Party!.csproj",
+      "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\09. Predicate Party!\\09. Predicate Party!.csproj",
       "projectName": "09. Predicate Party!",
-      "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\09. Predicate Party!\\09. Predicate Party!.csproj",
+      "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\09. Predicate Party!\\09. Predicate Party!.csproj",
       "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\09. Predicate Party!\\obj\\",
+      "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\09. Predicate Party!\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\06. Reverse and Exclude\\06. Reverse and Exclude.csproj",
+      "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\06. Reverse and Exclude\\06. Reverse and Exclude.csproj",
       "projectName": "06. Reverse and Exclude",
-      "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\06. Reverse and Exclude\\06. Reverse and Exclude.csproj",
+      "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\06. Reverse and Exclude\\06. Reverse and Exclude.csproj",
       "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\06. Reverse and Exclude\\obj\\",
+      "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\06. Reverse and Exclude\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",

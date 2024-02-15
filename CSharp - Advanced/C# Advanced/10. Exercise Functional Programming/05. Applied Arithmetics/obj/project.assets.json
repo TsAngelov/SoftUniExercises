@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
+      "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
       "projectName": "05. Applied Arithmetics",
-      "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
+      "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
       "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\25.01 - Exercise Functional Programming\\05. Applied Arithmetics\\obj\\",
+      "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# Advanced\\10. Exercise Functional Programming\\05. Applied Arithmetics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",

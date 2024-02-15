@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09. Predicate Party!")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c145aef75ed0c08983684128952c5753f2f48938")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce1ea58960d776e3520388c6deef3c59dec50093")]
 [assembly: System.Reflection.AssemblyProductAttribute("09. Predicate Party!")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09. Predicate Party!")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
