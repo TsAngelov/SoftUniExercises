@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Chicken Snack", "01. Chicken Snack\01. Chicken Snack.csproj", "{2A769AD7-DABF-47B1-BDE4-6345D4029095}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Clear Skies", "02. Clear Skies\02. Clear Skies.csproj", "{A7CD8F8E-9757-4AC3-A6C8-5D43282669ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Clear Skies", "02. Clear Skies\02. Clear Skies.csproj", "{A7CD8F8E-9757-4AC3-A6C8-5D43282669ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. SharkTaxonomy", "03. SharkTaxonomy\03. SharkTaxonomy.csproj", "{909689C7-A417-4AD4-AB45-36F593FE0CB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A7CD8F8E-9757-4AC3-A6C8-5D43282669ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7CD8F8E-9757-4AC3-A6C8-5D43282669ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7CD8F8E-9757-4AC3-A6C8-5D43282669ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909689C7-A417-4AD4-AB45-36F593FE0CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909689C7-A417-4AD4-AB45-36F593FE0CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909689C7-A417-4AD4-AB45-36F593FE0CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909689C7-A417-4AD4-AB45-36F593FE0CB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
