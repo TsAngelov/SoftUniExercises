@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\bin\Debug\net6.0\02. Clear Skies.exe
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\bin\Debug\net6.0\02. Clear Skies.deps.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\bin\Debug\net6.0\02. Clear Skies.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\bin\Debug\net6.0\02. Clear Skies.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\bin\Debug\net6.0\02. Clear Skies.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\obj\Debug\net6.0\refint\02. Clear Skies.dll
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.pdb
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# Advanced\20. Regular Exam\02. Clear Skies\obj\Debug\net6.0\ref\02. Clear Skies.dll
