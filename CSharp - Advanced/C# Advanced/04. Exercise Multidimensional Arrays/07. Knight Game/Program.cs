@@ -57,7 +57,6 @@
         {
             int attackedKnights = 0;
 
-            // up-left
             if (IsCellValid(row - 1, col - 2))
             {
                 if ()
