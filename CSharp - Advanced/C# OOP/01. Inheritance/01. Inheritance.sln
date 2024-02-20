@@ -3,17 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo", "demo\demo.csproj", "{D3510E8B-E379-4FBB-8CFA-CFBFF23DF05C}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Single Inheritance", "01. Single Inheritance\01. Single Inheritance.csproj", "{DC0B976E-F88C-445E-A090-4657EC37CB22}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Multiple Inheritance", "02. Multiple Inheritance\02. Multiple Inheritance.csproj", "{26890A3C-FFAE-4629-A377-81DBAC9C2568}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Hierarchical Inheritance", "03. Hierarchical Inheritance\03. Hierarchical Inheritance.csproj", "{91A74DCB-D766-495A-9863-04BEA66D0CD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRandomList", "CustomRandomList\CustomRandomList.csproj", "{35A65C11-2594-449B-867C-DD5F8B0B4A65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Stack of Strings", "05. Stack of Strings\05. Stack of Strings.csproj", "{13303596-13D9-46B5-B884-5DAE36CF974A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Stack of Strings", "05. Stack of Strings\05. Stack of Strings.csproj", "{13303596-13D9-46B5-B884-5DAE36CF974A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Random List", "04. Random List\04. Random List.csproj", "{A2AD9317-C89B-43CD-9A5B-365F78DB83C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D3510E8B-E379-4FBB-8CFA-CFBFF23DF05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3510E8B-E379-4FBB-8CFA-CFBFF23DF05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3510E8B-E379-4FBB-8CFA-CFBFF23DF05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3510E8B-E379-4FBB-8CFA-CFBFF23DF05C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DC0B976E-F88C-445E-A090-4657EC37CB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DC0B976E-F88C-445E-A090-4657EC37CB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC0B976E-F88C-445E-A090-4657EC37CB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -37,14 +31,14 @@ Global
 		{91A74DCB-D766-495A-9863-04BEA66D0CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91A74DCB-D766-495A-9863-04BEA66D0CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91A74DCB-D766-495A-9863-04BEA66D0CD5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{35A65C11-2594-449B-867C-DD5F8B0B4A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{35A65C11-2594-449B-867C-DD5F8B0B4A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{35A65C11-2594-449B-867C-DD5F8B0B4A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{35A65C11-2594-449B-867C-DD5F8B0B4A65}.Release|Any CPU.Build.0 = Release|Any CPU
 		{13303596-13D9-46B5-B884-5DAE36CF974A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{13303596-13D9-46B5-B884-5DAE36CF974A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13303596-13D9-46B5-B884-5DAE36CF974A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13303596-13D9-46B5-B884-5DAE36CF974A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2AD9317-C89B-43CD-9A5B-365F78DB83C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AD9317-C89B-43CD-9A5B-365F78DB83C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AD9317-C89B-43CD-9A5B-365F78DB83C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AD9317-C89B-43CD-9A5B-365F78DB83C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

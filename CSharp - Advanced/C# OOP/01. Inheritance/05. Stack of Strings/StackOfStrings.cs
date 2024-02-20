@@ -8,13 +8,15 @@ namespace CustomStack
 {
     public class StackOfStrings : Stack<string>
     {
-        public bool isEmpty() => Count == 0;
+        public bool IsEmpty()
+        {
+            return this.Count == 0;
+        }
         public void AddRange(IEnumerable<string> collection)
         {
             foreach (var element in collection)
-            {
-                Push(element);
-            }
+                this.Push(element);
         }
     }
+
 }

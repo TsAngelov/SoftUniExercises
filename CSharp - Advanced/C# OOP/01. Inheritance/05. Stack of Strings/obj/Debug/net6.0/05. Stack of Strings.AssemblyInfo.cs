@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05. Stack of Strings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d0688cde475cc6eeda55b71cd7c0b9441b5c242")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dcbbd086ac0977132f36dcbde217ea77b48e1c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("05. Stack of Strings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05. Stack of Strings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
