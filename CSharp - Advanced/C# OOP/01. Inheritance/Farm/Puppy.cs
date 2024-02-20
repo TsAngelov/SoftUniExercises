@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace Farm
 {
-    public class StartUp
+    public class Puppy : Dog
     {
-        static void Main()
+        public void Weep()
         {
-            Puppy puppy = new Puppy();
-            puppy.Eat();
-            puppy.Bark();
-            puppy.Weep();
+            Console.WriteLine("weeping...");
         }
     }
 }
