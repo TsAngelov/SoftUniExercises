@@ -12,6 +12,10 @@
             Console.WriteLine(student.Address);
             Console.WriteLine(student.LastName);
             Console.WriteLine(student.University);
+
+            student.Father = new Person { FirstName = "Gosho", LastName = "Patronov" };
+
+            student.Sleep();
         }
     }
 }
