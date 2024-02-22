@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\bin\Debug\net6.0\01. Person.exe
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\bin\Debug\net6.0\01. Person.deps.json
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\bin\Debug\net6.0\01. Person.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\bin\Debug\net6.0\01. Person.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\bin\Debug\net6.0\01. Person.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\obj\Debug\net6.0\01. Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\obj\Debug\net6.0\01. Person.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\obj\Debug\net6.0\01. Person.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\obj\Debug\net6.0\01. Person.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\obj\Debug\net6.0\01. Person.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\obj\Debug\net6.0\01. Person.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\obj\Debug\net6.0\refint\01. Person.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\obj\Debug\net6.0\01. Person.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\obj\Debug\net6.0\01. Person.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\02. Exercise Inheritance\01. Person\obj\Debug\net6.0\ref\01. Person.dll
