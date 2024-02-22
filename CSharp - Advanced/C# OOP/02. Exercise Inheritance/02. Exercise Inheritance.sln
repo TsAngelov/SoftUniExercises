@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Person", "01. Person\01. Person.csproj", "{3F1DA4BA-1AF2-49F9-BBFE-11ABB2F757FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Zoo", "02. Zoo\02. Zoo.csproj", "{8A401D74-4A47-4EE9-8158-46CFD1FAA109}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Zoo", "02. Zoo\02. Zoo.csproj", "{8A401D74-4A47-4EE9-8158-46CFD1FAA109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Players and Monsters", "03. Players and Monsters\03. Players and Monsters.csproj", "{3FC9109E-5705-462C-9D71-67999AC7E89F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8A401D74-4A47-4EE9-8158-46CFD1FAA109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A401D74-4A47-4EE9-8158-46CFD1FAA109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A401D74-4A47-4EE9-8158-46CFD1FAA109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC9109E-5705-462C-9D71-67999AC7E89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC9109E-5705-462C-9D71-67999AC7E89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC9109E-5705-462C-9D71-67999AC7E89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC9109E-5705-462C-9D71-67999AC7E89F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
