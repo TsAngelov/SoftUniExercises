@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\bin\Debug\net6.0\01. Persons.exe
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\bin\Debug\net6.0\01. Persons.deps.json
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\bin\Debug\net6.0\01. Persons.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\bin\Debug\net6.0\01. Persons.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\bin\Debug\net6.0\01. Persons.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\obj\Debug\net6.0\01. Persons.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\obj\Debug\net6.0\01. Persons.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\obj\Debug\net6.0\01. Persons.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\obj\Debug\net6.0\01. Persons.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\obj\Debug\net6.0\01. Persons.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\obj\Debug\net6.0\01. Persons.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\obj\Debug\net6.0\refint\01. Persons.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\obj\Debug\net6.0\01. Persons.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\obj\Debug\net6.0\01. Persons.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\03. Encapsulation\01. Persons\obj\Debug\net6.0\ref\01. Persons.dll
