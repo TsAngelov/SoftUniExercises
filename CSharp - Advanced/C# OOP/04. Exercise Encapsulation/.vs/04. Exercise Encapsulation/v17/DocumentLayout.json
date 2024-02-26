@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36082921-B8C9-4B4F-BFC0-B86D6D3E0001}|03. Shopping Spree\\03. Shopping Spree.csproj|d:\\softuni\\csharp - advanced\\c# oop\\04. exercise encapsulation\\03. shopping spree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36082921-B8C9-4B4F-BFC0-B86D6D3E0001}|03. Shopping Spree\\03. Shopping Spree.csproj|solutionrelative:03. shopping spree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65B3BBEE-0677-4F61-BE6B-4A421EB2E1FF}|PizzaCalories\\PizzaCalories.csproj|d:\\softuni\\csharp - advanced\\c# oop\\04. exercise encapsulation\\pizzacalories\\dough.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B3BBEE-0677-4F61-BE6B-4A421EB2E1FF}|PizzaCalories\\PizzaCalories.csproj|solutionrelative:pizzacalories\\dough.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B3BBEE-0677-4F61-BE6B-4A421EB2E1FF}|PizzaCalories\\PizzaCalories.csproj|d:\\softuni\\csharp - advanced\\c# oop\\04. exercise encapsulation\\pizzacalories\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B3BBEE-0677-4F61-BE6B-4A421EB2E1FF}|PizzaCalories\\PizzaCalories.csproj|solutionrelative:pizzacalories\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B3BBEE-0677-4F61-BE6B-4A421EB2E1FF}|PizzaCalories\\PizzaCalories.csproj|d:\\softuni\\csharp - advanced\\c# oop\\04. exercise encapsulation\\pizzacalories\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B3BBEE-0677-4F61-BE6B-4A421EB2E1FF}|PizzaCalories\\PizzaCalories.csproj|solutionrelative:pizzacalories\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B3BBEE-0677-4F61-BE6B-4A421EB2E1FF}|PizzaCalories\\PizzaCalories.csproj|d:\\softuni\\csharp - advanced\\c# oop\\04. exercise encapsulation\\pizzacalories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B3BBEE-0677-4F61-BE6B-4A421EB2E1FF}|PizzaCalories\\PizzaCalories.csproj|solutionrelative:pizzacalories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\03. Shopping Spree\\Program.cs",
-              "RelativeDocumentMoniker": "03. Shopping Spree\\Program.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\03. Shopping Spree\\Program.cs",
-              "RelativeToolTip": "03. Shopping Spree\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\PizzaCalories\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzaCalories\\Pizza.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\PizzaCalories\\Pizza.cs",
+              "RelativeToolTip": "PizzaCalories\\Pizza.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T18:37:32.765Z",
+              "WhenOpened": "2024-02-26T21:17:50.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\PizzaCalories\\Topping.cs",
+              "RelativeDocumentMoniker": "PizzaCalories\\Topping.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\PizzaCalories\\Topping.cs",
+              "RelativeToolTip": "PizzaCalories\\Topping.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T21:10:20.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dough.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\PizzaCalories\\Dough.cs",
+              "RelativeDocumentMoniker": "PizzaCalories\\Dough.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\PizzaCalories\\Dough.cs",
+              "RelativeToolTip": "PizzaCalories\\Dough.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:49:29.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\PizzaCalories\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaCalories\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\PizzaCalories\\Program.cs",
+              "RelativeToolTip": "PizzaCalories\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:48:32.589Z",
               "EditorCaption": ""
             }
           ]
