@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\bin\Debug\net6.0\02. Animal Farm.exe
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\bin\Debug\net6.0\02. Animal Farm.deps.json
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\bin\Debug\net6.0\02. Animal Farm.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\bin\Debug\net6.0\02. Animal Farm.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\bin\Debug\net6.0\02. Animal Farm.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\obj\Debug\net6.0\refint\02. Animal Farm.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\04. Exercise Encapsulation\02. Animal Farm\obj\Debug\net6.0\ref\02. Animal Farm.dll

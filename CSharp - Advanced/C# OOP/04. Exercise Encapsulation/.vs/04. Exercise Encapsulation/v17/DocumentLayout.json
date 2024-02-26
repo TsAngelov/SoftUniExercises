@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DACF2C40-03CB-4211-B14D-129292756930}|01. Class Box Data\\01. Class Box Data.csproj|d:\\softuni\\csharp - advanced\\c# oop\\04. exercise encapsulation\\01. class box data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACF2C40-03CB-4211-B14D-129292756930}|01. Class Box Data\\01. Class Box Data.csproj|solutionrelative:01. class box data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6C16C1-8347-4E24-8419-AF84DCEFB92A}|02. Animal Farm\\02. Animal Farm.csproj|d:\\softuni\\csharp - advanced\\c# oop\\04. exercise encapsulation\\02. animal farm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6C16C1-8347-4E24-8419-AF84DCEFB92A}|02. Animal Farm\\02. Animal Farm.csproj|solutionrelative:02. animal farm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACF2C40-03CB-4211-B14D-129292756930}|01. Class Box Data\\01. Class Box Data.csproj|d:\\softuni\\csharp - advanced\\c# oop\\04. exercise encapsulation\\01. class box data\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACF2C40-03CB-4211-B14D-129292756930}|01. Class Box Data\\01. Class Box Data.csproj|solutionrelative:01. class box data\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\01. Class Box Data\\Program.cs",
+              "RelativeDocumentMoniker": "01. Class Box Data\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\01. Class Box Data\\Program.cs",
+              "RelativeToolTip": "01. Class Box Data\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:31:25.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\02. Animal Farm\\Program.cs",
+              "RelativeDocumentMoniker": "02. Animal Farm\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\02. Animal Farm\\Program.cs",
+              "RelativeToolTip": "02. Animal Farm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:31:01.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\01. Class Box Data\\Box.cs",
+              "RelativeDocumentMoniker": "01. Class Box Data\\Box.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\04. Exercise Encapsulation\\01. Class Box Data\\Box.cs",
+              "RelativeToolTip": "01. Class Box Data\\Box.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:25:24.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
