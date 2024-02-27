@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\bin\Debug\net6.0\01. Shapes.exe
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\bin\Debug\net6.0\01. Shapes.deps.json
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\bin\Debug\net6.0\01. Shapes.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\bin\Debug\net6.0\01. Shapes.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\bin\Debug\net6.0\01. Shapes.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\obj\Debug\net6.0\01. Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\obj\Debug\net6.0\01. Shapes.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\obj\Debug\net6.0\01. Shapes.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\obj\Debug\net6.0\01. Shapes.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\obj\Debug\net6.0\01. Shapes.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\obj\Debug\net6.0\01. Shapes.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\obj\Debug\net6.0\refint\01. Shapes.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\obj\Debug\net6.0\01. Shapes.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\obj\Debug\net6.0\01. Shapes.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\05. Interfaces and Abstraction\01. Shapes\obj\Debug\net6.0\ref\01. Shapes.dll
