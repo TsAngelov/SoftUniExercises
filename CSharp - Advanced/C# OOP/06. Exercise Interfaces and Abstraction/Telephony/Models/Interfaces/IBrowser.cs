@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PersonInfo
+namespace Telephony.Models.Interfaces
 {
-    public interface IBirthable
+    public interface IBrowser
     {
-        public string Birthdate { get; set; }
+        void Browse(string url);
     }
 }

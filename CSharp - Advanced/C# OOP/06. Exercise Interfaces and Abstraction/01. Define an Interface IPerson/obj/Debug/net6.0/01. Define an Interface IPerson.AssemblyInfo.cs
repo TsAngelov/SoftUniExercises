@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. Define an Interface IPerson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cf0b9de2f08ee6c5ee081e7d7ac4cfd78f369c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a31060e82302ec808efa68155af1f955e5ab7338")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. Define an Interface IPerson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. Define an Interface IPerson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

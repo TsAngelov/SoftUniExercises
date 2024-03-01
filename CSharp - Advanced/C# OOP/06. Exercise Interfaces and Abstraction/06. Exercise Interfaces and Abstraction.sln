@@ -5,9 +5,9 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Define an Interface IPerson", "01. Define an Interface IPerson\01. Define an Interface IPerson.csproj", "{D90A35BE-2467-446B-A07F-A721533B5E20}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo", "PersonInfo\PersonInfo.csproj", "{5EF8AD6B-119A-4E2E-B990-02E102433C7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Multiple Implementation", "02. Multiple Implementation\02. Multiple Implementation.csproj", "{371A9A04-F0D1-49D6-A3D3-92F5CBB202C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Multiple Implementation", "02. Multiple Implementation\02. Multiple Implementation.csproj", "{371A9A04-F0D1-49D6-A3D3-92F5CBB202C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telephony", "Telephony\Telephony.csproj", "{C19B3E2A-8CB3-43A4-8771-88E243673F03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{D90A35BE-2467-446B-A07F-A721533B5E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D90A35BE-2467-446B-A07F-A721533B5E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D90A35BE-2467-446B-A07F-A721533B5E20}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5EF8AD6B-119A-4E2E-B990-02E102433C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5EF8AD6B-119A-4E2E-B990-02E102433C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5EF8AD6B-119A-4E2E-B990-02E102433C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5EF8AD6B-119A-4E2E-B990-02E102433C7B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{371A9A04-F0D1-49D6-A3D3-92F5CBB202C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{371A9A04-F0D1-49D6-A3D3-92F5CBB202C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{371A9A04-F0D1-49D6-A3D3-92F5CBB202C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{371A9A04-F0D1-49D6-A3D3-92F5CBB202C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19B3E2A-8CB3-43A4-8771-88E243673F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19B3E2A-8CB3-43A4-8771-88E243673F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19B3E2A-8CB3-43A4-8771-88E243673F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19B3E2A-8CB3-43A4-8771-88E243673F03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\personinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C19B3E2A-8CB3-43A4-8771-88E243673F03}|Telephony\\Telephony.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19B3E2A-8CB3-43A4-8771-88E243673F03}|Telephony\\Telephony.csproj|solutionrelative:telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\personinfo\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C19B3E2A-8CB3-43A4-8771-88E243673F03}|Telephony\\Telephony.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\telephony\\models\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19B3E2A-8CB3-43A4-8771-88E243673F03}|Telephony\\Telephony.csproj|solutionrelative:telephony\\models\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C19B3E2A-8CB3-43A4-8771-88E243673F03}|Telephony\\Telephony.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\telephony\\models\\interfaces\\ibrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19B3E2A-8CB3-43A4-8771-88E243673F03}|Telephony\\Telephony.csproj|solutionrelative:telephony\\models\\interfaces\\ibrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\personinfo\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C19B3E2A-8CB3-43A4-8771-88E243673F03}|Telephony\\Telephony.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\telephony\\models\\stationaryphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19B3E2A-8CB3-43A4-8771-88E243673F03}|Telephony\\Telephony.csproj|solutionrelative:telephony\\models\\stationaryphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\personinfo\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C19B3E2A-8CB3-43A4-8771-88E243673F03}|Telephony\\Telephony.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\telephony\\models\\interfaces\\icaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19B3E2A-8CB3-43A4-8771-88E243673F03}|Telephony\\Telephony.csproj|solutionrelative:telephony\\models\\interfaces\\icaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\StartUp.cs",
-              "RelativeDocumentMoniker": "PersonInfo\\StartUp.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\StartUp.cs",
-              "RelativeToolTip": "PersonInfo\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T15:30:48.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Citizen.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\Citizen.cs",
-              "RelativeDocumentMoniker": "PersonInfo\\Citizen.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\Citizen.cs",
-              "RelativeToolTip": "PersonInfo\\Citizen.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Title": "IBrowser.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\Models\\Interfaces\\IBrowser.cs",
+              "RelativeDocumentMoniker": "Telephony\\Models\\Interfaces\\IBrowser.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\Models\\Interfaces\\IBrowser.cs",
+              "RelativeToolTip": "Telephony\\Models\\Interfaces\\IBrowser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T15:31:43.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IPerson.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\IPerson.cs",
-              "RelativeDocumentMoniker": "PersonInfo\\IPerson.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\IPerson.cs",
-              "RelativeToolTip": "PersonInfo\\IPerson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T15:31:34.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBirthable.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\IBirthable.cs",
-              "RelativeDocumentMoniker": "PersonInfo\\IBirthable.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\IBirthable.cs",
-              "RelativeToolTip": "PersonInfo\\IBirthable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T15:31:13.593Z",
+              "WhenOpened": "2024-03-01T15:41:34.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IIdentifiable.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\IIdentifiable.cs",
-              "RelativeDocumentMoniker": "PersonInfo\\IIdentifiable.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\IIdentifiable.cs",
-              "RelativeToolTip": "PersonInfo\\IIdentifiable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Title": "StationaryPhone.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\Models\\StationaryPhone.cs",
+              "RelativeDocumentMoniker": "Telephony\\Models\\StationaryPhone.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\Models\\StationaryPhone.cs",
+              "RelativeToolTip": "Telephony\\Models\\StationaryPhone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T15:30:45.926Z",
+              "WhenOpened": "2024-03-01T15:39:46.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartPhone.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\Models\\SmartPhone.cs",
+              "RelativeDocumentMoniker": "Telephony\\Models\\SmartPhone.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\Models\\SmartPhone.cs",
+              "RelativeToolTip": "Telephony\\Models\\SmartPhone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:38:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICaller.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\Models\\Interfaces\\ICaller.cs",
+              "RelativeDocumentMoniker": "Telephony\\Models\\Interfaces\\ICaller.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\Models\\Interfaces\\ICaller.cs",
+              "RelativeToolTip": "Telephony\\Models\\Interfaces\\ICaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:37:10.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\StartUp.cs",
+              "RelativeDocumentMoniker": "Telephony\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\StartUp.cs",
+              "RelativeToolTip": "Telephony\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:35:18.745Z",
               "EditorCaption": ""
             }
           ]

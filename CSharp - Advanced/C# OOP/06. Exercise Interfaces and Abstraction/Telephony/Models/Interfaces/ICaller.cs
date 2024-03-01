@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PersonInfo
+namespace Telephony.Models.Interfaces
 {
-    public interface IIdentifiable
+    public interface ICaller
     {
-        public string Id { get; set; }
+        public void Call(string number);
     }
 }
