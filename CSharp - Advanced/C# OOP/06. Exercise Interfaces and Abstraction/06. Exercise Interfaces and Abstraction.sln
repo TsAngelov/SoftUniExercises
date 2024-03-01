@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Define an Interface IPerson", "01. Define an Interface IPerson\01. Define an Interface IPerson.csproj", "{D90A35BE-2467-446B-A07F-A721533B5E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo", "PersonInfo\PersonInfo.csproj", "{5EF8AD6B-119A-4E2E-B990-02E102433C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D90A35BE-2467-446B-A07F-A721533B5E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90A35BE-2467-446B-A07F-A721533B5E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90A35BE-2467-446B-A07F-A721533B5E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90A35BE-2467-446B-A07F-A721533B5E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF8AD6B-119A-4E2E-B990-02E102433C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF8AD6B-119A-4E2E-B990-02E102433C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF8AD6B-119A-4E2E-B990-02E102433C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF8AD6B-119A-4E2E-B990-02E102433C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABF3C05-F9DC-4824-ABDC-7B5A77EDF3AE}
+	EndGlobalSection
+EndGlobal
