@@ -13,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\personinfo\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\personinfo\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8AD6B-119A-4E2E-B990-02E102433C7B}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\StartUp.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\StartUp.cs",
+              "RelativeToolTip": "PersonInfo\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:30:48.892Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,9 +53,9 @@
               "RelativeDocumentMoniker": "PersonInfo\\Citizen.cs",
               "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\Citizen.cs",
               "RelativeToolTip": "PersonInfo\\Citizen.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T15:27:22.217Z",
+              "WhenOpened": "2024-03-01T15:31:43.955Z",
               "EditorCaption": ""
             },
             {
@@ -47,20 +68,33 @@
               "RelativeToolTip": "PersonInfo\\IPerson.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T15:27:00.178Z",
+              "WhenOpened": "2024-03-01T15:31:34.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\StartUp.cs",
-              "RelativeDocumentMoniker": "PersonInfo\\StartUp.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\StartUp.cs",
-              "RelativeToolTip": "PersonInfo\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\IBirthable.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IBirthable.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\IBirthable.cs",
+              "RelativeToolTip": "PersonInfo\\IBirthable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T15:26:44.462Z",
+              "WhenOpened": "2024-03-01T15:31:13.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IIdentifiable.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\PersonInfo\\IIdentifiable.cs",
+              "RelativeToolTip": "PersonInfo\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:30:45.926Z",
               "EditorCaption": ""
             }
           ]
