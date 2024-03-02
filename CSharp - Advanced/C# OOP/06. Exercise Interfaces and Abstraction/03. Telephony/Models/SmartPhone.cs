@@ -15,7 +15,7 @@ namespace Telephony.Models
         }
         public void Browse(string url)
         {
-            Console.WriteLine($"Browsing: {url}");
+            Console.WriteLine($"Browsing: {url}!");
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\Telephony.csproj",
-      "projectName": "Telephony",
-      "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\Telephony.csproj",
+      "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\03. Telephony\\03. Telephony.csproj",
+      "projectName": "03. Telephony",
+      "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\03. Telephony\\03. Telephony.csproj",
       "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Telephony\\obj\\",
+      "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\03. Telephony\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",
