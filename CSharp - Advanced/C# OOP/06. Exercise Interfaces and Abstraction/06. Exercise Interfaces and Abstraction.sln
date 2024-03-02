@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Define an Interface IPe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Multiple Implementation", "02. Multiple Implementation\02. Multiple Implementation.csproj", "{371A9A04-F0D1-49D6-A3D3-92F5CBB202C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Telephony", "03. Telephony\03. Telephony.csproj", "{F6758073-6764-4224-B1B6-48701ACB2F39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Telephony", "03. Telephony\03. Telephony.csproj", "{F6758073-6764-4224-B1B6-48701ACB2F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Border Control", "04. Border Control\04. Border Control.csproj", "{8D488585-6CA2-4F3B-93D2-386FBDC6720F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F6758073-6764-4224-B1B6-48701ACB2F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6758073-6764-4224-B1B6-48701ACB2F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6758073-6764-4224-B1B6-48701ACB2F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D488585-6CA2-4F3B-93D2-386FBDC6720F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D488585-6CA2-4F3B-93D2-386FBDC6720F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D488585-6CA2-4F3B-93D2-386FBDC6720F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D488585-6CA2-4F3B-93D2-386FBDC6720F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
