@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BorderControl.Models
+namespace BirthdayCelebrations
 {
-    public abstract class BaseEntity
+    public interface IBirthable
     {
-        public string Id { get; set; }
+        string Birthday { get; set; }
     }
 }

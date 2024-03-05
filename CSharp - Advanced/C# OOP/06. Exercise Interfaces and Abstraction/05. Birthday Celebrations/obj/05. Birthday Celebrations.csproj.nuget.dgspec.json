@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Birthday.csproj": {}
+    "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\05. Birthday Celebrations\\05. Birthday Celebrations.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Birthday.csproj": {
+    "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\05. Birthday Celebrations\\05. Birthday Celebrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Birthday.csproj",
-        "projectName": "Birthday",
-        "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Birthday.csproj",
+        "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\05. Birthday Celebrations\\05. Birthday Celebrations.csproj",
+        "projectName": "05. Birthday Celebrations",
+        "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\05. Birthday Celebrations\\05. Birthday Celebrations.csproj",
         "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\obj\\",
+        "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\05. Birthday Celebrations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",

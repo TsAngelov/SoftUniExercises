@@ -4,15 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BorderControl.Models
+namespace BirthdayCelebrations
 {
-    public class Robot : BaseEntity
+    public class Robot : IIdentifiable
     {
-        public Robot(string id, string model)
+        public Robot(string model, string id)
         {
-            Id = id;
             Model = model;
+            Id = id;
         }
+
         public string Model { get; set; }
+        public string Id { get; set; }
     }
 }

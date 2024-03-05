@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Birthday.Models.Interfaces
+namespace BirthdayCelebrations
 {
-    public interface IBirthdate
+    public interface IIdentifiable
     {
-        public string Birthday { get; set; }
+        string Id { get; set; }
     }
 }

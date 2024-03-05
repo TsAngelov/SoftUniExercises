@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E72B8102-E604-4808-82F2-7B8E4F9B1A6C}|Birthday\\Birthday.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\birthday\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E72B8102-E604-4808-82F2-7B8E4F9B1A6C}|Birthday\\Birthday.csproj|solutionrelative:birthday\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86E6A1AD-662E-4FB5-A52B-005FDE2EAA61}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\05. birthday celebrations\\05. birthday celebrations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86E6A1AD-662E-4FB5-A52B-005FDE2EAA61}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|solutionrelative:05. birthday celebrations\\05. birthday celebrations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E72B8102-E604-4808-82F2-7B8E4F9B1A6C}|Birthday\\Birthday.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\birthday\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E72B8102-E604-4808-82F2-7B8E4F9B1A6C}|Birthday\\Birthday.csproj|solutionrelative:birthday\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Models\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Birthday\\Models\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E72B8102-E604-4808-82F2-7B8E4F9B1A6C}|Birthday\\Birthday.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\birthday\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E72B8102-E604-4808-82F2-7B8E4F9B1A6C}|Birthday\\Birthday.csproj|solutionrelative:birthday\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Models\\Pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Birthday\\Models\\Pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E72B8102-E604-4808-82F2-7B8E4F9B1A6C}|Birthday\\Birthday.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\birthday\\models\\interfaces\\ibirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E72B8102-E604-4808-82F2-7B8E4F9B1A6C}|Birthday\\Birthday.csproj|solutionrelative:birthday\\models\\interfaces\\ibirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Models\\Citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Birthday\\Models\\Citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Models\\Interfaces\\IBirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Birthday\\Models\\Interfaces\\IBirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +35,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Birthday\\Models\\BaseEntity.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Birthday\\Models\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T21:27:34.407Z",
+              "Title": "05. Birthday Celebrations",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\05. Birthday Celebrations\\05. Birthday Celebrations.csproj",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\05. Birthday Celebrations.csproj",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\05. Birthday Celebrations\\05. Birthday Celebrations.csproj",
+              "RelativeToolTip": "05. Birthday Celebrations\\05. Birthday Celebrations.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T11:13:31.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Birthday\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Birthday\\Models\\BaseEntity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T21:27:34.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Pet.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Models\\Pet.cs",
               "RelativeDocumentMoniker": "Birthday\\Models\\Pet.cs",
@@ -51,12 +66,11 @@
               "RelativeToolTip": "Birthday\\Models\\Pet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T21:27:09.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T21:27:09.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Citizen.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Models\\Citizen.cs",
               "RelativeDocumentMoniker": "Birthday\\Models\\Citizen.cs",
@@ -64,12 +78,11 @@
               "RelativeToolTip": "Birthday\\Models\\Citizen.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T21:26:47.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T21:26:47.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IBirthdate.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\Birthday\\Models\\Interfaces\\IBirthdate.cs",
               "RelativeDocumentMoniker": "Birthday\\Models\\Interfaces\\IBirthdate.cs",
@@ -77,8 +90,7 @@
               "RelativeToolTip": "Birthday\\Models\\Interfaces\\IBirthdate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T21:26:37.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T21:26:37.509Z"
             }
           ]
         }
