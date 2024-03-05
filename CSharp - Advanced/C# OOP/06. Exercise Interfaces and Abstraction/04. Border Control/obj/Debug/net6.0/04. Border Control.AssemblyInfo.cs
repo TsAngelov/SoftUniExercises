@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. Border Control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c7e6b188f216ef6b9ad4c6195299b6306bd9199")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbfe73e834cfa715b123fe701b9946f632258684")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. Border Control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. Border Control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

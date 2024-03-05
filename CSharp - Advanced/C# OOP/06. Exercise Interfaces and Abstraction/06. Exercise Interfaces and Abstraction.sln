@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Telephony", "03. Teleph
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Border Control", "04. Border Control\04. Border Control.csproj", "{8D488585-6CA2-4F3B-93D2-386FBDC6720F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Birthday Celebrations", "05. Birthday Celebrations\05. Birthday Celebrations.csproj", "{86E6A1AD-662E-4FB5-A52B-005FDE2EAA61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Birthday Celebrations", "05. Birthday Celebrations\05. Birthday Celebrations.csproj", "{86E6A1AD-662E-4FB5-A52B-005FDE2EAA61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Food Shortage", "06. Food Shortage\06. Food Shortage.csproj", "{248B8F1F-1615-4919-B2F3-1664D411F09E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{86E6A1AD-662E-4FB5-A52B-005FDE2EAA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86E6A1AD-662E-4FB5-A52B-005FDE2EAA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86E6A1AD-662E-4FB5-A52B-005FDE2EAA61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248B8F1F-1615-4919-B2F3-1664D411F09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248B8F1F-1615-4919-B2F3-1664D411F09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248B8F1F-1615-4919-B2F3-1664D411F09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248B8F1F-1615-4919-B2F3-1664D411F09E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
