@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{248B8F1F-1615-4919-B2F3-1664D411F09E}|06. Food Shortage\\06. Food Shortage.csproj|d:\\softuni\\csharp - advanced\\c# oop\\06. exercise interfaces and abstraction\\06. food shortage\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248B8F1F-1615-4919-B2F3-1664D411F09E}|06. Food Shortage\\06. Food Shortage.csproj|solutionrelative:06. food shortage\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\06. Food Shortage\\StartUp.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\06. Exercise Interfaces and Abstraction\\06. Food Shortage\\StartUp.cs*",
+              "RelativeToolTip": "06. Food Shortage\\StartUp.cs*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:03:12.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
