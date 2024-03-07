@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.exe
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\08. Exercise Polymorphism\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll

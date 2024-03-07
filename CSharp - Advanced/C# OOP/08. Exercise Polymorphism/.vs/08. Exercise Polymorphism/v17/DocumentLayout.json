@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\08. Exercise Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C89DC4B-B149-49C4-A013-5772C47158AB}|Vehicles\\Vehicles.csproj|d:\\softuni\\csharp - advanced\\c# oop\\08. exercise polymorphism\\vehicles\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C89DC4B-B149-49C4-A013-5772C47158AB}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C89DC4B-B149-49C4-A013-5772C47158AB}|Vehicles\\Vehicles.csproj|d:\\softuni\\csharp - advanced\\c# oop\\08. exercise polymorphism\\vehicles\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C89DC4B-B149-49C4-A013-5772C47158AB}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C89DC4B-B149-49C4-A013-5772C47158AB}|Vehicles\\Vehicles.csproj|d:\\softuni\\csharp - advanced\\c# oop\\08. exercise polymorphism\\vehicles\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C89DC4B-B149-49C4-A013-5772C47158AB}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C89DC4B-B149-49C4-A013-5772C47158AB}|Vehicles\\Vehicles.csproj|d:\\softuni\\csharp - advanced\\c# oop\\08. exercise polymorphism\\vehicles\\idrivable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C89DC4B-B149-49C4-A013-5772C47158AB}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\idrivable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C89DC4B-B149-49C4-A013-5772C47158AB}|Vehicles\\Vehicles.csproj|d:\\softuni\\csharp - advanced\\c# oop\\08. exercise polymorphism\\vehicles\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C89DC4B-B149-49C4-A013-5772C47158AB}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\08. Exercise Polymorphism\\Vehicles\\Bus.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Bus.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\08. Exercise Polymorphism\\Vehicles\\Bus.cs",
+              "RelativeToolTip": "Vehicles\\Bus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:35:32.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\08. Exercise Polymorphism\\Vehicles\\Truck.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Truck.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\08. Exercise Polymorphism\\Vehicles\\Truck.cs",
+              "RelativeToolTip": "Vehicles\\Truck.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:19:52.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\08. Exercise Polymorphism\\Vehicles\\Car.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Car.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\08. Exercise Polymorphism\\Vehicles\\Car.cs",
+              "RelativeToolTip": "Vehicles\\Car.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:06:15.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDrivable.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\08. Exercise Polymorphism\\Vehicles\\IDrivable.cs",
+              "RelativeDocumentMoniker": "Vehicles\\IDrivable.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\08. Exercise Polymorphism\\Vehicles\\IDrivable.cs",
+              "RelativeToolTip": "Vehicles\\IDrivable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:04:26.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\08. Exercise Polymorphism\\Vehicles\\StartUp.cs",
+              "RelativeDocumentMoniker": "Vehicles\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\08. Exercise Polymorphism\\Vehicles\\StartUp.cs",
+              "RelativeToolTip": "Vehicles\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:03:41.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
