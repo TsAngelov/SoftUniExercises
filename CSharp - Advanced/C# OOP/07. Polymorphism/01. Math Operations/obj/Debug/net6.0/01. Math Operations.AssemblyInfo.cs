@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. Math Operations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df0ac3e84e28a2017b119ed35bcee40ec3a619b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a28ca8b9a98ad05810c58ccdfc58ec3ba8b80db")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. Math Operations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. Math Operations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
