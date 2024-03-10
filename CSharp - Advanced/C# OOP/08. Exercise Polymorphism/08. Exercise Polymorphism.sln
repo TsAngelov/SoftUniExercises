@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Vehicles", "01. Vehicle
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Vehicles Extension", "02. Vehicles Extension\02. Vehicles Extension.csproj", "{380BFAED-B45D-44A9-8514-5D83C82BE6EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Raiding", "03. Raiding\03. Raiding.csproj", "{CAFF80BA-9692-4DB2-B84D-49515106787C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Raiding", "03. Raiding\03. Raiding.csproj", "{CAFF80BA-9692-4DB2-B84D-49515106787C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Wild Farm", "04. Wild Farm\04. Wild Farm.csproj", "{676AA4F6-06DA-4D78-97F3-89DDCA7411E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{CAFF80BA-9692-4DB2-B84D-49515106787C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAFF80BA-9692-4DB2-B84D-49515106787C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAFF80BA-9692-4DB2-B84D-49515106787C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676AA4F6-06DA-4D78-97F3-89DDCA7411E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676AA4F6-06DA-4D78-97F3-89DDCA7411E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676AA4F6-06DA-4D78-97F3-89DDCA7411E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676AA4F6-06DA-4D78-97F3-89DDCA7411E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
