@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.exe
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.deps.json
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\obj\Debug\net6.0\refint\06. Money Transactions.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\06. Money Transactions\obj\Debug\net6.0\ref\06. Money Transactions.dll

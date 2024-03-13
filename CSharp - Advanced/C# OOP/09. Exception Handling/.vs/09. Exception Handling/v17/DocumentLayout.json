@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3BB5008A-92C2-4FAB-BD91-9050CD9DF9D4}|06. Money Transactions\\06. Money Transactions.csproj|d:\\softuni\\csharp - advanced\\c# oop\\09. exception handling\\06. money transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB5008A-92C2-4FAB-BD91-9050CD9DF9D4}|06. Money Transactions\\06. Money Transactions.csproj|solutionrelative:06. money transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9206F1C-6418-48F1-B3DC-49E641A02227}|05. Play Catch\\05. Play Catch.csproj|d:\\softuni\\csharp - advanced\\c# oop\\09. exception handling\\05. play catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9206F1C-6418-48F1-B3DC-49E641A02227}|05. Play Catch\\05. Play Catch.csproj|solutionrelative:05. play catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,18 +32,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\06. Money Transactions\\Program.cs",
+              "RelativeDocumentMoniker": "06. Money Transactions\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\06. Money Transactions\\Program.cs",
+              "RelativeToolTip": "06. Money Transactions\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:21:56.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\05. Play Catch\\Program.cs",
               "RelativeDocumentMoniker": "05. Play Catch\\Program.cs",
               "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\05. Play Catch\\Program.cs",
               "RelativeToolTip": "05. Play Catch\\Program.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAwwDsAAAAJAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwCQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T18:40:14.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\04. Sum of Integers\\Program.cs",
               "RelativeDocumentMoniker": "04. Sum of Integers\\Program.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "04. Sum of Integers\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAwwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T18:34:58.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T18:34:58.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\03. Cards\\Program.cs",
               "RelativeDocumentMoniker": "03. Cards\\Program.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "03. Cards\\Program.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAqwEEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T19:40:43.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T19:40:43.404Z"
             }
           ]
         }

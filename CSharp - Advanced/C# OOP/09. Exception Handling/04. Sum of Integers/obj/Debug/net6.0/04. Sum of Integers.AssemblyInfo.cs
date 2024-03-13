@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. Sum of Integers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+465e870500fe7ceaac8fd365aa223d6aa9afeea3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4df1ebc43e2a7db37bcc8ac977486d80cc9028ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. Sum of Integers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. Sum of Integers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
