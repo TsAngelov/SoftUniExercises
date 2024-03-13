@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{540AB4DF-A883-4CD6-8E95-0976300FD74E}|01. Square Root\\01. Square Root.csproj|d:\\softuni\\csharp - advanced\\c# oop\\09. exception handling\\01. square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{540AB4DF-A883-4CD6-8E95-0976300FD74E}|01. Square Root\\01. Square Root.csproj|solutionrelative:01. square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2AD533E-F021-40AA-865E-6466778CE5F9}|03. Cards\\03. Cards.csproj|d:\\softuni\\csharp - advanced\\c# oop\\09. exception handling\\03. cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD533E-F021-40AA-865E-6466778CE5F9}|03. Cards\\03. Cards.csproj|solutionrelative:03. cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\01. Square Root\\Program.cs",
-              "RelativeDocumentMoniker": "01. Square Root\\Program.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\01. Square Root\\Program.cs",
-              "RelativeToolTip": "01. Square Root\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\03. Cards\\Program.cs",
+              "RelativeDocumentMoniker": "03. Cards\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\03. Cards\\Program.cs",
+              "RelativeToolTip": "03. Cards\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwD8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T19:08:27.794Z",
+              "WhenOpened": "2024-03-12T19:40:43.404Z",
               "EditorCaption": ""
             }
           ]
