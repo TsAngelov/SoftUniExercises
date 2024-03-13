@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9206F1C-6418-48F1-B3DC-49E641A02227}|05. Play Catch\\05. Play Catch.csproj|d:\\softuni\\csharp - advanced\\c# oop\\09. exception handling\\05. play catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9206F1C-6418-48F1-B3DC-49E641A02227}|05. Play Catch\\05. Play Catch.csproj|solutionrelative:05. play catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72203E5C-B54C-4D80-8BE9-1FA19146EFA5}|04. Sum of Integers\\04. Sum of Integers.csproj|d:\\softuni\\csharp - advanced\\c# oop\\09. exception handling\\04. sum of integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72203E5C-B54C-4D80-8BE9-1FA19146EFA5}|04. Sum of Integers\\04. Sum of Integers.csproj|solutionrelative:04. sum of integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2AD533E-F021-40AA-865E-6466778CE5F9}|03. Cards\\03. Cards.csproj|d:\\softuni\\csharp - advanced\\c# oop\\09. exception handling\\03. cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2AD533E-F021-40AA-865E-6466778CE5F9}|03. Cards\\03. Cards.csproj|solutionrelative:03. cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\05. Play Catch\\Program.cs",
+              "RelativeDocumentMoniker": "05. Play Catch\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\05. Play Catch\\Program.cs",
+              "RelativeToolTip": "05. Play Catch\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:40:14.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\04. Sum of Integers\\Program.cs",
+              "RelativeDocumentMoniker": "04. Sum of Integers\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\04. Sum of Integers\\Program.cs",
+              "RelativeToolTip": "04. Sum of Integers\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:34:58.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\03. Cards\\Program.cs",
               "RelativeDocumentMoniker": "03. Cards\\Program.cs",
               "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\09. Exception Handling\\03. Cards\\Program.cs",
               "RelativeToolTip": "03. Cards\\Program.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAQwD8AAAARAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAqwEEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T19:40:43.404Z",
               "EditorCaption": ""

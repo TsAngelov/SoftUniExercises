@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\bin\Debug\net6.0\05. Play Catch.exe
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\bin\Debug\net6.0\05. Play Catch.deps.json
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\bin\Debug\net6.0\05. Play Catch.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\bin\Debug\net6.0\05. Play Catch.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\bin\Debug\net6.0\05. Play Catch.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\obj\Debug\net6.0\05. Play Catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\obj\Debug\net6.0\05. Play Catch.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\obj\Debug\net6.0\05. Play Catch.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\obj\Debug\net6.0\05. Play Catch.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\obj\Debug\net6.0\05. Play Catch.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\obj\Debug\net6.0\05. Play Catch.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\obj\Debug\net6.0\refint\05. Play Catch.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\obj\Debug\net6.0\05. Play Catch.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\obj\Debug\net6.0\05. Play Catch.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\05. Play Catch\obj\Debug\net6.0\ref\05. Play Catch.dll

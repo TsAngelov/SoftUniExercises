@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.exe
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.deps.json
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\obj\Debug\net6.0\refint\04. Sum of Integers.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\09. Exception Handling\04. Sum of Integers\obj\Debug\net6.0\ref\04. Sum of Integers.dll
