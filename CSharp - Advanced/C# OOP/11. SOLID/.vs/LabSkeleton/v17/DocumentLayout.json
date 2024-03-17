@@ -3,48 +3,20 @@
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p02.graphic_editor\\graphiceditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\graphiceditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p03.detail_printer\\detailsprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|solutionrelative:p03.detail_printer\\detailsprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p02.graphic_editor\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p03.detail_printer\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|solutionrelative:p03.detail_printer\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p02.graphic_editor\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p03.detail_printer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|solutionrelative:p03.detail_printer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p02.graphic_editor\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p02.graphic_editor\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p02.graphic_editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p01.stream_progress\\streamprogressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\streamprogressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p01.stream_progress\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p01.stream_progress\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p01.stream_progress\\streamablefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\streamablefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p01.stream_progress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p03.detail_printer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|solutionrelative:p03.detail_printer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,140 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GraphicEditor.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P02.Graphic_Editor\\GraphicEditor.cs",
-              "RelativeDocumentMoniker": "P02.Graphic_Editor\\GraphicEditor.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P02.Graphic_Editor\\GraphicEditor.cs",
-              "RelativeToolTip": "P02.Graphic_Editor\\GraphicEditor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Title": "DetailsPrinter.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P03.Detail_Printer\\DetailsPrinter.cs",
+              "RelativeDocumentMoniker": "P03.Detail_Printer\\DetailsPrinter.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P03.Detail_Printer\\DetailsPrinter.cs",
+              "RelativeToolTip": "P03.Detail_Printer\\DetailsPrinter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:51:05.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P02.Graphic_Editor\\Circle.cs",
-              "RelativeDocumentMoniker": "P02.Graphic_Editor\\Circle.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P02.Graphic_Editor\\Circle.cs",
-              "RelativeToolTip": "P02.Graphic_Editor\\Circle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:51:04.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IShape.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P02.Graphic_Editor\\IShape.cs",
-              "RelativeDocumentMoniker": "P02.Graphic_Editor\\IShape.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P02.Graphic_Editor\\IShape.cs",
-              "RelativeToolTip": "P02.Graphic_Editor\\IShape.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:51:03.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P02.Graphic_Editor\\Program.cs",
-              "RelativeDocumentMoniker": "P02.Graphic_Editor\\Program.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P02.Graphic_Editor\\Program.cs",
-              "RelativeToolTip": "P02.Graphic_Editor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:51:02.538Z",
+              "WhenOpened": "2024-03-17T13:55:42.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P02.Graphic_Editor\\Rectangle.cs",
-              "RelativeDocumentMoniker": "P02.Graphic_Editor\\Rectangle.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P02.Graphic_Editor\\Rectangle.cs",
-              "RelativeToolTip": "P02.Graphic_Editor\\Rectangle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P03.Detail_Printer\\Employee.cs",
+              "RelativeDocumentMoniker": "P03.Detail_Printer\\Employee.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P03.Detail_Printer\\Employee.cs",
+              "RelativeToolTip": "P03.Detail_Printer\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:51:01.463Z",
+              "WhenOpened": "2024-03-17T13:55:41.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P03.Detail_Printer\\Manager.cs",
+              "RelativeDocumentMoniker": "P03.Detail_Printer\\Manager.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P03.Detail_Printer\\Manager.cs",
+              "RelativeToolTip": "P03.Detail_Printer\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:55:41.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Square.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P02.Graphic_Editor\\Square.cs",
-              "RelativeDocumentMoniker": "P02.Graphic_Editor\\Square.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P02.Graphic_Editor\\Square.cs",
-              "RelativeToolTip": "P02.Graphic_Editor\\Square.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:51:00.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StreamableFile.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\StreamableFile.cs",
-              "RelativeDocumentMoniker": "P01.Stream_Progress\\StreamableFile.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\StreamableFile.cs",
-              "RelativeToolTip": "P01.Stream_Progress\\StreamableFile.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:49:32.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "File.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\File.cs",
-              "RelativeDocumentMoniker": "P01.Stream_Progress\\File.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\File.cs",
-              "RelativeToolTip": "P01.Stream_Progress\\File.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:49:05.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Music.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\Music.cs",
-              "RelativeDocumentMoniker": "P01.Stream_Progress\\Music.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\Music.cs",
-              "RelativeToolTip": "P01.Stream_Progress\\Music.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:49:03.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\Program.cs",
-              "RelativeDocumentMoniker": "P01.Stream_Progress\\Program.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\Program.cs",
-              "RelativeToolTip": "P01.Stream_Progress\\Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P03.Detail_Printer\\Program.cs",
+              "RelativeDocumentMoniker": "P03.Detail_Printer\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P03.Detail_Printer\\Program.cs",
+              "RelativeToolTip": "P03.Detail_Printer\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:49:03.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StreamProgressInfo.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\StreamProgressInfo.cs",
-              "RelativeDocumentMoniker": "P01.Stream_Progress\\StreamProgressInfo.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\StreamProgressInfo.cs",
-              "RelativeToolTip": "P01.Stream_Progress\\StreamProgressInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:48:59.109Z",
+              "WhenOpened": "2024-03-17T13:55:40.983Z",
               "EditorCaption": ""
             }
           ]

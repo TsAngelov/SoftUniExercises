@@ -1,4 +1,6 @@
-﻿namespace P03.DetailPrinter
+﻿using System;
+
+namespace P03.DetailPrinter
 {
     public class Employee
     {
@@ -8,5 +10,9 @@
         }
 
         public string Name { get; set; }
+        public virtual void Print()
+        {
+            Console.WriteLine(Name);
+        }
     }
 }
