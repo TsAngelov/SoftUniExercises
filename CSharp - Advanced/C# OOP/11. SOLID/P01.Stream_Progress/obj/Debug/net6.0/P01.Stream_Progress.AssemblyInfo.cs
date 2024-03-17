@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P01.Stream_Progress")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25d05af336ae20f54c482709d9bd4e624cfda178")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d737c587f2f85e18c8565b4e12a60add954571ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("P01.Stream_Progress")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P01.Stream_Progress")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

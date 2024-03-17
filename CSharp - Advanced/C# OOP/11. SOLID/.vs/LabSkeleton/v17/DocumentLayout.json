@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p01.stream_progress\\streamprogressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\streamprogressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p01.stream_progress\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p01.stream_progress\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p01.stream_progress\\streamablefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\streamablefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p01.stream_progress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StreamableFile.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\StreamableFile.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\StreamableFile.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\StreamableFile.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\StreamableFile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:49:32.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\File.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\File.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\File.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\File.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:49:05.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Music.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\Music.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\Music.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\Music.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:49:03.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\Program.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\Program.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:49:03.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StreamProgressInfo.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\StreamProgressInfo.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\StreamProgressInfo.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P01.Stream_Progress\\StreamProgressInfo.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\StreamProgressInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:48:59.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
