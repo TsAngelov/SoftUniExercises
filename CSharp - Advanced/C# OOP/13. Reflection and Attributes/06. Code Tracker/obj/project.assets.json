@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\13. Reflection and Attributes\\AuthorProblem\\AuthorProblem.csproj",
-      "projectName": "AuthorProblem",
-      "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\13. Reflection and Attributes\\AuthorProblem\\AuthorProblem.csproj",
+      "projectUniqueName": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\13. Reflection and Attributes\\06. Code Tracker\\06. Code Tracker.csproj",
+      "projectName": "06. Code Tracker",
+      "projectPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\13. Reflection and Attributes\\06. Code Tracker\\06. Code Tracker.csproj",
       "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\13. Reflection and Attributes\\AuthorProblem\\obj\\",
+      "outputPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\13. Reflection and Attributes\\06. Code Tracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",
