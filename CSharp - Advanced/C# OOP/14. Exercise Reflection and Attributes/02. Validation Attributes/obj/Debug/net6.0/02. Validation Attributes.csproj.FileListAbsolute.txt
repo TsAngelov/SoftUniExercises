@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\bin\Debug\net6.0\02. Validation Attributes.exe
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\bin\Debug\net6.0\02. Validation Attributes.deps.json
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\bin\Debug\net6.0\02. Validation Attributes.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\bin\Debug\net6.0\02. Validation Attributes.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\bin\Debug\net6.0\02. Validation Attributes.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\obj\Debug\net6.0\refint\02. Validation Attributes.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\02. Validation Attributes\obj\Debug\net6.0\ref\02. Validation Attributes.dll

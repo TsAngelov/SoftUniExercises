@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\bin\Debug\net6.0\01. Command Pattern.exe
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\bin\Debug\net6.0\01. Command Pattern.deps.json
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\bin\Debug\net6.0\01. Command Pattern.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\bin\Debug\net6.0\01. Command Pattern.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\bin\Debug\net6.0\01. Command Pattern.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\obj\Debug\net6.0\refint\01. Command Pattern.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\14. Exercise Reflection and Attributes\01. Command Pattern\obj\Debug\net6.0\ref\01. Command Pattern.dll
