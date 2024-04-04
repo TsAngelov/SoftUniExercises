@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skeleton", "Skeleton\Skeleton.csproj", "{D774E5D2-2B6A-4BA2-BA59-88EB5853FC85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skeleton.Tests", "Skeleton.Tests\Skeleton.Tests.csproj", "{3EA5CD3C-D687-45AF-AE71-539DAF206DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D774E5D2-2B6A-4BA2-BA59-88EB5853FC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D774E5D2-2B6A-4BA2-BA59-88EB5853FC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D774E5D2-2B6A-4BA2-BA59-88EB5853FC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D774E5D2-2B6A-4BA2-BA59-88EB5853FC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA5CD3C-D687-45AF-AE71-539DAF206DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA5CD3C-D687-45AF-AE71-539DAF206DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA5CD3C-D687-45AF-AE71-539DAF206DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA5CD3C-D687-45AF-AE71-539DAF206DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EBC62EE-A242-4621-B679-FBBAC6A204EB}
+	EndGlobalSection
+EndGlobal

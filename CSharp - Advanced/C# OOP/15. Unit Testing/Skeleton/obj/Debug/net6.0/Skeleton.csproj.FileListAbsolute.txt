@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\bin\Debug\net6.0\Skeleton.exe
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\bin\Debug\net6.0\Skeleton.deps.json
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\bin\Debug\net6.0\Skeleton.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\bin\Debug\net6.0\Skeleton.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\bin\Debug\net6.0\Skeleton.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\obj\Debug\net6.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\obj\Debug\net6.0\Skeleton.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\obj\Debug\net6.0\Skeleton.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\obj\Debug\net6.0\Skeleton.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\obj\Debug\net6.0\refint\Skeleton.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\obj\Debug\net6.0\Skeleton.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\obj\Debug\net6.0\Skeleton.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\15. Unit Testing\Skeleton\obj\Debug\net6.0\ref\Skeleton.dll
