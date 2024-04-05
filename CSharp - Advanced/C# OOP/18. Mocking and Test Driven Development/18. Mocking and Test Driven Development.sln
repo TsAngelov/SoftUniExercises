@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chainblock.Tests", "Chainblock.Tests\Chainblock.Tests.csproj", "{5038919C-A1C1-49E1-B2A3-62F90C888EE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chainblock", "Chainblock\Chainblock.csproj", "{84BBC585-618C-492F-B261-A0FAEEEBA3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5038919C-A1C1-49E1-B2A3-62F90C888EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5038919C-A1C1-49E1-B2A3-62F90C888EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5038919C-A1C1-49E1-B2A3-62F90C888EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5038919C-A1C1-49E1-B2A3-62F90C888EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BBC585-618C-492F-B261-A0FAEEEBA3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BBC585-618C-492F-B261-A0FAEEEBA3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BBC585-618C-492F-B261-A0FAEEEBA3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BBC585-618C-492F-B261-A0FAEEEBA3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFEC06CC-B00D-4CA3-899B-3AE1869F48C5}
+	EndGlobalSection
+EndGlobal
