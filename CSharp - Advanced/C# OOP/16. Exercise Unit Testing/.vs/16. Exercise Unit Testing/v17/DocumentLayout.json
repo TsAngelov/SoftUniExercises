@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\16. Exercise Unit Testing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5CB9A7D9-E9BD-41D1-A7DC-6580D75F9EFE}|Database\\Database.csproj|d:\\softuni\\csharp - advanced\\c# oop\\16. exercise unit testing\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9A7D9-E9BD-41D1-A7DC-6580D75F9EFE}|Database\\Database.csproj|solutionrelative:database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816B5E9A-E2A1-4D1F-8BF6-132B5F0DD87B}|Database.Tests\\Database.Tests.csproj|d:\\softuni\\csharp - advanced\\c# oop\\16. exercise unit testing\\database.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816B5E9A-E2A1-4D1F-8BF6-132B5F0DD87B}|Database.Tests\\Database.Tests.csproj|solutionrelative:database.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816B5E9A-E2A1-4D1F-8BF6-132B5F0DD87B}|Database.Tests\\Database.Tests.csproj|d:\\softuni\\csharp - advanced\\c# oop\\16. exercise unit testing\\database.tests\\database.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{816B5E9A-E2A1-4D1F-8BF6-132B5F0DD87B}|Database.Tests\\Database.Tests.csproj|solutionrelative:database.tests\\database.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6C1A750-A962-4C6F-BCE9-907A74DD152D}|CarManager\\CarManager.csproj|d:\\softuni\\csharp - advanced\\c# oop\\16. exercise unit testing\\carmanager\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6C1A750-A962-4C6F-BCE9-907A74DD152D}|CarManager\\CarManager.csproj|solutionrelative:carmanager\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\16. Exercise Unit Testing\\Database\\Database.cs",
+              "RelativeDocumentMoniker": "Database\\Database.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\16. Exercise Unit Testing\\Database\\Database.cs",
+              "RelativeToolTip": "Database\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:53:11.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseTests.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\16. Exercise Unit Testing\\Database.Tests\\DatabaseTests.cs",
+              "RelativeDocumentMoniker": "Database.Tests\\DatabaseTests.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\16. Exercise Unit Testing\\Database.Tests\\DatabaseTests.cs",
+              "RelativeToolTip": "Database.Tests\\DatabaseTests.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:51:50.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.Tests",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\16. Exercise Unit Testing\\Database.Tests\\Database.Tests.csproj",
+              "RelativeDocumentMoniker": "Database.Tests\\Database.Tests.csproj",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\16. Exercise Unit Testing\\Database.Tests\\Database.Tests.csproj",
+              "RelativeToolTip": "Database.Tests\\Database.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T21:51:46.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Car.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\16. Exercise Unit Testing\\CarManager\\Car.cs",
               "RelativeDocumentMoniker": "CarManager\\Car.cs",
               "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\16. Exercise Unit Testing\\CarManager\\Car.cs",
               "RelativeToolTip": "CarManager\\Car.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAuwIcAAAAzAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwFcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T12:49:30.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CarManagerTests.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\16. Exercise Unit Testing\\CarManager.Tests\\CarManagerTests.cs",
               "RelativeDocumentMoniker": "CarManager.Tests\\CarManagerTests.cs",
@@ -43,8 +94,7 @@
               "RelativeToolTip": "CarManager.Tests\\CarManagerTests.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAA5wEsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T12:51:44.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T12:51:44.09Z"
             }
           ]
         }

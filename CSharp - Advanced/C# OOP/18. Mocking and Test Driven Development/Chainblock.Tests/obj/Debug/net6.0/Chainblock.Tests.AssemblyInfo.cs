@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chainblock.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da004512d2fe73cb621a4064fbba7858e8ff3c1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+602799f1c4553dbb2a9a22caefea4ee0fc349a48")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chainblock.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chainblock.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

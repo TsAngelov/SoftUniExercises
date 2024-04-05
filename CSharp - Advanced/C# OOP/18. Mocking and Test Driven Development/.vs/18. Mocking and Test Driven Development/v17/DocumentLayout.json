@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\18. Mocking and Test Driven Development\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5038919C-A1C1-49E1-B2A3-62F90C888EE3}|Chainblock.Tests\\Chainblock.Tests.csproj|d:\\softuni\\csharp - advanced\\c# oop\\18. mocking and test driven development\\chainblock.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038919C-A1C1-49E1-B2A3-62F90C888EE3}|Chainblock.Tests\\Chainblock.Tests.csproj|solutionrelative:chainblock.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\18. Mocking and Test Driven Development\\Chainblock.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Chainblock.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\18. Mocking and Test Driven Development\\Chainblock.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Chainblock.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:18:12.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
