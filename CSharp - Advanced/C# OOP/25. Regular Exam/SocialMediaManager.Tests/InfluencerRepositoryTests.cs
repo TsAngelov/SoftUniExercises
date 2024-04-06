@@ -21,8 +21,10 @@ namespace SocialMediaManager.Tests
         [Test]
         public void RegisterInfluencer_HappyPath_Test()
         {
-            repository.RegisterInfluencer(influencer);
-            Assert.AreEqual(repository.Influencers.Count(), 1);
+            string result = repository.RegisterInfluencer(influencer);
+
+            Assert.AreEqual($"Successfully added influencer {influencer.Username} with {influencer.Followers}", result);
+            Assert.AreEqual(1, repository.Influencers.Count());
         }
         [Test]
         public void RegisterInfluencer_WhenNull_ShouldThrowError()
@@ -39,8 +41,11 @@ namespace SocialMediaManager.Tests
         public void RemoveInfluencer_HappyPath_Test()
         {
             repository.RegisterInfluencer(influencer);
-            repository.RemoveInfluencer(InfluencerName);
-            Assert.AreEqual(repository.Influencers.Count(), 0);
+
+            bool result = repository.RemoveInfluencer(InfluencerName);
+
+            Assert.IsTrue(result);
+            Assert.AreEqual(0, repository.Influencers.Count());
         }
         [Test]
         [TestCase(null)]
@@ -58,16 +63,17 @@ namespace SocialMediaManager.Tests
 
             Assert.AreEqual(influencer, repository.GetInfluencerWithMostFollowers());
         }
+        [Test]
         public void GetInfluencer_HappyPath_Test()
         {
             repository.RegisterInfluencer(influencer);
             Assert.AreEqual(influencer, repository.GetInfluencer(InfluencerName));
         }
+        [Test]
         public void GetInfluencer_WhenUsernameNotFound_ShouldReturnNull()
         {
+            var result = repository.GetInfluencer("nqmatakuv");
             Assert.AreEqual(null, repository.GetInfluencer(InfluencerName));
         }
-
-
     }
 }
