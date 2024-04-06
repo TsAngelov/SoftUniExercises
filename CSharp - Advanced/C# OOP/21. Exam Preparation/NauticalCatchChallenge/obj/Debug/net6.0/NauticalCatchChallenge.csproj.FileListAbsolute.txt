@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\obj\Debug\net6.0\NauticalCatchChallenge.sourcelink.json
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\bin\Debug\net6.0\NauticalCatchChallenge.exe
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\bin\Debug\net6.0\NauticalCatchChallenge.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\obj\Debug\net6.0\NauticalCatchChallenge.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+D:\SoftUni\CSharp - Advanced\C# OOP\21. Exam Preparation\NauticalCatchChallenge\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll
