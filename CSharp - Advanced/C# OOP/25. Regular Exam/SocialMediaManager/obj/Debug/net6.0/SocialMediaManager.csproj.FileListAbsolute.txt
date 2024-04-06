@@ -1,0 +1,15 @@
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.exe
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.deps.json
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.runtimeconfig.json
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.dll
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.pdb
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfoInputs.cache
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfo.cs
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.csproj.CoreCompileInputs.cache
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.sourcelink.json
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.dll
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\obj\Debug\net6.0\refint\SocialMediaManager.dll
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.pdb
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.genruntimeconfig.cache
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\SocialMediaManager\obj\Debug\net6.0\ref\SocialMediaManager.dll

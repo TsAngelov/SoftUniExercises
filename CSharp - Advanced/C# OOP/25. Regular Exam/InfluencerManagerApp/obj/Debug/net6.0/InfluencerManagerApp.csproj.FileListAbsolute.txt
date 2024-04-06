@@ -1,0 +1,15 @@
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.exe
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.deps.json
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.runtimeconfig.json
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.dll
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.pdb
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfoInputs.cache
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfo.cs
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.csproj.CoreCompileInputs.cache
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.sourcelink.json
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.dll
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\obj\Debug\net6.0\refint\InfluencerManagerApp.dll
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.pdb
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.genruntimeconfig.cache
+C:\SoftUniExercises\CSharp - Advanced\C# OOP\25. Regular Exam\InfluencerManagerApp\obj\Debug\net6.0\ref\InfluencerManagerApp.dll
