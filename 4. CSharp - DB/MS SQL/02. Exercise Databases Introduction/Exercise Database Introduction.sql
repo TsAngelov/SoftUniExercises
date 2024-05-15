@@ -88,3 +88,37 @@ Values ('Partona', 'Lachen123'),
 	   ('Oceit', '60VLutenicata'),
 	   ('Ceco', 'Merkeles1234!C220'),
 	   ('Gospoja', '123Masivcheta123')
+
+-- 09. Delete Primary Key
+ALTER TABLE Users
+DROP CONSTRAINT PK__Users__3214EC074F4B1B8D
+
+			-- Composite Primary Key (Primary Key combined from two fields)
+ALTER TABLE Users
+ADD CONSTRAINT PK_UsersTable PRIMARY KEY(Id, Username)
+
+-- 10.
+ALTER TABLE Users
+ADD CONSTRAINT CHK_PasswordIsAtleastFiveSymbols
+CHECK(LEN([Password]) >= 5)
+
+
+-- 11.
+ALTER TABLE Users
+ADD CONSTRAINT DF_LoginValue
+DEFAULT GETDATE() FOR LastLoginTime
+
+-- 12.
+ALTER TABLE Users
+DROP CONSTRAINT PK_UsersTable
+
+ALTER TABLE Users
+ADD CONSTRAINT PK_UsersTable PRIMARY KEY(Id)
+
+ALTER TABLE Users
+ADD CONSTRAINT CHK_UsernameIsAtleastThreeSymbols
+CHECK(LEN(Username) >= 3)
+
+-- 13.
+
+
