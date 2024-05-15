@@ -120,5 +120,65 @@ ADD CONSTRAINT CHK_UsernameIsAtleastThreeSymbols
 CHECK(LEN(Username) >= 3)
 
 -- 13.
+CREATE DATABASE Movies
 
+CREATE TABLE Directors
+(
+	Id INT PRIMARY KEY IDENTITY,
+	DirectorName VARCHAR(50) NOT NULL,
+	Notes VARCHAR(MAX)
+)
+CREATE TABLE Genres
+(
+	Id INT PRIMARY KEY IDENTITY,
+	GenreName VARCHAR(30) NOT NULL,
+	Notes VARCHAR(MAX)
+)
 
+CREATE TABLE Categories
+(
+	Id INT PRIMARY KEY IDENTITY,
+	CategoryName VARCHAR(30) NOT NULL,
+	Notes VARCHAR(MAX)
+)
+
+CREATE TABLE Movies
+(
+	Id INT PRIMARY KEY IDENTITY,
+	Title VARCHAR(50) NOT NULL,
+	DirectorId INT FOREIGN KEY REFERENCES Directors(Id),
+	CopyrightYear SMALLINT,
+	[Length] TIME,
+	GenreId INT FOREIGN KEY REFERENCES Genres(Id),
+	CategoryId INT FOREIGN KEY REFERENCES Categories(Id),
+	Rating DECIMAL(10,1),
+	Notes VARCHAR(MAX)
+)
+
+INSERT INTO Directors(DirectorName)
+VALUES('Petar'),
+	  ('Ivan'),
+	  ('Oceit'),
+	  ('Patronov'),
+	  ('CekoRonaldo')
+
+INSERT INTO Genres(GenreName)
+VALUES('Comedy'),
+	  ('Horror'),
+	  ('Criminal'),
+	  ('Romance'),
+	  ('Sci-Fi')
+
+INSERT INTO Categories(CategoryName)
+VALUES('High Rated'),
+	  ('Low Rated'),
+	  ('Best Pick'),
+	  ('Recommended'),
+	  ('New')
+
+INSERT INTO Movies(Title, DirectorId, GenreId, CategoryId)
+VALUES('Komediq', 1, 1, 1),
+	  ('Ujas', 2, 2, 2),
+	  ('Ot Mestoprestaplenieto Maqmi', 3, 3, 3),
+	  ('Romantika', 4, 4, 4),
+	  ('Izmislici', 5, 5, 5)
