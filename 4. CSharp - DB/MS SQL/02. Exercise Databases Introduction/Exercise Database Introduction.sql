@@ -182,3 +182,94 @@ VALUES('Komediq', 1, 1, 1),
 	  ('Ot Mestoprestaplenieto Maqmi', 3, 3, 3),
 	  ('Romantika', 4, 4, 4),
 	  ('Izmislici', 5, 5, 5)
+
+-- 14.
+CREATE DATABASE CarRental
+CREATE TABLE Categories
+(
+	Id INT PRIMARY KEY IDENTITY,
+	CategoryName VARCHAR(30) NOT NULL,
+	DailyRate DECIMAL(2,2),
+	WeeklyRate DECIMAL(2,2),
+	MonthlyRate DECIMAL(2,2),
+	WeekendRate DECIMAL(2,2),
+)
+
+CREATE TABLE Cars
+(
+	Id INT PRIMARY KEY IDENTITY,
+	PlateNumber VARCHAR(10) NOT NULL,
+	Manufacturer VARCHAR(30) NOT NULL,
+	Model VARCHAR(20),
+	CarYear SMALLINT NOT NULL,
+	CategoryId INT FOREIGN KEY REFERENCES Categories(Id),
+	Doors TINYINT,
+	Picture VARBINARY(MAX),
+	Condition VARCHAR(20),
+	Available VARCHAR(3) NOT NULL
+		CHECK(Available in('Yes', 'No'))
+)
+
+CREATE TABLE Employees
+(
+	Id INT PRIMARY KEY IDENTITY,
+	FirstName VARCHAR(15) NOT NULL,
+	LastName VARCHAR(15) NOT NULL,
+	Title VARCHAR(15) NOT NULL,
+	Notes VARCHAR(MAX)
+)
+
+CREATE TABLE Customers
+(
+	Id INT PRIMARY KEY IDENTITY,
+	DriverLicenseNumber VARCHAR(20) NOT NULL,
+	FullName VARCHAR(30) NOT NULL,
+	[Address] VARCHAR(30),
+	City VARCHAR(30) NOT NULL,
+	ZIPCode VARCHAR(10),
+	Notes VARCHAR(MAX)
+)
+
+CREATE TABLE RentalOrders
+(
+	Id INT PRIMARY KEY IDENTITY,
+	EmployeeId INT FOREIGN KEY REFERENCES Employees(Id),
+	CustomerId INT FOREIGN KEY REFERENCES Customers(Id),
+	CarId INT FOREIGN KEY REFERENCES Cars(Id),
+	TankLevel DECIMAL(3,2),
+	KilometrageStart INT,
+	KilometrageEnd INT,
+	TotalKilometrage INT,
+	StartDate DATETIME2,
+	EndDate DATETIME2,
+	TotalDays INT,
+	RateApplied DECIMAL(2,2),
+	TaxRate DECIMAL(2,2),
+	OrderStatus VARCHAR(15),
+	Notes VARCHAR(MAX)
+)
+
+INSERT INTO Categories(CategoryName)
+Values('SUV'),
+	  ('Sedan'),
+	  ('Coupe')
+
+INSERT INTO Cars(PlateNumber, Manufacturer, CarYear, Available)
+Values('EH8938BM', 'Volkswagen', 2010, 'Yes'),
+	  ('CB777777', 'Mercedes', 2024, 'No'),
+	  ('XAXAXAXA', 'BMW', 2020, 'No')
+
+INSERT INTO Employees(FirstName, LastName, Title)
+Values('Patrona', 'Lachenov', 'Intern'),
+	  ('Ceco', 'Mercedes', 'Boss'),
+	  ('Vladko', 'Malkiq', 'Assistant')
+
+INSERT INTO Customers(DriverLicenseNumber, FullName, City)
+Values('123456789', 'Petar Petrov', 'Dermanci'),
+	  ('987654321', 'Oceit Petrov', 'Pleven'),
+	  ('123798456', 'Mario Jiviq', 'Karlukovo')
+
+INSERT INTO RentalOrders(EmployeeId, CustomerId, CarId)
+Values(1, 1, 1),
+	  (2, 2, 2),
+	  (3, 3, 3)
