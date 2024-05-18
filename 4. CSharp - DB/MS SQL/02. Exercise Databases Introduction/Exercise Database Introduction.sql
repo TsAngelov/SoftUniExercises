@@ -273,3 +273,126 @@ INSERT INTO RentalOrders(EmployeeId, CustomerId, CarId)
 Values(1, 1, 1),
 	  (2, 2, 2),
 	  (3, 3, 3)
+
+-- 15.
+CREATE DATABASE Hotel
+GO
+
+USE Hotel
+GO
+
+CREATE TABLE Employees
+(
+	Id INT PRIMARY KEY IDENTITY,
+	FirstName VARCHAR(15) NOT NULL,
+	LastName VARCHAR(15) NOT NULL,
+	Title VARCHAR(10),
+	Notes VARCHAR(MAX)
+)
+
+CREATE TABLE Customers
+(
+	AccountNumber INT PRIMARY KEY IDENTITY(1000, 1),
+	FirstName VARCHAR(15) NOT NULL,
+	LastName VARCHAR(15) NOT NULL,
+	PhoneNumber VARCHAR(10),
+	EmergencyName VARCHAR(15),
+	EmergencyNumber VARCHAR(10),
+	Notes VARCHAR(MAX)
+)
+
+CREATE TABLE RoomStatus
+(
+	RoomStatus VARCHAR(3) PRIMARY KEY,
+	Notes VARCHAR(MAX)
+)
+
+CREATE TABLE RoomTypes
+(
+	RoomType VARCHAR(10) PRIMARY KEY,
+	Notes VARCHAR(MAX)
+)
+
+CREATE TABLE BedTypes
+(
+	BedType VARCHAR(10) PRIMARY KEY,
+	Notes VARCHAR(MAX)
+)
+
+CREATE TABLE Rooms
+(
+	RoomNumber INT PRIMARY KEY IDENTITY (100,1),
+	RoomType VARCHAR(10) FOREIGN KEY REFERENCES RoomTypes(RoomType),
+	BedType VARCHAR(10) FOREIGN KEY REFERENCES BedTypes(BedType),
+	Rate DECIMAL(4,2),
+	RoomStatus VARCHAR(3) FOREIGN KEY REFERENCES RoomStatus(RoomStatus),
+	Notes VARCHAR(MAX)
+)
+
+CREATE TABLE Payments
+(
+	Id INT PRIMARY KEY IDENTITY,
+	EmployeeID INT FOREIGN KEY REFERENCES Employees(Id),
+	PaymentDate DATETIME2,
+	AccountNumber INT FOREIGN KEY REFERENCES Customers(AccountNumber),
+	FirstDateOccupied DATETIME2,
+	LastDateOccupied DATETIME2,
+	TotalDays INT,
+	AmountCharged DECIMAL(10,2),
+	TaxRate DECIMAL(4,2),
+	TaxAmount DECIMAL(6,2),
+	PaymentTotal DECIMAL(10,2),
+	Notes VARCHAR(MAX)
+)
+
+CREATE TABLE Occupancies
+(
+	Id INT PRIMARY KEY IDENTITY,
+	EmployeeID INT FOREIGN KEY REFERENCES Employees(Id),
+	DateOccupied DATETIME2,
+	AccountNumber INT FOREIGN KEY REFERENCES Customers(AccountNumber),
+	RoomNumber INT FOREIGN KEY REFERENCES Rooms(RoomNumber),
+	RateApplied DECIMAL(4,2),
+	PhoneCharge DECIMAL(6,2),
+	Notes VARCHAR(MAX)
+)
+
+INSERT INTO Employees(FirstName, LastName)
+VALUES('Partona', 'Patronov'),
+	  ('Ceco', 'Gurba'),
+	  ('Petar', 'Mazdata')
+
+INSERT INTO Customers(FirstName, LastName)
+VALUES('Ocet', 'Petrov'),
+	  ('Mesi', 'Petrov'),
+	  ('Patrona', 'Junior')
+
+INSERT INTO RoomStatus(RoomStatus)
+VALUES('DND'),
+	  ('OCC'),
+	  ('DO')
+
+INSERT INTO RoomTypes(RoomType)
+VALUES('Single'),
+	  ('Double'),
+	  ('King')
+
+INSERT INTO BedTypes(BedType)
+VALUES('Single'),
+	  ('Queen'),
+	  ('King')
+
+INSERT INTO Rooms(RoomType, BedType, RoomStatus)
+VALUES('Single', 'Single', 'DND'),
+	  ('Double', 'Queen', 'OCC'),
+	  ('King', 'King', 'DO')
+
+INSERT INTO Payments(EmployeeID, AccountNumber)
+VALUES(1, 1000),
+	  (2, 1001),
+	  (3, 1002)
+
+INSERT INTO Occupancies(EmployeeID, AccountNumber, RoomNumber)
+VALUES (1, 1000, 100),
+	   (2, 1001, 101),
+	   (3, 1002, 102)
