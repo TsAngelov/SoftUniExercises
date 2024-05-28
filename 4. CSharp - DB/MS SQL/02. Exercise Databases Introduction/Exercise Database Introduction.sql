@@ -396,3 +396,116 @@ INSERT INTO Occupancies(EmployeeID, AccountNumber, RoomNumber)
 VALUES (1, 1000, 100),
 	   (2, 1001, 101),
 	   (3, 1002, 102)
+
+-- 16.
+CREATE DATABASE SoftUni
+GO
+ 
+CREATE TABLE Towns
+(
+	Id INT PRIMARY KEY IDENTITY,
+	[Name] VARCHAR(15) NOT NULL
+)
+ 
+CREATE TABLE Addresses
+(
+	Id INT PRIMARY KEY IDENTITY,
+	AddressText  VARCHAR(15) NOT NULL,
+	TownId INT FOREIGN KEY REFERENCES Towns(Id)
+)
+ 
+CREATE TABLE Departments
+(
+	Id INT PRIMARY KEY IDENTITY,
+	[Name] VARCHAR(15) NOT NULL,
+)
+ 
+CREATE TABLE Employees
+(
+	Id INT PRIMARY KEY IDENTITY,
+	FirstName VARCHAR(15) NOT NULL,
+	MiddleName VARCHAR(15) NOT NULL,
+	LastName VARCHAR(15) NOT NULL,
+	JobTitle VARCHAR(15) NOT NULL,
+	DepartmentID INT FOREIGN KEY REFERENCES Departments(Id),
+	HireDate DATETIME2 NOT NULL,
+	Salary DECIMAL(6,2) NOT NULL,
+	AddressId INT FOREIGN KEY REFERENCES Addresses(Id)
+)
+ 
+-- 18.
+INSERT INTO Towns
+VALUES ('Sofia'),
+	   ('Plovdiv'),
+	   ('Varna'),
+	   ('Burgas')
+ 
+INSERT INTO Departments
+VALUES ('Engineering'),
+	   ('Sales'),
+	   ('Marketing'),
+	   ('SD'),
+	   ('QA')
+ 
+INSERT INTO Addresses
+VALUES ('Ulica', 1)
+ 
+INSERT INTO Employees
+VALUES ('Ivan', 'Ivanov', 'Ivanov', '.NET Dev', 13, '2013-01-01', 3500.00, 1),
+	   ('Petar', 'Petrov', 'Petrov', 'Senior Eng', 10, '2004-03-02', 4000.00, 1),
+	   ('Maria', 'Petrova', 'Ivanova', 'Intern', 14, '2016-08-28', 525.25, 1),
+	   ('Georgi', 'Terziev', 'Ivanov', 'CEO', 11, '2007-12-09', 3000.00, 1),
+	   ('Peter', 'Pan', 'Pan', 'Intern', 12, '2016-08-28', 599.88, 1)
+ 
+-- 19.
+SELECT *
+  FROM Towns
+ 
+SELECT *
+  FROM Departments
+ 
+SELECT *
+  FROM Employees
+ 
+-- 20.
+SELECT *
+  FROM Towns
+ ORDER BY [Name]
+ 
+SELECT *
+  FROM Departments
+ ORDER BY [Name]
+ 
+SELECT *
+  FROM Employees
+ ORDER BY [Salary] DESC
+ 
+-- 21.
+SELECT [Name]
+  FROM Towns
+ ORDER BY [Name]
+ 
+SELECT [Name]
+  FROM Departments
+ ORDER BY [Name]
+ 
+SELECT [FirstName], [LastName], [JobTitle], [Salary]
+  FROM Employees
+ ORDER BY [Salary] DESC
+ 
+-- 22.
+UPDATE Employees
+SET Salary += Salary * 0.1
+ 
+SELECT [Salary]
+  FROM Employees
+ 
+-- 23.
+UPDATE Payments
+SET TaxRate -= TaxRate * 0.03
+ 
+SELECT [TaxRate]
+  FROM Payments
+ 
+-- 24.
+TRUNCATE TABLE Occupancies
