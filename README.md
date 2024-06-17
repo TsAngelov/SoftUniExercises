@@ -20,7 +20,6 @@
 <ul style="margin-left: 10px;">
 <li style="font-size: 40px; list-style-type: disc; color: #d3d3d3; font-weight: bold;">C# Database Module</h3>
 <ul>
-<ul>
 <ul style="margin-left: -40px;">
   <li style="font-size: 30px; list-style-type: disc; color: #d3d3d3;">MS SQL</strong></li>
   <li style="font-size: 30px; list-style-type: disc; color: #d3d3d3;">Entity Framework Core</li>
