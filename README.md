@@ -6,14 +6,17 @@
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 30px; color: #d3d3d3; font-weight: bold;">This repository contains solutions of exercises from SoftUni programming modules.</p>
 
-<h2 align="left" style="font-size: 36px; font-weight: bold; color: #FFA500; margin-bottom: 10px;">Modules</h2>
+<h2 align="left" style="font-family: Georgia; font-size: 36px; font-weight: bold; color: #FFA500; margin-bottom: 10px;">Modules</h2>
 
-<ul style="margin-left: 10px;">
-<li style="font-size: 40px; list-style-type: disc; color: #d3d3d3; font-weight: bold;">C# Programming Module</h3>
-<li style="font-size: 40px; list-style-type: disc; color: #d3d3d3; font-weight: bold;">C# Fundamentals Module</h3>
-<li style="font-size: 40px; list-style-type: disc; color: #d3d3d3; font-weight: bold;">C# Advanced Module</h3>
-<ul>
-<ul style="margin-left: -40px;">
-  <li style="font-size: 30px; list-style-type: disc; color: #d3d3d3;">C# Advanced</strong></li>
-  <li style="font-size: 30px; list-style-type: disc; color: #d3d3d3;">C# OOP</li>
+<li style="font-family: Georgia; font-size: 40px; margin-left: 10px; list-style-type: disc; color: #d3d3d3; font-weight: bold;">C# Programming Module</h3>
+<li style="font-family: Georgia; font-size: 40px; margin-left: 10px; list-style-type: disc; color: #d3d3d3; font-weight: bold;">C# Fundamentals Module</h3>
+<li style="font-family: Georgia; font-size: 40px; margin-left: 10px; list-style-type: disc; color: #d3d3d3; font-weight: bold;">C# Advanced Module</h3>
+<ul style="margin-left: 40px;">
+  <li style="font-family: Georgia; font-size: 30px; list-style-type: square; color: #d3d3d3;">C# Advanced</strong></li>
+  <li style="font-family: Georgia; font-size: 30px; list-style-type: square; color: #d3d3d3;">C# OOP</li>
+</ul>
+<li style="font-family: Georgia; font-size: 40px; margin-left: 10px; list-style-type: disc; color: #d3d3d3; font-weight: bold;">C# Database Module</h3>
+<ul style="margin-left: 40px;">
+  <li style="font-family: Georgia; font-size: 30px; list-style-type: square; color: #d3d3d3;">MS SQL</strong></li>
+  <li style="font-family: Georgia; font-size: 30px; list-style-type: square; color: #d3d3d3;">Entity Framework Core</li>
 </ul>
