@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0194C72E-3418-44A7-AB84-118192B6C8E6}|P02_FootballBettingSystem.Data.Models\\P02_FootballBettingSystem.Data.Models.csproj|d:\\softuni\\4. csharp - db\\2. entity framework core\\06. exercise entity relations\\p02_footballbetting\\p02_footballbettingsystem.data.models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194C72E-3418-44A7-AB84-118192B6C8E6}|P02_FootballBettingSystem.Data.Models\\P02_FootballBettingSystem.Data.Models.csproj|solutionrelative:p02_footballbettingsystem.data.models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB77BD0F-E746-4C0A-B1F0-4910B9ABEAC6}|P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj|d:\\softuni\\4. csharp - db\\2. entity framework core\\06. exercise entity relations\\p02_footballbetting\\p02_footballbetting.common\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB77BD0F-E746-4C0A-B1F0-4910B9ABEAC6}|P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj|solutionrelative:p02_footballbetting.common\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6C457C-8AEE-449A-8307-45A575B0EF0C}|P02_FootballBetting.Data\\P02_FootballBetting.Data.csproj|d:\\softuni\\4. csharp - db\\2. entity framework core\\06. exercise entity relations\\p02_footballbetting\\p02_footballbetting.data\\footballbettingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6C457C-8AEE-449A-8307-45A575B0EF0C}|P02_FootballBetting.Data\\P02_FootballBetting.Data.csproj|solutionrelative:p02_footballbetting.data\\footballbettingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBettingSystem.Data.Models\\Game.cs",
+              "RelativeDocumentMoniker": "P02_FootballBettingSystem.Data.Models\\Game.cs",
+              "ToolTip": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBettingSystem.Data.Models\\Game.cs*",
+              "RelativeToolTip": "P02_FootballBettingSystem.Data.Models\\Game.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:37:46.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationConstants.cs",
+              "DocumentMoniker": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Common\\ValidationConstants.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Common\\ValidationConstants.cs",
+              "ToolTip": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Common\\ValidationConstants.cs",
+              "RelativeToolTip": "P02_FootballBetting.Common\\ValidationConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:18:23.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FootballBettingContext.cs",
+              "DocumentMoniker": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "ToolTip": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:17:29.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\P02_FootballBetting.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj",
+        "projectName": "P02_FootballBetting.Common",
+        "projectPath": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj",
+        "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\P02_FootballBetting.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\P02_FootballBetting.Data.csproj",
+        "projectName": "P02_FootballBetting.Data",
+        "projectPath": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\P02_FootballBetting.Data.csproj",
+        "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBettingSystem.Data.Models\\P02_FootballBettingSystem.Data.Models.csproj": {
+                "projectPath": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBettingSystem.Data.Models\\P02_FootballBettingSystem.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBettingSystem.Data.Models\\P02_FootballBettingSystem.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBettingSystem.Data.Models\\P02_FootballBettingSystem.Data.Models.csproj",
+        "projectName": "P02_FootballBettingSystem.Data.Models",
+        "projectPath": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBettingSystem.Data.Models\\P02_FootballBettingSystem.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\tsang\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBettingSystem.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tsang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj": {
+                "projectPath": "D:\\SoftUni\\4. CSharp - DB\\2. Entity Framework Core\\06. Exercise Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
