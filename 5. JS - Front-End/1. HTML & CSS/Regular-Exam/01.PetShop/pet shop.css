@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+  
+a {
+      color: inherit;
+      text-decoration: none;
+  }
+
+body{
+    font-family: 'Poppins';
+    display: flex;
+    background: white;
+    height: 100vh;
+    align-items: top;
+    justify-content: center;
+    
+}
+
+.petshop{
+    margin: 30px 0px;
+    padding: 30px 80px 30px 80px;
+    width: 95%;
+    height: 55%;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    gap: 50px;
+}
+
+.leftside{
+    position: relative;
+}
+
+.leftside > img{
+    width: 600px;
+}
+
+.rightside{
+    margin: 0px, 0px, 0px, 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.aboutus{
+    padding: 30px;
+    background: #f3f3f3;
+    height: 250px;
+    border-left: 5px solid #7db836;
+}
+
+.aboutus h1{
+    margin-top: 30px;
+    font-size: 55px;
+    font-weight: 550;
+    line-height: 1;
+}
+
+.aboutus p{
+    font-size: 12px;
+    font-weight: bold;
+    color: #93c16c;
+}
+
+.infotext{
+    margin: 20px 0px;
+    text-align: center;
+    color: #727576;
+    font-weight: bold;
+}
+
+.goaltab{
+    background-color: #f3f3f3;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 25px;
+}
+
+.buttons{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+    height: 30%;
+}
+
+.button{
+    flex: 1;
+    height: 100%;
+    text-align: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.selected{
+    background-color: #7ab730;
+    color: white;
+}
+
+.unselected{
+    background-color: #f0f0f0;
+    color: #7ab730;
+}
+
+.info{
+    line-height: 1;
+    font-size: 14.5px;
+    color:#888888;
+}
+
+
+
+

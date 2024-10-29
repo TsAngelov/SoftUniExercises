@@ -1,0 +1,9 @@
+.navbar{
+    background: black;
+}
+.navbar a{
+    color:white
+}
+a[href="#services"] {
+    color:yellow
+}
